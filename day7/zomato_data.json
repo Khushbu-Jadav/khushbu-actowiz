@@ -1,0 +1,1414 @@
+[
+    {
+        "restaurant_id": 22452601,
+        "restaurant_name": "Sahtain",
+        "restaurant_url": "https://www.zomato.com/ahmedabad/sahtain-ambli/order",
+        "restaurant_contact": "+919227989587",
+        "fssai_licence_number": "Lic. No. 10725026001346",
+        "address_info": {
+            "full_address": "TP 212, FP 13, Survey 318, Iscon Road, Near Indian Oil Petrol Pump, Ambli, Ahmedabad",
+            "region": "India",
+            "city": "Ahmedabad",
+            "pincode": "380058",
+            "state": null
+        },
+        "cuisines": [
+            {
+                "name": "Continental",
+                "url": "https://www.zomato.com/ahmedabad/restaurants/continental/"
+            },
+            {
+                "name": "Middle Eastern",
+                "url": "https://www.zomato.com/ahmedabad/restaurants/middle-eastern/"
+            },
+            {
+                "name": "Arabian",
+                "url": "https://www.zomato.com/ahmedabad/restaurants/arabian/"
+            },
+            {
+                "name": "Chinese",
+                "url": "https://www.zomato.com/ahmedabad/restaurants/chinese/"
+            },
+            {
+                "name": "Italian",
+                "url": "https://www.zomato.com/ahmedabad/restaurants/italian/"
+            },
+            {
+                "name": "Pizza",
+                "url": "https://www.zomato.com/ahmedabad/restaurants/pizza/"
+            },
+            {
+                "name": "Pasta",
+                "url": "https://www.zomato.com/ahmedabad/restaurants/pasta/"
+            },
+            {
+                "name": "Fast Food",
+                "url": "https://www.zomato.com/ahmedabad/restaurants/fast-food/"
+            }
+        ],
+        "timings": {
+            "monday": {
+                "opening": "12noon",
+                "closing": "11pm"
+            },
+            "tuesday": {
+                "opening": "12noon",
+                "closing": "11pm"
+            },
+            "wednesday": {
+                "opening": "12noon",
+                "closing": "11pm"
+            },
+            "thursday": {
+                "opening": "12noon",
+                "closing": "11pm"
+            },
+            "friday": {
+                "opening": "12noon",
+                "closing": "11pm"
+            },
+            "saturday": {
+                "opening": "12noon",
+                "closing": "11pm"
+            },
+            "sunday": {
+                "opening": "12noon",
+                "closing": "11pm"
+            }
+        },
+        "menu_categories": [
+            {
+                "category": [
+                    {
+                        "name": "Soups",
+                        "items": [
+                            {
+                                "item_id": "ctl_763992100",
+                                "item_name": "Mushroom Shorba",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "sf-spicy",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Caraway, Aleppo pepper, pickled shimeji.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992101",
+                                "item_name": "Chilled Cucumber and Kefir Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Kefir, preserved lemon, puffed Bulgur wheat.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992102",
+                                "item_name": "Creamy Mushroom Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Black and white pepper, basil, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992103",
+                                "item_name": "Lentil Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled",
+                                    "dt-breakfast"
+                                ],
+                                "item_url": "",
+                                "item_description": "Yellow split lentils, cumin, coriander, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992104",
+                                "item_name": "Harira Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Red lentils, chickpeas, smoked artichoke, date, almonds.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Salads",
+                        "items": [
+                            {
+                                "item_id": "ctl_763992100",
+                                "item_name": "Mushroom Shorba",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "sf-spicy",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Caraway, Aleppo pepper, pickled shimeji.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992101",
+                                "item_name": "Chilled Cucumber and Kefir Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Kefir, preserved lemon, puffed Bulgur wheat.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992102",
+                                "item_name": "Creamy Mushroom Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Black and white pepper, basil, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992103",
+                                "item_name": "Lentil Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled",
+                                    "dt-breakfast"
+                                ],
+                                "item_url": "",
+                                "item_description": "Yellow split lentils, cumin, coriander, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992104",
+                                "item_name": "Harira Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Red lentils, chickpeas, smoked artichoke, date, almonds.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "category": [
+                    {
+                        "name": "Soups",
+                        "items": [
+                            {
+                                "item_id": "ctl_763992100",
+                                "item_name": "Mushroom Shorba",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "sf-spicy",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Caraway, Aleppo pepper, pickled shimeji.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992101",
+                                "item_name": "Chilled Cucumber and Kefir Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Kefir, preserved lemon, puffed Bulgur wheat.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992102",
+                                "item_name": "Creamy Mushroom Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Black and white pepper, basil, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992103",
+                                "item_name": "Lentil Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled",
+                                    "dt-breakfast"
+                                ],
+                                "item_url": "",
+                                "item_description": "Yellow split lentils, cumin, coriander, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992104",
+                                "item_name": "Harira Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Red lentils, chickpeas, smoked artichoke, date, almonds.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Salads",
+                        "items": [
+                            {
+                                "item_id": "ctl_763992100",
+                                "item_name": "Mushroom Shorba",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "sf-spicy",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Caraway, Aleppo pepper, pickled shimeji.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992101",
+                                "item_name": "Chilled Cucumber and Kefir Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Kefir, preserved lemon, puffed Bulgur wheat.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992102",
+                                "item_name": "Creamy Mushroom Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Black and white pepper, basil, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992103",
+                                "item_name": "Lentil Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled",
+                                    "dt-breakfast"
+                                ],
+                                "item_url": "",
+                                "item_description": "Yellow split lentils, cumin, coriander, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992104",
+                                "item_name": "Harira Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Red lentils, chickpeas, smoked artichoke, date, almonds.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "category": [
+                    {
+                        "name": "Soups",
+                        "items": [
+                            {
+                                "item_id": "ctl_763992100",
+                                "item_name": "Mushroom Shorba",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "sf-spicy",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Caraway, Aleppo pepper, pickled shimeji.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992101",
+                                "item_name": "Chilled Cucumber and Kefir Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Kefir, preserved lemon, puffed Bulgur wheat.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992102",
+                                "item_name": "Creamy Mushroom Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Black and white pepper, basil, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992103",
+                                "item_name": "Lentil Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled",
+                                    "dt-breakfast"
+                                ],
+                                "item_url": "",
+                                "item_description": "Yellow split lentils, cumin, coriander, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992104",
+                                "item_name": "Harira Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Red lentils, chickpeas, smoked artichoke, date, almonds.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Salads",
+                        "items": [
+                            {
+                                "item_id": "ctl_763992100",
+                                "item_name": "Mushroom Shorba",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "sf-spicy",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Caraway, Aleppo pepper, pickled shimeji.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992101",
+                                "item_name": "Chilled Cucumber and Kefir Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Kefir, preserved lemon, puffed Bulgur wheat.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992102",
+                                "item_name": "Creamy Mushroom Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Black and white pepper, basil, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992103",
+                                "item_name": "Lentil Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled",
+                                    "dt-breakfast"
+                                ],
+                                "item_url": "",
+                                "item_description": "Yellow split lentils, cumin, coriander, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992104",
+                                "item_name": "Harira Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Red lentils, chickpeas, smoked artichoke, date, almonds.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "category": [
+                    {
+                        "name": "Soups",
+                        "items": [
+                            {
+                                "item_id": "ctl_763992100",
+                                "item_name": "Mushroom Shorba",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "sf-spicy",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Caraway, Aleppo pepper, pickled shimeji.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992101",
+                                "item_name": "Chilled Cucumber and Kefir Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Kefir, preserved lemon, puffed Bulgur wheat.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992102",
+                                "item_name": "Creamy Mushroom Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Black and white pepper, basil, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992103",
+                                "item_name": "Lentil Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled",
+                                    "dt-breakfast"
+                                ],
+                                "item_url": "",
+                                "item_description": "Yellow split lentils, cumin, coriander, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992104",
+                                "item_name": "Harira Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Red lentils, chickpeas, smoked artichoke, date, almonds.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Salads",
+                        "items": [
+                            {
+                                "item_id": "ctl_763992100",
+                                "item_name": "Mushroom Shorba",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "sf-spicy",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Caraway, Aleppo pepper, pickled shimeji.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992101",
+                                "item_name": "Chilled Cucumber and Kefir Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Kefir, preserved lemon, puffed Bulgur wheat.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992102",
+                                "item_name": "Creamy Mushroom Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Black and white pepper, basil, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992103",
+                                "item_name": "Lentil Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled",
+                                    "dt-breakfast"
+                                ],
+                                "item_url": "",
+                                "item_description": "Yellow split lentils, cumin, coriander, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992104",
+                                "item_name": "Harira Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Red lentils, chickpeas, smoked artichoke, date, almonds.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "category": [
+                    {
+                        "name": "Soups",
+                        "items": [
+                            {
+                                "item_id": "ctl_763992100",
+                                "item_name": "Mushroom Shorba",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "sf-spicy",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Caraway, Aleppo pepper, pickled shimeji.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992101",
+                                "item_name": "Chilled Cucumber and Kefir Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Kefir, preserved lemon, puffed Bulgur wheat.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992102",
+                                "item_name": "Creamy Mushroom Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Black and white pepper, basil, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992103",
+                                "item_name": "Lentil Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled",
+                                    "dt-breakfast"
+                                ],
+                                "item_url": "",
+                                "item_description": "Yellow split lentils, cumin, coriander, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992104",
+                                "item_name": "Harira Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Red lentils, chickpeas, smoked artichoke, date, almonds.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Salads",
+                        "items": [
+                            {
+                                "item_id": "ctl_763992100",
+                                "item_name": "Mushroom Shorba",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "sf-spicy",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Caraway, Aleppo pepper, pickled shimeji.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992101",
+                                "item_name": "Chilled Cucumber and Kefir Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Kefir, preserved lemon, puffed Bulgur wheat.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992102",
+                                "item_name": "Creamy Mushroom Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Black and white pepper, basil, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992103",
+                                "item_name": "Lentil Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled",
+                                    "dt-breakfast"
+                                ],
+                                "item_url": "",
+                                "item_description": "Yellow split lentils, cumin, coriander, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992104",
+                                "item_name": "Harira Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Red lentils, chickpeas, smoked artichoke, date, almonds.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "category": [
+                    {
+                        "name": "Soups",
+                        "items": [
+                            {
+                                "item_id": "ctl_763992100",
+                                "item_name": "Mushroom Shorba",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "sf-spicy",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Caraway, Aleppo pepper, pickled shimeji.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992101",
+                                "item_name": "Chilled Cucumber and Kefir Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Kefir, preserved lemon, puffed Bulgur wheat.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992102",
+                                "item_name": "Creamy Mushroom Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Black and white pepper, basil, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992103",
+                                "item_name": "Lentil Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled",
+                                    "dt-breakfast"
+                                ],
+                                "item_url": "",
+                                "item_description": "Yellow split lentils, cumin, coriander, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992104",
+                                "item_name": "Harira Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Red lentils, chickpeas, smoked artichoke, date, almonds.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Salads",
+                        "items": [
+                            {
+                                "item_id": "ctl_763992100",
+                                "item_name": "Mushroom Shorba",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "sf-spicy",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Caraway, Aleppo pepper, pickled shimeji.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992101",
+                                "item_name": "Chilled Cucumber and Kefir Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Kefir, preserved lemon, puffed Bulgur wheat.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992102",
+                                "item_name": "Creamy Mushroom Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Black and white pepper, basil, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992103",
+                                "item_name": "Lentil Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled",
+                                    "dt-breakfast"
+                                ],
+                                "item_url": "",
+                                "item_description": "Yellow split lentils, cumin, coriander, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992104",
+                                "item_name": "Harira Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Red lentils, chickpeas, smoked artichoke, date, almonds.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "category": [
+                    {
+                        "name": "Soups",
+                        "items": [
+                            {
+                                "item_id": "ctl_763992100",
+                                "item_name": "Mushroom Shorba",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "sf-spicy",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Caraway, Aleppo pepper, pickled shimeji.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992101",
+                                "item_name": "Chilled Cucumber and Kefir Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Kefir, preserved lemon, puffed Bulgur wheat.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992102",
+                                "item_name": "Creamy Mushroom Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Black and white pepper, basil, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992103",
+                                "item_name": "Lentil Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled",
+                                    "dt-breakfast"
+                                ],
+                                "item_url": "",
+                                "item_description": "Yellow split lentils, cumin, coriander, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992104",
+                                "item_name": "Harira Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Red lentils, chickpeas, smoked artichoke, date, almonds.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Salads",
+                        "items": [
+                            {
+                                "item_id": "ctl_763992100",
+                                "item_name": "Mushroom Shorba",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "sf-spicy",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Caraway, Aleppo pepper, pickled shimeji.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992101",
+                                "item_name": "Chilled Cucumber and Kefir Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Kefir, preserved lemon, puffed Bulgur wheat.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992102",
+                                "item_name": "Creamy Mushroom Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Black and white pepper, basil, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992103",
+                                "item_name": "Lentil Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled",
+                                    "dt-breakfast"
+                                ],
+                                "item_url": "",
+                                "item_description": "Yellow split lentils, cumin, coriander, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992104",
+                                "item_name": "Harira Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Red lentils, chickpeas, smoked artichoke, date, almonds.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "category": [
+                    {
+                        "name": "Soups",
+                        "items": [
+                            {
+                                "item_id": "ctl_763992100",
+                                "item_name": "Mushroom Shorba",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "sf-spicy",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Caraway, Aleppo pepper, pickled shimeji.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992101",
+                                "item_name": "Chilled Cucumber and Kefir Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Kefir, preserved lemon, puffed Bulgur wheat.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992102",
+                                "item_name": "Creamy Mushroom Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Black and white pepper, basil, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992103",
+                                "item_name": "Lentil Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled",
+                                    "dt-breakfast"
+                                ],
+                                "item_url": "",
+                                "item_description": "Yellow split lentils, cumin, coriander, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992104",
+                                "item_name": "Harira Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Red lentils, chickpeas, smoked artichoke, date, almonds.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Salads",
+                        "items": [
+                            {
+                                "item_id": "ctl_763992100",
+                                "item_name": "Mushroom Shorba",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "sf-spicy",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Caraway, Aleppo pepper, pickled shimeji.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992101",
+                                "item_name": "Chilled Cucumber and Kefir Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Kefir, preserved lemon, puffed Bulgur wheat.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992102",
+                                "item_name": "Creamy Mushroom Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Black and white pepper, basil, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992103",
+                                "item_name": "Lentil Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled",
+                                    "dt-breakfast"
+                                ],
+                                "item_url": "",
+                                "item_description": "Yellow split lentils, cumin, coriander, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992104",
+                                "item_name": "Harira Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Red lentils, chickpeas, smoked artichoke, date, almonds.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "category": [
+                    {
+                        "name": "Soups",
+                        "items": [
+                            {
+                                "item_id": "ctl_763992100",
+                                "item_name": "Mushroom Shorba",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "sf-spicy",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Caraway, Aleppo pepper, pickled shimeji.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992101",
+                                "item_name": "Chilled Cucumber and Kefir Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Kefir, preserved lemon, puffed Bulgur wheat.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992102",
+                                "item_name": "Creamy Mushroom Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Black and white pepper, basil, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992103",
+                                "item_name": "Lentil Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled",
+                                    "dt-breakfast"
+                                ],
+                                "item_url": "",
+                                "item_description": "Yellow split lentils, cumin, coriander, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992104",
+                                "item_name": "Harira Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Red lentils, chickpeas, smoked artichoke, date, almonds.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Salads",
+                        "items": [
+                            {
+                                "item_id": "ctl_763992100",
+                                "item_name": "Mushroom Shorba",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "sf-spicy",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Caraway, Aleppo pepper, pickled shimeji.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992101",
+                                "item_name": "Chilled Cucumber and Kefir Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Kefir, preserved lemon, puffed Bulgur wheat.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992102",
+                                "item_name": "Creamy Mushroom Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Black and white pepper, basil, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992103",
+                                "item_name": "Lentil Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled",
+                                    "dt-breakfast"
+                                ],
+                                "item_url": "",
+                                "item_description": "Yellow split lentils, cumin, coriander, lemon.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            },
+                            {
+                                "item_id": "ctl_763992104",
+                                "item_name": "Harira Soup",
+                                "item_slugs": [
+                                    "veg",
+                                    "services",
+                                    "delivery-enabled"
+                                ],
+                                "item_url": "",
+                                "item_description": "Red lentils, chickpeas, smoked artichoke, date, almonds.",
+                                "item_price": 0.0,
+                                "is_veg": true
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
