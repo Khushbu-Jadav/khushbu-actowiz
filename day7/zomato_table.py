@@ -11,7 +11,6 @@ conn = mysql.connector.connect(
 
 cursor = conn.cursor()
 
-
 with open(r"C:\python practice\day7\zomato_data.json", "r", encoding="utf-8") as f:
     data = json.load(f)[0]['menu_categories']
 
