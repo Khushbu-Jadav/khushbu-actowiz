@@ -1,0 +1,65 @@
+{
+  "people": [
+    {"first": "James", "last": "d"},
+    {"first": "Jacob", "last": "e"},
+    {"first": "Jayden", "last": "f"},
+    {"missing": "different"},
+
+    {
+      "age": 20,
+      "other": "foo",
+      "name": "Bob"
+    },
+    {
+      "age": 25,
+      "other": "bar",
+      "name": "Fred"
+    },
+    {
+      "age": 30,
+      "other": "baz",
+      "name": "George"
+    }
+  ],
+
+   "ops": {
+    "functionA": {"numArgs": 2},
+    "functionB": {"numArgs": 3},
+    "functionC": {"variadic": true}
+  },
+
+    "reservations": [
+    {
+      "instances": [
+        {"state": "running"},
+        {"state": "stopped"}
+      ]
+    },
+    {
+      "instances": [
+        {"state": "terminated"},
+        {"state": "running"}
+      ]
+    }
+  ],
+
+  "machines": [
+    {"name": "a", "state": "running"},
+    {"name": "b", "state": "stopped"},
+    {"name": "c", "state": "running"}
+  ],
+  "person": [
+    {
+      "name": "a",
+      "state": {"name": "up"}
+    },
+    {
+      "name": "b",
+      "state": {"name": "down"}
+    },
+    {
+      "name": "c",
+      "state": {"name": "up"}
+    }
+  ]
+}
