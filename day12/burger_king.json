@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Burger King",
+        "restarant_address": "Unit No RCK 4, Metro Station Rajiv Chowk New Delhi",
+        "pincode": "110001",
+        "timing": "Open until 11:00 PM",
+        "phone_number": "+918655885630",
+        "map": "https://stores.burgerking.in/burger-king-fast-food-restaurant-rajiv-chowk-new-delhi-305469/Home",
+        "website_link": "https://stores.burgerking.in/burger-king-fast-food-restaurant-rajiv-chowk-new-delhi-305469/Home"
+    },
+    {
+        "name": "Burger King",
+        "restarant_address": "Shop No RCK 01 Rajiv     Chowk New     Delhi",
+        "pincode": "110001",
+        "timing": "Open until 11:00 PM",
+        "phone_number": "+911123415042",
+        "map": "https://stores.burgerking.in/burger-king-fast-food-restaurant-rajiv-chowk-new-delhi-179329/Home",
+        "website_link": "https://stores.burgerking.in/burger-king-fast-food-restaurant-rajiv-chowk-new-delhi-179329/Home"
+    },
+    {
+        "name": "Burger King",
+        "restarant_address": "No E8, Ground & Mezzanine Floor, Rajiv Chowk, Inner Circle Connaught Place New Delhi",
+        "pincode": "110001",
+        "timing": "Open until 11:59 PM",
+        "phone_number": "+911143509889",
+        "map": "https://stores.burgerking.in/burger-king-fast-food-restaurant-connaught-place-new-delhi-179257/Home",
+        "website_link": "https://stores.burgerking.in/burger-king-fast-food-restaurant-connaught-place-new-delhi-179257/Home"
+    },
+    {
+        "name": "Burger King",
+        "restarant_address": "No 68, Ground Floor, Janpath Connaught Place New Delhi",
+        "pincode": "110001",
+        "timing": "Open until 11:00 PM",
+        "phone_number": "+919653270328",
+        "map": "https://stores.burgerking.in/burger-king-fast-food-restaurant-connaught-place-new-delhi-446645/Home",
+        "website_link": "https://stores.burgerking.in/burger-king-fast-food-restaurant-connaught-place-new-delhi-446645/Home"
+    },
+    {
+        "name": "Burger King",
+        "restarant_address": "No 13/29 & 13/30, Ajmal Khan Road Karol Bagh New Delhi",
+        "pincode": "110005",
+        "timing": "Open until 11:00 PM",
+        "phone_number": "+911149045132",
+        "map": "https://stores.burgerking.in/burger-king-fast-food-restaurant-karol-bagh-new-delhi-179260/Home",
+        "website_link": "https://stores.burgerking.in/burger-king-fast-food-restaurant-karol-bagh-new-delhi-179260/Home"
+    },
+    {
+        "name": "Burger King",
+        "restarant_address": "Food Court Counter No 1, Ground Floor, Golden Quadrilateral Dhaula Kuan New Delhi",
+        "pincode": "110006",
+        "timing": "Open until 11:59 PM",
+        "phone_number": "+918373913581",
+        "map": "https://stores.burgerking.in/burger-king-fast-food-restaurant-dhaula-kuan-new-delhi-179440/Home",
+        "website_link": "https://stores.burgerking.in/burger-king-fast-food-restaurant-dhaula-kuan-new-delhi-179440/Home"
+    }
+]
