@@ -11,7 +11,7 @@ for i in range(1,11):
     response=requests.get(url)
     tree=html.fromstring(response.content)
     quotes=tree.xpath("//div[contains(@class,'quote')]")
-  
+ 
     for quote in quotes:
         line=quote.xpath(".//span[contains(@class,'text')]/text()")[0]
         author=quote.xpath(".//small[@class='author']/text()")[0]

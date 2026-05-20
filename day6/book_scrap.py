@@ -1,7 +1,7 @@
 import re
 url = "https://books.toscrape.com/"
 
-with open('book_to_scrap.html','r')as f:
+with open(r'C:\python practice\day6\book_to_scrap.html','r')as f:
     data = f.read()
 
 

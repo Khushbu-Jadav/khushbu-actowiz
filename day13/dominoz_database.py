@@ -19,7 +19,6 @@ with open(r"C:\python practice\day13\dominoz_loc_data.json", "r", encoding="utf-
                        d.get("city_name"),d.get("address"),d.get("pincode"),d.get("delivery_in"),
                        d.get("cost"),d.get("hours"),d.get("good_for"),d.get("phone_number"),d.get("view_menu"),
                        d.get("order_now"))
-
         try:
                     cursor.execute("""
                                 INSERT INTO pizza_data(
@@ -42,7 +41,6 @@ with open(r"C:\python practice\day13\dominoz_loc_data.json", "r", encoding="utf-
                     print(" Data inserted successfully!")
         except Exception as e:
                     print(" Error inserting:", e)
-
 conn.commit()
 cursor.close()
 conn.close()

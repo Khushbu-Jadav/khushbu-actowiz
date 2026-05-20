@@ -1,24 +1,38 @@
 from lxml import html
 from rich import print
+import requests
+import json
 
-with open(r'C:\python practice\day11\book_to_scrap.html','r',encoding='utf-8')as f:
-    data = f.read()
-
-tree=html.fromstring(data)
+base_url="https://books.toscrape.com/"
 book_data=[]
-books=tree.xpath("//article")
 
+for i in range(1,51):
+    url=f"{base_url}/catalogue/page-{i}.html"
+    response=requests.get(url)
+    tree=html.fromstring(response.content)
+    books=tree.xpath("//article")
 
-book_title=tree.xpath("//article//h3//a/@title")
-book_price=tree.xpath("//article//div//p[@class='price_color']/text()")  
+    for book in books:
+        book_title=book.xpath(".//h3//a/@title")[0]
+        img_url=book.xpath(".//div[@class='image_container']/a/img/@src")[0]
+        image_url=base_url+img_url
+        book_price=book.xpath(".//div//p[@class='price_color']/text()")[0]
+        in_stock=book.xpath(".//p[@class='instock availability']//text()")[1].strip()
+        rating=book.xpath(".//p[starts-with(@class,'star-rating')]/@class")[0].split(" ")[-1]
 
-book_data.append({
-        "book_title":book_title,
-        "book_price":book_price
-} )
+        book_data.append({
+            "book_title":book_title,
+            "image_url":image_url,
+            "book_price":book_price,
+            "in_stock":in_stock,
+            "rating":rating
+        })
     
 print(book_data)
+print(len(book_data))
 
+with open(r"C:\python practice\day11\book_scrap.json","w",encoding='utf-8') as f:
+    json.dump(book_data,f,indent=4,ensure_ascii=False)
 
 
 # <!-- <bookstore> (root element node)

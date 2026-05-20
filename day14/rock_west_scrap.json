@@ -1,0 +1,27 @@
+[
+    {
+        "product_name": "Angle - 90 Degree Sharp - 1.50\" Legs x 0.08\" Thick x 12\"",
+        "product_link": "https://www.rockwestcomposites.com/808-150-12.html",
+        "product_sku": "808-150-12",
+        "product_price": "37.99",
+        "product_quantity": "7",
+        "is_available": true,
+        "product_additional_info": [
+            {
+                "application": "General Purpose",
+                "materials": "Carbon Fiber",
+                "pattern": "3k 2X2 Twill Weave",
+                "angle_corner_style": "Sharp",
+                "angle_degree": "90",
+                "angle_finish": "Cello Gloss Outside / Smooth Matte Inside",
+                "angle_leg_length": "1.50",
+                "angle_thickness": "0.08",
+                "thickness": "0.08",
+                "length": "12",
+                "length(max_continous)": "12.0",
+                "max_operating_temp(tg)": "250F to 274F",
+                "HTS - Harmonized Tariff Code": "6815.13.0000"
+            }
+        ]
+    }
+]

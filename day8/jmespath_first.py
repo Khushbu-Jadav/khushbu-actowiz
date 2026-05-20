@@ -2,7 +2,7 @@ import json
 import jmespath
 from rich import print
 
-with open(r"first.json","r",encoding='utf-8') as f:
+with open(r"C:\python practice\day8\first.json","r",encoding='utf-8') as f:
     data=json.load(f)
 
 result=jmespath.search('people[?age>`20`].[name,age]', data)
@@ -27,13 +27,14 @@ print(jmespath.search("reservations[].instances[].state",data))
 #A filter projection allows you to filter the LHS of the projection before evaluating the RHS of a projection
 print(jmespath.search("machines[?state=='running'].name",data))
 print(jmespath.search("machines[?state=='stopped'].name",data))
-
+print("\n")
 #Pipe Expressions
 #pipe expression, <expression> | <expression>, to indicate that a projection must stop.
 #If you tried people[*].first[0] that you just evaluate first[0] for each element in the people array,
 #and because indexing is not defined for strings, the final result would be an empty array, []
 print(jmespath.search("people[*].first[0]",data))
 print(jmespath.search("people[*].first | [0]",data))
+print(jmespath.search("people[*].first",data))
 print('\n')
 #Multiselect
 #A multiselect list creates a list and a multiselect hash creates a JSON object.
