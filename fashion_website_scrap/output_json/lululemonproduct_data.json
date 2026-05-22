@@ -5,13 +5,13 @@
     "product_price": "₹6,080",
     "product_category": "womens-tank-tops",
     "product_size": [
-        "XL",
-        "XS",
-        "XXS",
-        "S",
-        "M",
         "XXXS",
-        "L"
+        "XL",
+        "L",
+        "XXS",
+        "XS",
+        "S",
+        "M"
     ],
     "image_url": [
         "https://images.lululemon.com/is/image/lululemon/LW1GBUS_035955_1?size=1200,1200",
