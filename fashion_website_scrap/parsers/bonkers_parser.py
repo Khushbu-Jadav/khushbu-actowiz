@@ -23,3 +23,4 @@ def parse_product_page(html,product_url):
         "image_url": image_url,
         "description": description
     }
+

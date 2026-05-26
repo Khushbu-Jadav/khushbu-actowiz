@@ -70,5 +70,3 @@ for site in websites:
         print(response["error"])
 
 
-
-

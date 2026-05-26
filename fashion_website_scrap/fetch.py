@@ -28,6 +28,7 @@ class Request_Data:
     else:
       raise ValueError("url not given.")
   
+  
   def save_data_into_file(self, content ,file_name):
     full_path = self.path + file_name
     print(full_path)

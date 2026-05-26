@@ -1,6 +1,5 @@
 import mysql.connector as my_connector
 
-
 def connect_to_database(database=None):
   return my_connector.connect(
     user="root",
@@ -8,7 +7,6 @@ def connect_to_database(database=None):
     password="actowiz",
     database=database
   )
-
 
 def execute_query(database=None, query=None, values=None, many=False):
   if not query:
