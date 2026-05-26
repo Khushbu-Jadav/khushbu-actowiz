@@ -2,7 +2,6 @@ import re
 
 b="khushbujadavactowiz@gmail.com"
 
-
 #search method gives the index of pattern's first occurence
 #the "r" in the beginning is making sure that the string is being treated as a "raw string"
 
@@ -92,6 +91,7 @@ print(re.findall(r"he.{2}o","hello"))
 #| Either or
 print(re.findall(r"India|Spain",txt))
 
+#()	Capture and group
 
 #flags
 
@@ -175,3 +175,46 @@ print(re.findall(r"\D", text))
 print(re.findall(r"\s", text))
 #\S: Returns a match where the string DOES NOT contain a white space character
 print(re.findall(r"\S",text))
+
+#\w: Returns a match where the string contains any word characters (characters from a to Z, digits from 0-9, and the underscore _ character)
+print(re.findall(r"\w",text))
+#\W: Returns a match where the string DOES NOT contain any word characters
+print(re.findall(r"\W",text))
+#\Z: Returns a match if the specified characters are at the end of the string
+print(re.findall(r"plain\Z",text))
+print(re.findall(r"abc\Z",text)) #returns [] if not match
+
+#[arn]:	Returns a match where one of the specified characters (a, r, or n) is present
+print(re.findall(r"[arn]",text))
+#[a-n]: Returns a match for any lower case character, alphabetically between a and n
+print(re.findall(r"[a-k]",text))
+#[^arn]: Returns a match for any character EXCEPT a, r, and n
+print(re.findall(r"[^abc]",text))
+
+num="123456+"
+#[0123]: Returns a match where any of the specified digits (0, 1, 2, or 3) are present
+print(re.findall(r"[0123]",num))
+#Returns a match for any digit between 0 and 9
+print(re.findall(r"[0-9]",num))
+#[0-5][0-9]	Returns a match for any two-digit numbers from 00 and 59
+print(re.findall(r"[0-5][0-9]",num))
+#[a-zA-Z] Returns a match for any character alphabetically between a and z, lower case OR upper case
+time = "8 times before 11:45 AM"
+print(re.findall(r"[a-zA-Z]",time))
+#[+]: In sets, +, *, ., |, (), $,{} has no special meaning, so [+] means: return a match for any + character in the string
+print(re.findall(r"[+]",num))
+
+##The search() function returns a Match object
+#if there is no match, the value None will be returned, instead of the Match Object
+print(re.search(r"6+",num))
+
+#.span() returns a tuple containing the start-, and end positions (index) of the match.
+new_txt="The rain in Spain"
+x=re.search(r"\bS\w+",new_txt)
+print(x.span())
+print(x.string)
+print(x.group())
+#string is a property not a function
+#.string returns the string passed into the function
+#.group() returns the part of the string where there was a match
+#Search for an upper case "S" character in the beginning of a word, and print the word

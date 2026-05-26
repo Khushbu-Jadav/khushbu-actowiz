@@ -1,0 +1,4711 @@
+{
+  "total": 1223,
+  "items": 48,
+  "currency": "USD",
+  "pageMetaData": {
+    "og:title": {
+      "type": "property"
+    },
+    "description": {
+      "type": "name"
+    },
+    "title": {
+      "type": "title"
+    },
+    "og:description": {
+      "type": "property"
+    },
+    "keywords": {
+      "type": "name"
+    }
+  },
+  "pageHeaderData": {},
+  "filters": [
+    {
+      "code": "lowCurrent",
+      "label": "Shop By Price",
+      "layout": "Checkbox",
+      "options": [
+        {
+          "id": "[0 TO 25]",
+          "label": "$0 - $25",
+          "items": 39
+        },
+        {
+          "id": "[25 TO 50]",
+          "label": "$25 - $50",
+          "items": 302
+        },
+        {
+          "id": "[50 TO 75]",
+          "label": "$50 - $75",
+          "items": 407
+        },
+        {
+          "id": "[75 TO 100]",
+          "label": "$75 - $100",
+          "items": 371
+        },
+        {
+          "id": "[100 TO 125]",
+          "label": "$100 - $125",
+          "items": 119
+        },
+        {
+          "id": "[125 TO *]",
+          "label": "OVER $125",
+          "items": 106
+        }
+      ]
+    },
+    {
+      "code": "Gender",
+      "label": "Gender",
+      "layout": "Checkbox",
+      "options": [
+        {
+          "id": "Men",
+          "items": 695,
+          "label": "Men"
+        },
+        {
+          "id": "Women",
+          "items": 528,
+          "label": "Women"
+        },
+        {
+          "id": "Boys",
+          "items": 148,
+          "label": "Boys"
+        },
+        {
+          "id": "Girls",
+          "items": 112,
+          "label": "Girls"
+        }
+      ]
+    },
+    {
+      "code": "Product Type",
+      "label": "Product Type",
+      "layout": "Checkbox",
+      "options": [
+        {
+          "id": "Shoes",
+          "items": 1193,
+          "label": "Shoes"
+        },
+        {
+          "id": "Accessories",
+          "items": 29,
+          "label": "Accessories"
+        },
+        {
+          "id": "Clothing",
+          "items": 1,
+          "label": "Clothing"
+        }
+      ]
+    },
+    {
+      "code": "Style",
+      "label": "Style",
+      "layout": "Checkbox",
+      "options": [
+        {
+          "id": "Low Top",
+          "items": 948,
+          "label": "Low Top"
+        },
+        {
+          "id": "High Top",
+          "items": 85,
+          "label": "High Top"
+        },
+        {
+          "id": "Mid Top",
+          "items": 48,
+          "label": "Mid Top"
+        },
+        {
+          "id": "Embroidery",
+          "items": 15,
+          "label": "Embroidery"
+        },
+        {
+          "id": "Snowboard",
+          "items": 47,
+          "label": "Snowboard"
+        },
+        {
+          "id": "Alternative Closure",
+          "items": 32,
+          "label": "Alternative Closure"
+        },
+        {
+          "id": "Platforms",
+          "items": 28,
+          "label": "Platforms"
+        },
+        {
+          "id": "Sandals",
+          "items": 17,
+          "label": "Sandals"
+        },
+        {
+          "id": "Mary Jane",
+          "items": 9,
+          "label": "Mary Jane"
+        },
+        {
+          "id": "Mules",
+          "items": 9,
+          "label": "Mules"
+        },
+        {
+          "id": "Boat",
+          "items": 5,
+          "label": "Boat"
+        },
+        {
+          "id": "Creeper",
+          "items": 5,
+          "label": "Creeper"
+        },
+        {
+          "id": "Loafer",
+          "items": 5,
+          "label": "Loafer"
+        },
+        {
+          "id": "Slides",
+          "items": 3,
+          "label": "Slides"
+        },
+        {
+          "id": "Slippers",
+          "items": 2,
+          "label": "Slippers"
+        },
+        {
+          "id": "Surf",
+          "items": 2,
+          "label": "Surf"
+        },
+        {
+          "id": "Ringer",
+          "items": 1,
+          "label": "Ringer"
+        },
+        {
+          "id": "Short Sleeve",
+          "items": 1,
+          "label": "Short Sleeve"
+        }
+      ]
+    },
+    {
+      "code": "Shop By",
+      "label": "Shop By",
+      "layout": "Checkbox",
+      "options": [
+        {
+          "id": "Buy More Save More",
+          "items": 873,
+          "label": "Buy More Save More"
+        },
+        {
+          "id": "Coming Soon",
+          "items": 2,
+          "label": "Coming Soon"
+        },
+        {
+          "id": "Final Sale. No Returns.",
+          "items": 53,
+          "label": "Final Sale. No Returns."
+        },
+        {
+          "id": "Limited",
+          "items": 9,
+          "label": "Limited"
+        },
+        {
+          "id": "Low In Stock",
+          "items": 250,
+          "label": "Low In Stock"
+        },
+        {
+          "id": "New",
+          "items": 36,
+          "label": "New"
+        },
+        {
+          "id": "Online Exclusive",
+          "items": 187,
+          "label": "Online Exclusive"
+        },
+        {
+          "id": "Out Of Stock",
+          "items": 3,
+          "label": "Out Of Stock"
+        },
+        {
+          "id": "Sale",
+          "items": 448,
+          "label": "Sale"
+        },
+        {
+          "id": "Top Seller",
+          "items": 11,
+          "label": "Top Seller"
+        }
+      ]
+    },
+    {
+      "code": "Product Family",
+      "label": "Product Family",
+      "layout": "Checkbox",
+      "options": [
+        {
+          "id": "Aura",
+          "items": 5,
+          "label": "Aura"
+        },
+        {
+          "id": "Authentic",
+          "items": 194,
+          "label": "Authentic"
+        },
+        {
+          "id": "AVE 2.0",
+          "items": 5,
+          "label": "AVE 2.0"
+        },
+        {
+          "id": "Chukka",
+          "items": 6,
+          "label": "Chukka"
+        },
+        {
+          "id": "Classic Slip-On",
+          "items": 166,
+          "label": "Classic Slip-On"
+        },
+        {
+          "id": "Crestline",
+          "items": 5,
+          "label": "Crestline"
+        },
+        {
+          "id": "Crosspath",
+          "items": 26,
+          "label": "Crosspath"
+        },
+        {
+          "id": "Cruze Too",
+          "items": 1,
+          "label": "Cruze Too"
+        },
+        {
+          "id": "Curren Caples",
+          "items": 7,
+          "label": "Curren Caples"
+        },
+        {
+          "id": "Encore",
+          "items": 9,
+          "label": "Encore"
+        },
+        {
+          "id": "Era",
+          "items": 12,
+          "label": "Era"
+        },
+        {
+          "id": "Gilbert Crockett",
+          "items": 2,
+          "label": "Gilbert Crockett"
+        },
+        {
+          "id": "Half Cab",
+          "items": 26,
+          "label": "Half Cab"
+        },
+        {
+          "id": "Hi-Standard",
+          "items": 17,
+          "label": "Hi-Standard"
+        },
+        {
+          "id": "Hylane",
+          "items": 20,
+          "label": "Hylane"
+        },
+        {
+          "id": "Infuse",
+          "items": 4,
+          "label": "Infuse"
+        },
+        {
+          "id": "Invado",
+          "items": 3,
+          "label": "Invado"
+        },
+        {
+          "id": "Knu Skool",
+          "items": 67,
+          "label": "Knu Skool"
+        },
+        {
+          "id": "Kyle Walker",
+          "items": 6,
+          "label": "Kyle Walker"
+        },
+        {
+          "id": "La Costa",
+          "items": 8,
+          "label": "La Costa"
+        },
+        {
+          "id": "Lizzie",
+          "items": 3,
+          "label": "Lizzie"
+        },
+        {
+          "id": "Lowland",
+          "items": 15,
+          "label": "Lowland"
+        },
+        {
+          "id": "Lowpro",
+          "items": 2,
+          "label": "Lowpro"
+        },
+        {
+          "id": "Luna",
+          "items": 2,
+          "label": "Luna"
+        },
+        {
+          "id": "Mary Jane",
+          "items": 16,
+          "label": "Mary Jane"
+        },
+        {
+          "id": "Mountain Mule",
+          "items": 2,
+          "label": "Mountain Mule"
+        },
+        {
+          "id": "Nexpa",
+          "items": 2,
+          "label": "Nexpa"
+        },
+        {
+          "id": "Old Skool",
+          "items": 216,
+          "label": "Old Skool"
+        },
+        {
+          "id": "Rowan",
+          "items": 5,
+          "label": "Rowan"
+        },
+        {
+          "id": "Rowley",
+          "items": 6,
+          "label": "Rowley"
+        },
+        {
+          "id": "Sk8-Hi",
+          "items": 74,
+          "label": "Sk8-Hi"
+        },
+        {
+          "id": "Sk8-Mid",
+          "items": 13,
+          "label": "Sk8-Mid"
+        },
+        {
+          "id": "Sport Low",
+          "items": 3,
+          "label": "Sport Low"
+        },
+        {
+          "id": "Style 114",
+          "items": 1,
+          "label": "Style 114"
+        },
+        {
+          "id": "Super Lowpro",
+          "items": 41,
+          "label": "Super Lowpro"
+        },
+        {
+          "id": "UltraRange",
+          "items": 64,
+          "label": "UltraRange"
+        },
+        {
+          "id": "Upland",
+          "items": 30,
+          "label": "Upland"
+        },
+        {
+          "id": "Verse",
+          "items": 2,
+          "label": "Verse"
+        },
+        {
+          "id": "Viaje",
+          "items": 1,
+          "label": "Viaje"
+        },
+        {
+          "id": "Wayvee",
+          "items": 7,
+          "label": "Wayvee"
+        }
+      ]
+    },
+    {
+      "code": "Product Category",
+      "label": "Product Category",
+      "layout": "Checkbox",
+      "options": [
+        {
+          "id": "Boots",
+          "items": 80,
+          "label": "Boots"
+        },
+        {
+          "id": "Laces",
+          "items": 29,
+          "label": "Laces"
+        },
+        {
+          "id": "Loafers",
+          "items": 9,
+          "label": "Loafers"
+        },
+        {
+          "id": "Mary Jane",
+          "items": 16,
+          "label": "Mary Jane"
+        },
+        {
+          "id": "Mules",
+          "items": 10,
+          "label": "Mules"
+        },
+        {
+          "id": "Sandals",
+          "items": 25,
+          "label": "Sandals"
+        },
+        {
+          "id": "Slip Ons",
+          "items": 196,
+          "label": "Slip Ons"
+        },
+        {
+          "id": "Sneakers",
+          "items": 845,
+          "label": "Sneakers"
+        },
+        {
+          "id": "T-Shirts",
+          "items": 1,
+          "label": "T-Shirts"
+        }
+      ]
+    },
+    {
+      "code": "attr_color",
+      "label": "Color",
+      "layout": "ColorSwatch",
+      "options": [
+        {
+          "id": "Beige|F5F5DC",
+          "items": 71,
+          "label": "Beige",
+          "color": [
+            "#F5F5DC"
+          ]
+        },
+        {
+          "id": "Black|000000",
+          "items": 417,
+          "label": "Black",
+          "color": [
+            "#000000"
+          ]
+        },
+        {
+          "id": "Blue|0D31AB",
+          "items": 147,
+          "label": "Blue",
+          "color": [
+            "#0D31AB"
+          ]
+        },
+        {
+          "id": "Brown|704214",
+          "items": 122,
+          "label": "Brown",
+          "color": [
+            "#704214"
+          ]
+        },
+        {
+          "id": "Checkerboard|000000|FFFFFF",
+          "items": 156,
+          "label": "Checkerboard",
+          "color": [
+            "#000000",
+            "#FFFFFF"
+          ]
+        },
+        {
+          "id": "Green|008000",
+          "items": 109,
+          "label": "Green",
+          "color": [
+            "#008000"
+          ]
+        },
+        {
+          "id": "Grey|757575",
+          "items": 54,
+          "label": "Grey",
+          "color": [
+            "#757575"
+          ]
+        },
+        {
+          "id": "Orange|F28413",
+          "items": 12,
+          "label": "Orange",
+          "color": [
+            "#F28413"
+          ]
+        },
+        {
+          "id": "Pink|FFB6C1",
+          "items": 83,
+          "label": "Pink",
+          "color": [
+            "#FFB6C1"
+          ]
+        },
+        {
+          "id": "Purple|800080",
+          "items": 35,
+          "label": "Purple",
+          "color": [
+            "#800080"
+          ]
+        },
+        {
+          "id": "Red|FF0000",
+          "items": 87,
+          "label": "Red",
+          "color": [
+            "#FF0000"
+          ]
+        },
+        {
+          "id": "White|FFFFFF",
+          "items": 102,
+          "label": "White",
+          "color": [
+            "#FFFFFF"
+          ]
+        },
+        {
+          "id": "Yellow|FFE400",
+          "items": 18,
+          "label": "Yellow",
+          "color": [
+            "#FFE400"
+          ]
+        }
+      ]
+    },
+    {
+      "code": "attr_size  ",
+      "label": "Size",
+      "layout": "Checkbox",
+      "options": [
+        {
+          "id": "B3.5 / W5",
+          "items": 606,
+          "label": "B3.5 / W5"
+        },
+        {
+          "id": "B4 / W5.5",
+          "items": 604,
+          "label": "B4 / W5.5"
+        },
+        {
+          "id": "B4.5 / W6",
+          "items": 653,
+          "label": "B4.5 / W6"
+        },
+        {
+          "id": "B5 / W6.5",
+          "items": 668,
+          "label": "B5 / W6.5"
+        },
+        {
+          "id": "B5.5 / W7",
+          "items": 669,
+          "label": "B5.5 / W7"
+        },
+        {
+          "id": "B6 / W7.5",
+          "items": 650,
+          "label": "B6 / W7.5"
+        },
+        {
+          "id": "M6.5 / W8",
+          "items": 721,
+          "label": "M6.5 / W8"
+        },
+        {
+          "id": "M7 / W8.5",
+          "items": 722,
+          "label": "M7 / W8.5"
+        },
+        {
+          "id": "M7.5 / W9",
+          "items": 693,
+          "label": "M7.5 / W9"
+        },
+        {
+          "id": "M8 / W9.5",
+          "items": 670,
+          "label": "M8 / W9.5"
+        },
+        {
+          "id": "M8.5 / W10",
+          "items": 645,
+          "label": "M8.5 / W10"
+        },
+        {
+          "id": "M9 / W10.5",
+          "items": 624,
+          "label": "M9 / W10.5"
+        },
+        {
+          "id": "M9.5 / W11",
+          "items": 601,
+          "label": "M9.5 / W11"
+        },
+        {
+          "id": "M10 / W11.5",
+          "items": 612,
+          "label": "M10 / W11.5"
+        },
+        {
+          "id": "M10.5 / W12",
+          "items": 564,
+          "label": "M10.5 / W12"
+        },
+        {
+          "id": "M11 / W12.5",
+          "items": 590,
+          "label": "M11 / W12.5"
+        },
+        {
+          "id": "M12 / W13.5",
+          "items": 554,
+          "label": "M12 / W13.5"
+        },
+        {
+          "id": "M11.5 / W13",
+          "items": 562,
+          "label": "M11.5 / W13"
+        },
+        {
+          "id": "M13 / W14.5",
+          "items": 548,
+          "label": "M13 / W14.5"
+        },
+        {
+          "id": "10.5 Kids",
+          "items": 77,
+          "label": "10.5 Kids"
+        },
+        {
+          "id": "11.0 Kids",
+          "items": 77,
+          "label": "11.0 Kids"
+        },
+        {
+          "id": "11.5 Kids",
+          "items": 81,
+          "label": "11.5 Kids"
+        },
+        {
+          "id": "12.0 Kids",
+          "items": 78,
+          "label": "12.0 Kids"
+        },
+        {
+          "id": "12.5 Kids",
+          "items": 75,
+          "label": "12.5 Kids"
+        },
+        {
+          "id": "13.0 Kids",
+          "items": 81,
+          "label": "13.0 Kids"
+        },
+        {
+          "id": "13.5 Kids",
+          "items": 77,
+          "label": "13.5 Kids"
+        },
+        {
+          "id": "1.0 Kids",
+          "items": 83,
+          "label": "1.0 Kids"
+        },
+        {
+          "id": "1.5 Kids",
+          "items": 83,
+          "label": "1.5 Kids"
+        },
+        {
+          "id": "2.0 Kids",
+          "items": 84,
+          "label": "2.0 Kids"
+        },
+        {
+          "id": "2.5 Kids",
+          "items": 84,
+          "label": "2.5 Kids"
+        },
+        {
+          "id": "3.0 Kids",
+          "items": 89,
+          "label": "3.0 Kids"
+        },
+        {
+          "id": "2.0 Toddler",
+          "items": 43,
+          "label": "2.0 Toddler"
+        },
+        {
+          "id": "2.5 Toddler",
+          "items": 43,
+          "label": "2.5 Toddler"
+        },
+        {
+          "id": "3.0 Toddler",
+          "items": 53,
+          "label": "3.0 Toddler"
+        },
+        {
+          "id": "3.5 Toddler",
+          "items": 52,
+          "label": "3.5 Toddler"
+        },
+        {
+          "id": "4.0 Toddler",
+          "items": 80,
+          "label": "4.0 Toddler"
+        },
+        {
+          "id": "4.5 Toddler",
+          "items": 66,
+          "label": "4.5 Toddler"
+        },
+        {
+          "id": "5.0 Toddler",
+          "items": 77,
+          "label": "5.0 Toddler"
+        },
+        {
+          "id": "5.5 Toddler",
+          "items": 72,
+          "label": "5.5 Toddler"
+        },
+        {
+          "id": "6.0 Toddler",
+          "items": 76,
+          "label": "6.0 Toddler"
+        },
+        {
+          "id": "6.5 Toddler",
+          "items": 74,
+          "label": "6.5 Toddler"
+        },
+        {
+          "id": "7.0 Toddler",
+          "items": 75,
+          "label": "7.0 Toddler"
+        },
+        {
+          "id": "7.5 Toddler",
+          "items": 75,
+          "label": "7.5 Toddler"
+        },
+        {
+          "id": "8.0 Toddler",
+          "items": 78,
+          "label": "8.0 Toddler"
+        },
+        {
+          "id": "9.0 Toddler",
+          "items": 76,
+          "label": "9.0 Toddler"
+        },
+        {
+          "id": "9.5 Toddler",
+          "items": 76,
+          "label": "9.5 Toddler"
+        },
+        {
+          "id": "10.0 Toddler",
+          "items": 76,
+          "label": "10.0 Toddler"
+        },
+        {
+          "id": "Small",
+          "items": 13,
+          "label": "Small"
+        },
+        {
+          "id": "Medium",
+          "items": 13,
+          "label": "Medium"
+        },
+        {
+          "id": "Large",
+          "items": 12,
+          "label": "Large"
+        },
+        {
+          "id": "X Large",
+          "items": 10,
+          "label": "X Large"
+        },
+        {
+          "id": "M14 / W15.5",
+          "items": 112,
+          "label": "M14 / W15.5"
+        },
+        {
+          "id": "M15 / W16.5",
+          "items": 110,
+          "label": "M15 / W16.5"
+        },
+        {
+          "id": "M16 / W17.5",
+          "items": 113,
+          "label": "M16 / W17.5"
+        },
+        {
+          "id": "M17 / W18.5",
+          "items": 87,
+          "label": "M17 / W18.5"
+        },
+        {
+          "id": "M18 / W19.5",
+          "items": 77,
+          "label": "M18 / W19.5"
+        },
+        {
+          "id": "3.5 Youth",
+          "items": 26,
+          "label": "3.5 Youth"
+        },
+        {
+          "id": "4.0 Youth",
+          "items": 32,
+          "label": "4.0 Youth"
+        },
+        {
+          "id": "4.5 Youth",
+          "items": 30,
+          "label": "4.5 Youth"
+        },
+        {
+          "id": "5.0 Youth",
+          "items": 33,
+          "label": "5.0 Youth"
+        },
+        {
+          "id": "5.5 Youth",
+          "items": 32,
+          "label": "5.5 Youth"
+        },
+        {
+          "id": "6.0 Youth",
+          "items": 34,
+          "label": "6.0 Youth"
+        },
+        {
+          "id": "6.5 Youth",
+          "items": 31,
+          "label": "6.5 Youth"
+        },
+        {
+          "id": "7.0 Youth",
+          "items": 31,
+          "label": "7.0 Youth"
+        },
+        {
+          "id": "8.5 Toddler",
+          "items": 74,
+          "label": "8.5 Toddler"
+        },
+        {
+          "id": "0-6 Weeks",
+          "items": 4,
+          "label": "0-6 Weeks"
+        },
+        {
+          "id": "6-12 Weeks",
+          "items": 4,
+          "label": "6-12 Weeks"
+        },
+        {
+          "id": "3-6 Months",
+          "items": 3,
+          "label": "3-6 Months"
+        },
+        {
+          "id": "6-9 Months",
+          "items": 3,
+          "label": "6-9 Months"
+        },
+        {
+          "id": "One Size",
+          "items": 17,
+          "label": "One Size"
+        },
+        {
+          "id": "4.5 Men",
+          "items": 3,
+          "label": "4.5 Men"
+        },
+        {
+          "id": "5.5 Men",
+          "items": 3,
+          "label": "5.5 Men"
+        },
+        {
+          "id": "3.5 Men",
+          "items": 2,
+          "label": "3.5 Men"
+        }
+      ]
+    },
+    {
+      "code": "Kids Age",
+      "label": "Kids Age",
+      "layout": "Checkbox",
+      "options": [
+        {
+          "id": "Infants & Toddlers 0-3 yrs",
+          "items": 88,
+          "label": "Infants & Toddlers 0-3 yrs"
+        },
+        {
+          "id": "Little Kids 3-7 yrs",
+          "items": 47,
+          "label": "Little Kids 3-7 yrs"
+        },
+        {
+          "id": "Big Kids 8-13 yrs",
+          "items": 166,
+          "label": "Big Kids 8-13 yrs"
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "VN000D3HY28",
+      "styleId": "VN000D3H",
+      "focusedProduct": false,
+      "name": "Old Skool Shoe",
+      "shortDescription": "Lifestyle, Classic Icon, Suede/Canvas",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/old-skool-5205/old-skool-shoe-VN000D3HY28",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5205",
+      "primaryCategoryName": "Old Skool",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Old Skool",
+          "url": "/en-us/c/shoes/icons/old-skool-5205"
+        }
+      ],
+      "eyebrow": {
+        "label": "Top Seller",
+        "id": "Top Seller",
+        "colorHexCode": "none"
+      },
+      "rating": {
+        "score": 4.7,
+        "reviewsCount": 5470
+      },
+      "availableColorsCount": 52,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1747942442/VN000D3HY28-HERO/Old-Skool-Shoe-VANS-Black-White-HERO.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS Black  White HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1747942437/VN000D3HY28-ALT1/Old-Skool-Shoe-VANS-Black-White-ALT1.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS Black  White ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1747942439/VN000D3HY28-ALT2/Old-Skool-Shoe-VANS-Black-White-ALT2.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS Black  White ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1747942438/VN000D3HY28-ALT3/Old-Skool-Shoe-VANS-Black-White-ALT3.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS Black  White ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1747942447/VN000D3HY28-ALT4/Old-Skool-Shoe-VANS-Black-White-ALT4.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS Black  White ALT4"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1747942439/VN000D3HY28-ALT5/Old-Skool-Shoe-VANS-Black-White-ALT5.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS Black  White ALT5"
+        }
+      ],
+      "price": {
+        "lowOriginal": 75,
+        "highOriginal": 75,
+        "lowCurrent": 75,
+        "highCurrent": 75
+      },
+      "isCustoms": false,
+      "customsRecipeID": "5903aa0eb27881c80e197be5289b148a",
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN0009QC6BT",
+      "styleId": "VN0009QC",
+      "focusedProduct": false,
+      "name": "Knu Skool Shoe",
+      "shortDescription": "Lifestyle, Retro Chunky, Suede",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/knu-skool-5840/knu-skool-suede-shoe-VN0009QC6BT",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5840",
+      "primaryCategoryName": "Knu Skool",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Knu Skool",
+          "url": "/en-us/c/shoes/knu-skool-5840"
+        }
+      ],
+      "eyebrow": {
+        "label": "Top Seller",
+        "id": "Top Seller",
+        "colorHexCode": "none"
+      },
+      "rating": {
+        "score": 4.6,
+        "reviewsCount": 870
+      },
+      "availableColorsCount": 33,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1755187209/VN0009QC6BT-HERO/Knu-Skool-Shoe-VANS-BlackTrue-White-HERO.png",
+          "type": "image",
+          "alt": "Knu Skool Shoe VANS Black  True White HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1755187180/VN0009QC6BT-ALT1/Knu-Skool-Shoe-VANS-BlackTrue-White-ALT1.jpg",
+          "type": "image",
+          "alt": "Knu Skool Shoe VANS Black  True White ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1755187185/VN0009QC6BT-ALT2/Knu-Skool-Shoe-VANS-BlackTrue-White-ALT2.jpg",
+          "type": "image",
+          "alt": "Knu Skool Shoe VANS Black  True White ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1755187193/VN0009QC6BT-ALT3/Knu-Skool-Shoe-VANS-BlackTrue-White-ALT3.png",
+          "type": "image",
+          "alt": "Knu Skool Shoe VANS Black  True White ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1755187199/VN0009QC6BT-ALT4/Knu-Skool-Shoe-VANS-BlackTrue-White-ALT4.png",
+          "type": "image",
+          "alt": "Knu Skool Shoe VANS Black  True White ALT4"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1755187201/Vn0009qc6bt-ALT5/Knu-Skool-Shoe-VANS.jpg",
+          "type": "image",
+          "alt": "Knu Skool Shoe VANS Black  True White ALT5"
+        }
+      ],
+      "price": {
+        "lowOriginal": 80,
+        "highOriginal": 80,
+        "lowCurrent": 80,
+        "highCurrent": 80
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000EE3BLK",
+      "styleId": "VN000EE3",
+      "focusedProduct": false,
+      "name": "Authentic Shoe",
+      "shortDescription": "Lifestyle, Classic Icon, Canvas",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/authentic-5310/authentic-shoe-VN000EE3BLK",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5310",
+      "primaryCategoryName": "Authentic",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Authentic",
+          "url": "/en-us/c/shoes/icons/authentic-5310"
+        }
+      ],
+      "eyebrow": {
+        "label": "Top Seller",
+        "id": "Top Seller",
+        "colorHexCode": "none"
+      },
+      "rating": {
+        "score": 4.6,
+        "reviewsCount": 4174
+      },
+      "availableColorsCount": 42,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1750270765/VN000EE3BLK-HERO/Authentic-Shoe-VANS-Black-HERO.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS Black HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1750270764/VN000EE3BLK-ALT1/Authentic-Shoe-VANS-Black-ALT1.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS Black ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1750270765/VN000EE3BLK-ALT2/Authentic-Shoe-VANS-Black-ALT2.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS Black ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1750270763/VN000EE3BLK-ALT3/Authentic-Shoe-VANS-Black-ALT3.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS Black ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1750270768/VN000EE3BLK-ALT4/Authentic-Shoe-VANS-Black-ALT4.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS Black ALT4"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1772665720/VN000EE3BLK-ALT6/Authentic-Shoe-VANS-Black-ALT6.jpg",
+          "type": "image",
+          "alt": "Authentic Shoe VANS Black ALT6"
+        }
+      ],
+      "price": {
+        "lowOriginal": 60,
+        "highOriginal": 60,
+        "lowCurrent": 60,
+        "highCurrent": 60
+      },
+      "isCustoms": false,
+      "customsRecipeID": "db06359894e52f4bb1e001e0eebe2b88",
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000EE3W00",
+      "styleId": "VN000EE3",
+      "focusedProduct": false,
+      "name": "Authentic Shoe",
+      "shortDescription": "Lifestyle, Classic Icon, Canvas",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/authentic-5310/authentic-shoe-VN000EE3W00",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5310",
+      "primaryCategoryName": "Authentic",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Authentic",
+          "url": "/en-us/c/shoes/icons/authentic-5310"
+        }
+      ],
+      "eyebrow": {
+        "label": "Top Seller",
+        "id": "Top Seller",
+        "colorHexCode": "none"
+      },
+      "rating": {
+        "score": 4.6,
+        "reviewsCount": 4174
+      },
+      "availableColorsCount": 42,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1740713845/VN000EE3W00-HERO/Authentic-Shoe-VANS-True-White-HERO.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS True White HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1740713846/VN000EE3W00-ALT1/Authentic-Shoe-VANS-True-White-ALT1.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS True White ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1740713830/VN000EE3W00-ALT2/Authentic-Shoe-VANS-True-White-ALT2.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS True White ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1740713834/VN000EE3W00-ALT3/Authentic-Shoe-VANS-True-White-ALT3.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS True White ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1740713852/VN000EE3W00-ALT4/Authentic-Shoe-VANS-True-White-ALT4.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS True White ALT4"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1740713841/VN000EE3W00-ALT5/Authentic-Shoe-VANS-True-White-ALT5.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS True White ALT5"
+        }
+      ],
+      "price": {
+        "lowOriginal": 60,
+        "highOriginal": 60,
+        "lowCurrent": 60,
+        "highCurrent": 60
+      },
+      "isCustoms": false,
+      "customsRecipeID": "db06359894e52f4bb1e001e0eebe2b88",
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN0A5FCCB9K",
+      "styleId": "VN0A5FCC",
+      "focusedProduct": false,
+      "name": "Skate Sk8-Hi Shoe",
+      "shortDescription": "Skate, Icon, Vulcanized, Impact Protection, Next-Level Grip, Suede/Canvas",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/sk8-hi-5325/skate-sk8-hi-VN0A5FCCB9K",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5325",
+      "primaryCategoryName": "Sk8 Hi",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Sk8 Hi",
+          "url": "/en-us/c/shoes/icons/sk8-hi-5325"
+        }
+      ],
+      "eyebrow": {},
+      "rating": {
+        "score": 4.4,
+        "reviewsCount": 654
+      },
+      "availableColorsCount": 7,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1761949110/VN0A5FCCB9K-HERO/Skate-Sk8Hi-Shoe-VANS-HERO.png",
+          "type": "image",
+          "alt": "Skate Sk8Hi Shoe VANS Gum Black  White HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1761949094/VN0A5FCCB9K-ALT1/Skate-Sk8Hi-Shoe-VANS-ALT1.png",
+          "type": "image",
+          "alt": "Skate Sk8Hi Shoe VANS Gum Black  White ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1761949110/VN0A5FCCB9K-ALT2/Skate-Sk8Hi-Shoe-VANS-ALT2.png",
+          "type": "image",
+          "alt": "Skate Sk8Hi Shoe VANS Gum Black  White ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1761949106/VN0A5FCCB9K-ALT3/Skate-Sk8Hi-Shoe-VANS-ALT3.png",
+          "type": "image",
+          "alt": "Skate Sk8Hi Shoe VANS Gum Black  White ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1761949111/VN0A5FCCB9K-ALT4/Skate-Sk8Hi-Shoe-VANS-ALT4.png",
+          "type": "image",
+          "alt": "Skate Sk8Hi Shoe VANS Gum Black  White ALT4"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1761949107/VN0A5FCCB9K-ALT5/Skate-Sk8Hi-Shoe-VANS-ALT5.png",
+          "type": "image",
+          "alt": "Skate Sk8Hi Shoe VANS Gum Black  White ALT5"
+        }
+      ],
+      "price": {
+        "lowOriginal": 85,
+        "highOriginal": 85,
+        "lowCurrent": 85,
+        "highCurrent": 85
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000EE3BKA",
+      "styleId": "VN000EE3",
+      "focusedProduct": false,
+      "name": "Authentic Shoe",
+      "shortDescription": "Lifestyle, Classic Icon, Canvas",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/authentic-5310/authentic-shoe-VN000EE3BKA",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5310",
+      "primaryCategoryName": "Authentic",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Authentic",
+          "url": "/en-us/c/shoes/icons/authentic-5310"
+        }
+      ],
+      "eyebrow": {},
+      "rating": {
+        "score": 4.6,
+        "reviewsCount": 4174
+      },
+      "availableColorsCount": 42,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1753917991/VN000EE3BKA-HERO/Authentic-Shoe-VANS-Black-HERO.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS Blackout HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1753917986/VN000EE3BKA-ALT1/Authentic-Shoe-VANS-Black-ALT1.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS Blackout ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1753917990/VN000EE3BKA-ALT2/Authentic-Shoe-VANS-Black-ALT2.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS Blackout ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1753917988/VN000EE3BKA-ALT3/Authentic-Shoe-VANS-Black-ALT3.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS Blackout ALT3"
+        }
+      ],
+      "price": {
+        "lowOriginal": 60,
+        "highOriginal": 60,
+        "lowCurrent": 60,
+        "highCurrent": 60
+      },
+      "isCustoms": false,
+      "customsRecipeID": "db06359894e52f4bb1e001e0eebe2b88",
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000Z75B9P",
+      "styleId": "VN000Z75",
+      "focusedProduct": false,
+      "name": "Authentic Shoe",
+      "shortDescription": "Lifestyle, Classic Icon, Canvas",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/authentic-5310/authentic-shoe-VN000Z75B9P",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5310",
+      "primaryCategoryName": "Authentic",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Authentic",
+          "url": "/en-us/c/shoes/icons/authentic-5310"
+        }
+      ],
+      "eyebrow": {},
+      "rating": {
+        "score": 0,
+        "reviewsCount": 0
+      },
+      "availableColorsCount": 2,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1773162880/VN000Z75B9P-HERO/Authentic-Shoe-VANS-Black-Pink-HERO.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS Black  Pink HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1773162870/VN000Z75B9P-ALT1/Authentic-Shoe-VANS-Black-Pink-ALT1.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS Black  Pink ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1773162872/VN000Z75B9P-ALT2/Authentic-Shoe-VANS-Black-Pink-ALT2.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS Black  Pink ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1773162872/VN000Z75B9P-ALT3/Authentic-Shoe-VANS-Black-Pink-ALT3.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS Black  Pink ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1773162873/VN000Z75B9P-ALT4/Authentic-Shoe-VANS-Black-Pink-ALT4.jpg",
+          "type": "image",
+          "alt": "Authentic Shoe VANS Black  Pink ALT4"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1773162878/VN000Z75B9P-ALT5/Authentic-Shoe-VANS-Black-Pink-ALT5.jpg",
+          "type": "image",
+          "alt": "Authentic Shoe VANS Black  Pink ALT5"
+        }
+      ],
+      "price": {
+        "lowOriginal": 60,
+        "highOriginal": 60,
+        "lowCurrent": 60,
+        "highCurrent": 60
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S26",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000EYEBLK",
+      "styleId": "VN000EYE",
+      "focusedProduct": false,
+      "name": "Classic Slip-On Shoe",
+      "shortDescription": "Lifestyle, Classic Icon, Canvas",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/classic-slip-on-5315/classic-slip-on-shoe-VN000EYEBLK",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5315",
+      "primaryCategoryName": "Classic Slip On",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Classic Slip On",
+          "url": "/en-us/c/shoes/icons/classic-slip-on-5315"
+        }
+      ],
+      "eyebrow": {
+        "label": "Top Seller",
+        "id": "Top Seller",
+        "colorHexCode": "none"
+      },
+      "rating": {
+        "score": 4.6,
+        "reviewsCount": 8974
+      },
+      "availableColorsCount": 22,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1740196690/VN000EYEBLK-HERO/Classic-SlipOn-Shoe-VANS-Black-HERO.png",
+          "type": "image",
+          "alt": "Classic SlipOn Shoe VANS Black HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1743114748/VN000EYEBLK-ALT1/Classic-SlipOn-Shoe-VANS-Black-ALT1.png",
+          "type": "image",
+          "alt": "Classic SlipOn Shoe VANS Black ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1743114752/VN000EYEBLK-ALT3/Classic-SlipOn-Shoe-VANS-Black-ALT3.png",
+          "type": "image",
+          "alt": "Classic SlipOn Shoe VANS Black ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1743114758/VN000EYEBLK-ALT4/Classic-SlipOn-Shoe-VANS-Black-ALT4.png",
+          "type": "image",
+          "alt": "Classic SlipOn Shoe VANS Black ALT4"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1743114738/VN000EYEBLK-ALT5/Classic-SlipOn-Shoe-VANS-Black-ALT5.png",
+          "type": "image",
+          "alt": "Classic SlipOn Shoe VANS Black ALT5"
+        }
+      ],
+      "price": {
+        "lowOriginal": 60,
+        "highOriginal": 60,
+        "lowCurrent": 60,
+        "highCurrent": 60
+      },
+      "isCustoms": false,
+      "customsRecipeID": "e26e3f72a9b7e92d030ce38921925d40",
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000E8WFPR",
+      "styleId": "VN000E8W",
+      "focusedProduct": false,
+      "name": "Old Skool Shoe",
+      "shortDescription": "Lifestyle, Classic Icon, Embroidery, Suede/Canvas",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/old-skool-5205/old-skool-shoe-VN000E8WFPR",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5205",
+      "primaryCategoryName": "Old Skool",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Old Skool",
+          "url": "/en-us/c/shoes/icons/old-skool-5205"
+        }
+      ],
+      "eyebrow": {
+        "label": "Buy More Save More",
+        "id": "BMSM Promotion",
+        "colorHexCode": "none",
+        "details": "$30 off $100, $50 off $150, $70 off $200"
+      },
+      "rating": {
+        "score": 0,
+        "reviewsCount": 0
+      },
+      "availableColorsCount": 52,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1768603916/VN000E8WFPR-HERO/Old-Skool-Shoe-VANS-HERO.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS Misty Mauve Pink HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1768603918/VN000E8WFPR-ALT1/Old-Skool-Shoe-VANS-ALT1.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS Misty Mauve Pink ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1768603921/VN000E8WFPR-ALT2/Old-Skool-Shoe-VANS-ALT2.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS Misty Mauve Pink ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1768603912/VN000E8WFPR-ALT3/Old-Skool-Shoe-VANS-ALT3.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS Misty Mauve Pink ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769460961/VN000E8WFPR-ALT5/Old-Skool-Shoe-VANS-ALT5.jpg",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS Misty Mauve Pink ALT5"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769460961/VN000E8WFPR-ALT6/Old-Skool-Shoe-VANS-ALT6.jpg",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS Misty Mauve Pink ALT6"
+        }
+      ],
+      "price": {
+        "lowOriginal": 80,
+        "highOriginal": 80,
+        "lowCurrent": 80,
+        "highCurrent": 80
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S26",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000EYEBWW",
+      "styleId": "VN000EYE",
+      "focusedProduct": false,
+      "name": "Classic Slip-On Checkerboard Shoe",
+      "shortDescription": "Lifestyle, Classic Icon, Suede/Canvas",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/classic-slip-on-5315/classic-slip-on-checkerboard-shoe-VN000EYEBWW",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5315",
+      "primaryCategoryName": "Classic Slip On",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Classic Slip On",
+          "url": "/en-us/c/shoes/icons/classic-slip-on-5315"
+        }
+      ],
+      "eyebrow": {
+        "label": "Top Seller",
+        "id": "Top Seller",
+        "colorHexCode": "none"
+      },
+      "rating": {
+        "score": 4.6,
+        "reviewsCount": 8974
+      },
+      "availableColorsCount": 32,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1748031885/VN000EYEBWW-HERO/Classic-SlipOn-Checkerboard-Shoe-VANS-BlackOff-White-HERO.png",
+          "type": "image",
+          "alt": "Classic SlipOn Checkerboard Shoe VANS Checkerboard Black  White HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1748031883/VN000EYEBWW-ALT1/Classic-SlipOn-Checkerboard-Shoe-VANS-BlackOff-White-ALT1.png",
+          "type": "image",
+          "alt": "Classic SlipOn Checkerboard Shoe VANS Checkerboard Black  White ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1748031884/VN000EYEBWW-ALT2/Classic-SlipOn-Checkerboard-Shoe-VANS-BlackOff-White-ALT2.png",
+          "type": "image",
+          "alt": "Classic SlipOn Checkerboard Shoe VANS Checkerboard Black  White ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1748031883/VN000EYEBWW-ALT3/Classic-SlipOn-Checkerboard-Shoe-VANS-BlackOff-White-ALT3.png",
+          "type": "image",
+          "alt": "Classic SlipOn Checkerboard Shoe VANS Checkerboard Black  White ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1748031878/VN000EYEBWW-ALT4/Classic-SlipOn-Checkerboard-Shoe-VANS-BlackOff-White-ALT4.jpg",
+          "type": "image",
+          "alt": "Classic SlipOn Checkerboard Shoe VANS Checkerboard Black  White ALT4"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1748031878/VN000EYEBWW-ALT5/Classic-SlipOn-Checkerboard-Shoe-VANS-BlackOff-White-ALT5.jpg",
+          "type": "image",
+          "alt": "Classic SlipOn Checkerboard Shoe VANS Checkerboard Black  White ALT5"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1772665738/VN000EYEBWW-ALT6/Classic-SlipOn-Checkerboard-Shoe-VANS-Checkerboard-Black-White-ALT6.jpg",
+          "type": "image",
+          "alt": "Classic SlipOn Checkerboard Shoe VANS Checkerboard Black  White ALT6"
+        }
+      ],
+      "price": {
+        "lowOriginal": 60,
+        "highOriginal": 60,
+        "lowCurrent": 60,
+        "highCurrent": 60
+      },
+      "isCustoms": false,
+      "customsRecipeID": "0a7f002bfd58aaaf7e4db4b80609a5f2",
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000E9TBPG",
+      "styleId": "VN000E9T",
+      "focusedProduct": false,
+      "name": "Old Skool Shoe",
+      "shortDescription": "Lifestyle, Classic Icon, Leather",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/old-skool-5205/old-skool-VN000E9TBPG",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5205",
+      "primaryCategoryName": "Old Skool",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Old Skool",
+          "url": "/en-us/c/shoes/icons/old-skool-5205"
+        }
+      ],
+      "eyebrow": {
+        "label": "New",
+        "id": "New Arrival",
+        "colorHexCode": "none"
+      },
+      "rating": {
+        "score": 0,
+        "reviewsCount": 0
+      },
+      "availableColorsCount": 3,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548030/VN000E9TBPG-HERO/Old-Skool-Shoe-VANS-HERO.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS True White HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548026/VN000E9TBPG-ALT1/Old-Skool-Shoe-VANS-ALT1.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS True White ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548027/VN000E9TBPG-ALT2/Old-Skool-Shoe-VANS-ALT2.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS True White ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548026/VN000E9TBPG-ALT3/Old-Skool-Shoe-VANS-ALT3.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS True White ALT3"
+        }
+      ],
+      "price": {
+        "lowOriginal": 85,
+        "highOriginal": 85,
+        "lowCurrent": 85,
+        "highCurrent": 85
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000D5RFBL",
+      "styleId": "VN000D5R",
+      "focusedProduct": false,
+      "name": "Skate Old Skool 36+ Shoe",
+      "shortDescription": "Skate, Icon, Vulcanized, Impact Protection, Next-Level Grip, Leather",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/old-skool-5205/skate-old-skool-36--VN000D5RFBL",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5205",
+      "primaryCategoryName": "Old Skool",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Old Skool",
+          "url": "/en-us/c/shoes/icons/old-skool-5205"
+        }
+      ],
+      "eyebrow": {
+        "label": "Buy More Save More",
+        "id": "BMSM Promotion",
+        "colorHexCode": "none",
+        "details": "$30 off $100, $50 off $150, $70 off $200"
+      },
+      "rating": {
+        "score": 5,
+        "reviewsCount": 8
+      },
+      "availableColorsCount": 8,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769036253/VN000D5RFBL-HERO/Skate-Old-Skool-36-Shoe-VANS-HERO.png",
+          "type": "image",
+          "alt": "Skate Old Skool 36 Shoe VANS Gecko Green  Black HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769036237/VN000D5RFBL-ALT1/Skate-Old-Skool-36-Shoe-VANS-ALT1.png",
+          "type": "image",
+          "alt": "Skate Old Skool 36 Shoe VANS Gecko Green  Black ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769036241/VN000D5RFBL-ALT2/Skate-Old-Skool-36-Shoe-VANS-ALT2.png",
+          "type": "image",
+          "alt": "Skate Old Skool 36 Shoe VANS Gecko Green  Black ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769036241/VN000D5RFBL-ALT3/Skate-Old-Skool-36-Shoe-VANS-ALT3.png",
+          "type": "image",
+          "alt": "Skate Old Skool 36 Shoe VANS Gecko Green  Black ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769036245/VN000D5RFBL-ALT4/Skate-Old-Skool-36-Shoe-VANS-ALT4.png",
+          "type": "image",
+          "alt": "Skate Old Skool 36 Shoe VANS Gecko Green  Black ALT4"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769036248/VN000D5RFBL-ALT5/Skate-Old-Skool-36-Shoe-VANS-ALT5.png",
+          "type": "image",
+          "alt": "Skate Old Skool 36 Shoe VANS Gecko Green  Black ALT5"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769036250/VN000D5RFBL-ALT6/Skate-Old-Skool-36-Shoe-VANS-ALT6.png",
+          "type": "image",
+          "alt": "Skate Old Skool 36 Shoe VANS Gecko Green  Black ALT6"
+        }
+      ],
+      "price": {
+        "lowOriginal": 90,
+        "highOriginal": 90,
+        "lowCurrent": 90,
+        "highCurrent": 90
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S26",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000EGABPG",
+      "styleId": "VN000EGA",
+      "focusedProduct": false,
+      "name": "Authentic Shoe",
+      "shortDescription": "Lifestyle, Classic Icon, Leather",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/authentic-5310/authentic-VN000EGABPG",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5310",
+      "primaryCategoryName": "Authentic",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Authentic",
+          "url": "/en-us/c/shoes/icons/authentic-5310"
+        }
+      ],
+      "eyebrow": {
+        "label": "New",
+        "id": "New Arrival",
+        "colorHexCode": "none"
+      },
+      "rating": {
+        "score": 0,
+        "reviewsCount": 0
+      },
+      "availableColorsCount": 3,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548070/VN000EGABPG-HERO/Authentic-Shoe-VANS-HERO.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS True White HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548065/VN000EGABPG-ALT1/Authentic-Shoe-VANS-ALT1.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS True White ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548069/VN000EGABPG-ALT2/Authentic-Shoe-VANS-ALT2.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS True White ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548068/VN000EGABPG-ALT3/Authentic-Shoe-VANS-ALT3.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS True White ALT3"
+        }
+      ],
+      "price": {
+        "lowOriginal": 70,
+        "highOriginal": 70,
+        "lowCurrent": 70,
+        "highCurrent": 70
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000EGABKA",
+      "styleId": "VN000EGA",
+      "focusedProduct": false,
+      "name": "Authentic Shoe",
+      "shortDescription": "Lifestyle, Classic Icon, Leather",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/authentic-5310/authentic-VN000EGABKA",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5310",
+      "primaryCategoryName": "Authentic",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Authentic",
+          "url": "/en-us/c/shoes/icons/authentic-5310"
+        }
+      ],
+      "eyebrow": {
+        "label": "Buy More Save More",
+        "id": "BMSM Promotion",
+        "colorHexCode": "none",
+        "details": "$30 off $100, $50 off $150, $70 off $200"
+      },
+      "rating": {
+        "score": 0,
+        "reviewsCount": 0
+      },
+      "availableColorsCount": 3,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548057/VN000EGABKA-HERO/Authentic-Shoe-VANS-HERO.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS Blackout HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548051/VN000EGABKA-ALT1/Authentic-Shoe-VANS-ALT1.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS Blackout ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548053/VN000EGABKA-ALT2/Authentic-Shoe-VANS-ALT2.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS Blackout ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548052/VN000EGABKA-ALT3/Authentic-Shoe-VANS-ALT3.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS Blackout ALT3"
+        }
+      ],
+      "price": {
+        "lowOriginal": 70,
+        "highOriginal": 70,
+        "lowCurrent": 70,
+        "highCurrent": 70
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN0A5FCDCPU",
+      "styleId": "VN0A5FCD",
+      "focusedProduct": false,
+      "name": "Skate Half Cab Shoe",
+      "shortDescription": "Skate, Icon, Vulcanized, Impact Protection, Next-Level Grip, Suede/Canvas",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/half-cab-1992/skate-half-cab-VN0A5FCDCPU",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "1992",
+      "primaryCategoryName": "Half Cab",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Half Cab",
+          "url": "/en-us/c/shoes/icons/half-cab-1992"
+        }
+      ],
+      "eyebrow": {
+        "label": "Buy More Save More",
+        "id": "BMSM Promotion",
+        "colorHexCode": "none",
+        "details": "$30 off $100, $50 off $150, $70 off $200"
+      },
+      "rating": {
+        "score": 4,
+        "reviewsCount": 562
+      },
+      "availableColorsCount": 6,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1777312663/VN0A5FCDCPU-HERO/Skate-Half-Cab-Shoe-VANS-HERO.png",
+          "type": "image",
+          "alt": "Skate Half Cab Shoe VANS Violet Purple  Black HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1777312675/VN0A5FCDCPU-ALT2/Skate-Half-Cab-Shoe-VANS-ALT2.png",
+          "type": "image",
+          "alt": "Skate Half Cab Shoe VANS Violet Purple  Black ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1777312667/VN0A5FCDCPU-ALT3/Skate-Half-Cab-Shoe-VANS-ALT3.png",
+          "type": "image",
+          "alt": "Skate Half Cab Shoe VANS Violet Purple  Black ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1777312683/VN0A5FCDCPU-ALT4/Skate-Half-Cab-Shoe-VANS-ALT4.png",
+          "type": "image",
+          "alt": "Skate Half Cab Shoe VANS Violet Purple  Black ALT4"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1777312679/VN0A5FCDCPU-ALT5/Skate-Half-Cab-Shoe-VANS-ALT5.png",
+          "type": "image",
+          "alt": "Skate Half Cab Shoe VANS Violet Purple  Black ALT5"
+        }
+      ],
+      "price": {
+        "lowOriginal": 90,
+        "highOriginal": 90,
+        "lowCurrent": 90,
+        "highCurrent": 90
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S26",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000ECRZS8",
+      "styleId": "VN000ECR",
+      "focusedProduct": false,
+      "name": "Skate Era Shoe",
+      "shortDescription": "Skate, Icon, Vulcanized, Impact Protection, Next-Level Grip, Suede",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/era-5320/skate-era-VN000ECRZS8",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5320",
+      "primaryCategoryName": "Era",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Era",
+          "url": "/en-us/c/shoes/icons/era-5320"
+        }
+      ],
+      "eyebrow": {
+        "label": "New",
+        "id": "New Arrival",
+        "colorHexCode": "none"
+      },
+      "rating": {
+        "score": 0,
+        "reviewsCount": 0
+      },
+      "availableColorsCount": 7,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767633127/VN000ECRZS8-HERO/Skate-Era-Shoe-VANS-HERO.png",
+          "type": "image",
+          "alt": "Skate Era Shoe VANS Mauve Mist Pink HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767633112/VN000ECRZS8-ALT1/Skate-Era-Shoe-VANS-ALT1.png",
+          "type": "image",
+          "alt": "Skate Era Shoe VANS Mauve Mist Pink ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767633134/VN000ECRZS8-ALT2/Skate-Era-Shoe-VANS-ALT2.png",
+          "type": "image",
+          "alt": "Skate Era Shoe VANS Mauve Mist Pink ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767633108/VN000ECRZS8-ALT3/Skate-Era-Shoe-VANS-ALT3.png",
+          "type": "image",
+          "alt": "Skate Era Shoe VANS Mauve Mist Pink ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767633136/VN000ECRZS8-ALT4/Skate-Era-Shoe-VANS-ALT4.png",
+          "type": "image",
+          "alt": "Skate Era Shoe VANS Mauve Mist Pink ALT4"
+        }
+      ],
+      "price": {
+        "lowOriginal": 65,
+        "highOriginal": 65,
+        "lowCurrent": 65,
+        "highCurrent": 65
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S26",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000D6YPIB",
+      "styleId": "VN000D6Y",
+      "focusedProduct": false,
+      "name": "Classic Slip-On Checkerboard Shoe",
+      "shortDescription": "Lifestyle, Classic Icon, Canvas",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/classic-slip-on-5315/classic-slip-on-VN000D6YPIB",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5315",
+      "primaryCategoryName": "Classic Slip On",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Classic Slip On",
+          "url": "/en-us/c/shoes/icons/classic-slip-on-5315"
+        }
+      ],
+      "eyebrow": {
+        "label": "Buy More Save More",
+        "id": "BMSM Promotion",
+        "colorHexCode": "none",
+        "details": "$30 off $100, $50 off $150, $70 off $200"
+      },
+      "rating": {
+        "score": 5,
+        "reviewsCount": 2
+      },
+      "availableColorsCount": 32,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1765307029/VN000D6YPIB-HERO/Classic-SlipOn-Checkerboard-Shoe-VANS-HERO.png",
+          "type": "image",
+          "alt": "Classic SlipOn Checkerboard Shoe VANS Pink  Black HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1765307026/VN000D6YPIB-ALT1/Classic-SlipOn-Checkerboard-Shoe-VANS-ALT1.png",
+          "type": "image",
+          "alt": "Classic SlipOn Checkerboard Shoe VANS Pink  Black ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1765307027/VN000D6YPIB-ALT2/Classic-SlipOn-Checkerboard-Shoe-VANS-ALT2.png",
+          "type": "image",
+          "alt": "Classic SlipOn Checkerboard Shoe VANS Pink  Black ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1765307028/VN000D6YPIB-ALT3/Classic-SlipOn-Checkerboard-Shoe-VANS-ALT3.png",
+          "type": "image",
+          "alt": "Classic SlipOn Checkerboard Shoe VANS Pink  Black ALT3"
+        }
+      ],
+      "price": {
+        "lowOriginal": 60,
+        "highOriginal": 60,
+        "lowCurrent": 60,
+        "highCurrent": 60
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "F26",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000E9TBPA",
+      "styleId": "VN000E9T",
+      "focusedProduct": false,
+      "name": "Old Skool Shoe",
+      "shortDescription": "Lifestyle, Classic Icon, Leather",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/old-skool-5205/old-skool-VN000E9TBPA",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5205",
+      "primaryCategoryName": "Old Skool",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Old Skool",
+          "url": "/en-us/c/shoes/icons/old-skool-5205"
+        }
+      ],
+      "eyebrow": {
+        "label": "Buy More Save More",
+        "id": "BMSM Promotion",
+        "colorHexCode": "none",
+        "details": "$30 off $100, $50 off $150, $70 off $200"
+      },
+      "rating": {
+        "score": 0,
+        "reviewsCount": 0
+      },
+      "availableColorsCount": 3,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548022/VN000E9TBPA-HERO/Old-Skool-Shoe-VANS-HERO.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS Black  True White HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548016/VN000E9TBPA-ALT1/Old-Skool-Shoe-VANS-ALT1.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS Black  True White ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548019/VN000E9TBPA-ALT2/Old-Skool-Shoe-VANS-ALT2.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS Black  True White ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548021/VN000E9TBPA-ALT3/Old-Skool-Shoe-VANS-ALT3.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS Black  True White ALT3"
+        }
+      ],
+      "price": {
+        "lowOriginal": 85,
+        "highOriginal": 85,
+        "lowCurrent": 85,
+        "highCurrent": 85
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000BW7DFM",
+      "styleId": "VN000BW7",
+      "focusedProduct": false,
+      "name": "Sk8-Hi Shoe",
+      "shortDescription": "Lifestyle, Classic Icon, Suede",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/sk8-hi-5325/sk8-hi-VN000BW7DFM",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5325",
+      "primaryCategoryName": "Sk8 Hi",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Sk8 Hi",
+          "url": "/en-us/c/shoes/icons/sk8-hi-5325"
+        }
+      ],
+      "eyebrow": {
+        "label": "Buy More Save More",
+        "id": "BMSM Promotion",
+        "colorHexCode": "none",
+        "details": "$30 off $100, $50 off $150, $70 off $200"
+      },
+      "rating": {
+        "score": 4.7,
+        "reviewsCount": 54
+      },
+      "availableColorsCount": 11,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767047157/VN000BW7DFM-HERO/Sk8Hi-Shoe-VANS-HERO.png",
+          "type": "image",
+          "alt": "Sk8Hi Shoe VANS Brown HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767047164/VN000BW7DFM-ALT1/Sk8Hi-Shoe-VANS-ALT1.png",
+          "type": "image",
+          "alt": "Sk8Hi Shoe VANS Brown ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767047171/VN000BW7DFM-ALT2/Sk8Hi-Shoe-VANS-ALT2.png",
+          "type": "image",
+          "alt": "Sk8Hi Shoe VANS Brown ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767047149/VN000BW7DFM-ALT3/Sk8Hi-Shoe-VANS-ALT3.png",
+          "type": "image",
+          "alt": "Sk8Hi Shoe VANS Brown ALT3"
+        }
+      ],
+      "price": {
+        "lowOriginal": 75,
+        "highOriginal": 75,
+        "lowCurrent": 75,
+        "highCurrent": 75
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S26",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000E9TBKA",
+      "styleId": "VN000E9T",
+      "focusedProduct": false,
+      "name": "Old Skool Shoe",
+      "shortDescription": "Lifestyle, Classic Icon, Leather",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/old-skool-5205/old-skool-VN000E9TBKA",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5205",
+      "primaryCategoryName": "Old Skool",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Old Skool",
+          "url": "/en-us/c/shoes/icons/old-skool-5205"
+        }
+      ],
+      "eyebrow": {
+        "label": "Buy More Save More",
+        "id": "BMSM Promotion",
+        "colorHexCode": "none",
+        "details": "$30 off $100, $50 off $150, $70 off $200"
+      },
+      "rating": {
+        "score": 0,
+        "reviewsCount": 0
+      },
+      "availableColorsCount": 3,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548015/VN000E9TBKA-HERO/Old-Skool-Shoe-VANS-HERO.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS Blackout HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548011/VN000E9TBKA-ALT1/Old-Skool-Shoe-VANS-ALT1.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS Blackout ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548013/VN000E9TBKA-ALT2/Old-Skool-Shoe-VANS-ALT2.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS Blackout ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548013/VN000E9TBKA-ALT3/Old-Skool-Shoe-VANS-ALT3.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS Blackout ALT3"
+        }
+      ],
+      "price": {
+        "lowOriginal": 85,
+        "highOriginal": 85,
+        "lowCurrent": 85,
+        "highCurrent": 85
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000EGABPB",
+      "styleId": "VN000EGA",
+      "focusedProduct": false,
+      "name": "Authentic Shoe",
+      "shortDescription": "Lifestyle, Classic Icon, Leather",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/authentic-5310/authentic-VN000EGABPB",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5310",
+      "primaryCategoryName": "Authentic",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Authentic",
+          "url": "/en-us/c/shoes/icons/authentic-5310"
+        }
+      ],
+      "eyebrow": {
+        "label": "New",
+        "id": "New Arrival",
+        "colorHexCode": "none"
+      },
+      "rating": {
+        "score": 0,
+        "reviewsCount": 0
+      },
+      "availableColorsCount": 3,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548065/VN000EGABPB-HERO/Authentic-Shoe-VANS-HERO.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS Black  True White HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548059/VN000EGABPB-ALT1/Authentic-Shoe-VANS-ALT1.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS Black  True White ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548062/VN000EGABPB-ALT2/Authentic-Shoe-VANS-ALT2.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS Black  True White ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548060/VN000EGABPB-ALT3/Authentic-Shoe-VANS-ALT3.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS Black  True White ALT3"
+        }
+      ],
+      "price": {
+        "lowOriginal": 70,
+        "highOriginal": 70,
+        "lowCurrent": 70,
+        "highCurrent": 70
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000EE6BPA",
+      "styleId": "VN000EE6",
+      "focusedProduct": false,
+      "name": "Knu Skool Shoe",
+      "shortDescription": "Lifestyle, Retro Chunky, Leather",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/knu-skool-5840/knu-skool-VN000EE6BPA",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5840",
+      "primaryCategoryName": "Knu Skool",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Knu Skool",
+          "url": "/en-us/c/shoes/knu-skool-5840"
+        }
+      ],
+      "eyebrow": {
+        "label": "Buy More Save More",
+        "id": "BMSM Promotion",
+        "colorHexCode": "none",
+        "details": "$30 off $100, $50 off $150, $70 off $200"
+      },
+      "rating": {
+        "score": 0,
+        "reviewsCount": 0
+      },
+      "availableColorsCount": 2,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767048934/VN000EE6BPA-HERO/Knu-Skool-Shoe-VANS-HERO.png",
+          "type": "image",
+          "alt": "Knu Skool Shoe VANS Black  True White HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767048902/VN000EE6BPA-ALT1/Knu-Skool-Shoe-VANS-ALT1.png",
+          "type": "image",
+          "alt": "Knu Skool Shoe VANS Black  True White ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767048910/VN000EE6BPA-ALT2/Knu-Skool-Shoe-VANS-ALT2.png",
+          "type": "image",
+          "alt": "Knu Skool Shoe VANS Black  True White ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767048915/VN000EE6BPA-ALT3/Knu-Skool-Shoe-VANS-ALT3.png",
+          "type": "image",
+          "alt": "Knu Skool Shoe VANS Black  True White ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767048934/VN000EE6BPA-ALT4/Knu-Skool-Shoe-VANS-ALT4.png",
+          "type": "image",
+          "alt": "Knu Skool Shoe VANS Black  True White ALT4"
+        }
+      ],
+      "price": {
+        "lowOriginal": 95,
+        "highOriginal": 95,
+        "lowCurrent": 95,
+        "highCurrent": 95
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000Z9YBKA",
+      "styleId": "VN000Z9Y",
+      "focusedProduct": false,
+      "name": "Knu Skool Shoe",
+      "shortDescription": "Lifestyle, Retro Chunky, Leather",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/knu-skool-5840/knu-skool-VN000Z9YBKA",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5840",
+      "primaryCategoryName": "Knu Skool",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Knu Skool",
+          "url": "/en-us/c/shoes/knu-skool-5840"
+        }
+      ],
+      "eyebrow": {
+        "label": "Buy More Save More",
+        "id": "BMSM Promotion",
+        "colorHexCode": "none",
+        "details": "$30 off $100, $50 off $150, $70 off $200"
+      },
+      "rating": {
+        "score": 0,
+        "reviewsCount": 0
+      },
+      "availableColorsCount": 2,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767049450/VN000Z9YBKA-HERO/Knu-Skool-Shoe-VANS-HERO.png",
+          "type": "image",
+          "alt": "Knu Skool Shoe VANS Blackout HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767049430/VN000Z9YBKA-ALT1/Knu-Skool-Shoe-VANS-ALT1.png",
+          "type": "image",
+          "alt": "Knu Skool Shoe VANS Blackout ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767049455/VN000Z9YBKA-ALT2/Knu-Skool-Shoe-VANS-ALT2.png",
+          "type": "image",
+          "alt": "Knu Skool Shoe VANS Blackout ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767049441/VN000Z9YBKA-ALT3/Knu-Skool-Shoe-VANS-ALT3.png",
+          "type": "image",
+          "alt": "Knu Skool Shoe VANS Blackout ALT3"
+        }
+      ],
+      "price": {
+        "lowOriginal": 95,
+        "highOriginal": 95,
+        "lowCurrent": 95,
+        "highCurrent": 95
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000D9NTUD",
+      "styleId": "VN000D9N",
+      "focusedProduct": false,
+      "name": "Premium Authentic Shoe",
+      "shortDescription": "Lifestyle, Icon, Cushioning, Canvas",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/authentic-5310/lx-authentic-44-VN000D9NTUD",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5310",
+      "primaryCategoryName": "Authentic",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Authentic",
+          "url": "/en-us/c/shoes/icons/authentic-5310"
+        }
+      ],
+      "eyebrow": {
+        "label": "Buy More Save More",
+        "id": "BMSM Promotion",
+        "colorHexCode": "none",
+        "details": "$30 off $100, $50 off $150, $70 off $200"
+      },
+      "rating": {
+        "score": 0,
+        "reviewsCount": 0
+      },
+      "availableColorsCount": 17,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1774996609/VN000D9NTUD-HERO/Premium-Authentic-Shoe-VANS-HERO.jpg",
+          "type": "image",
+          "alt": "Premium Authentic Shoe VANS Brown  Purple HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1774996602/VN000D9NTUD-ALT1/Premium-Authentic-Shoe-VANS-ALT1.jpg",
+          "type": "image",
+          "alt": "Premium Authentic Shoe VANS Brown  Purple ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1774996603/VN000D9NTUD-ALT2/Premium-Authentic-Shoe-VANS-ALT2.jpg",
+          "type": "image",
+          "alt": "Premium Authentic Shoe VANS Brown  Purple ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1774996604/VN000D9NTUD-ALT3/Premium-Authentic-Shoe-VANS-ALT3.jpg",
+          "type": "image",
+          "alt": "Premium Authentic Shoe VANS Brown  Purple ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1774996606/VN000D9NTUD-ALT4/Premium-Authentic-Shoe-VANS-ALT4.jpg",
+          "type": "image",
+          "alt": "Premium Authentic Shoe VANS Brown  Purple ALT4"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1774996608/VN000D9NTUD-ALT5/Premium-Authentic-Shoe-VANS-ALT5.jpg",
+          "type": "image",
+          "alt": "Premium Authentic Shoe VANS Brown  Purple ALT5"
+        }
+      ],
+      "price": {
+        "lowOriginal": 80,
+        "highOriginal": 80,
+        "lowCurrent": 80,
+        "highCurrent": 80
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S26",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000EB7WGR",
+      "styleId": "VN000EB7",
+      "focusedProduct": false,
+      "name": "Skate Old Skool Wafflecup Shoe",
+      "shortDescription": "Skate, Icon, Vulcanized, Impact Protection, Next-Level Grip, Suede",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/old-skool-5205/skate-old-skool-wafflecup-VN000EB7WGR",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5205",
+      "primaryCategoryName": "Old Skool",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Old Skool",
+          "url": "/en-us/c/shoes/icons/old-skool-5205"
+        }
+      ],
+      "eyebrow": {
+        "label": "New",
+        "id": "New Arrival",
+        "colorHexCode": "none"
+      },
+      "rating": {
+        "score": 0,
+        "reviewsCount": 0
+      },
+      "availableColorsCount": 2,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548051/VN000EB7WGR-HERO/Skate-Old-Skool-Wafflecup-Shoe-VANS-HERO.png",
+          "type": "image",
+          "alt": "Skate Old Skool Wafflecup Shoe VANS White  Green HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548040/VN000EB7WGR-ALT1/Skate-Old-Skool-Wafflecup-Shoe-VANS-ALT1.png",
+          "type": "image",
+          "alt": "Skate Old Skool Wafflecup Shoe VANS White  Green ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548041/VN000EB7WGR-ALT2/Skate-Old-Skool-Wafflecup-Shoe-VANS-ALT2.png",
+          "type": "image",
+          "alt": "Skate Old Skool Wafflecup Shoe VANS White  Green ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548041/VN000EB7WGR-ALT3/Skate-Old-Skool-Wafflecup-Shoe-VANS-ALT3.png",
+          "type": "image",
+          "alt": "Skate Old Skool Wafflecup Shoe VANS White  Green ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548043/VN000EB7WGR-ALT4/Skate-Old-Skool-Wafflecup-Shoe-VANS-ALT4.png",
+          "type": "image",
+          "alt": "Skate Old Skool Wafflecup Shoe VANS White  Green ALT4"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548046/VN000EB7WGR-ALT5/Skate-Old-Skool-Wafflecup-Shoe-VANS-ALT5.png",
+          "type": "image",
+          "alt": "Skate Old Skool Wafflecup Shoe VANS White  Green ALT5"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548048/VN000EB7WGR-ALT6/Skate-Old-Skool-Wafflecup-Shoe-VANS-ALT6.png",
+          "type": "image",
+          "alt": "Skate Old Skool Wafflecup Shoe VANS White  Green ALT6"
+        }
+      ],
+      "price": {
+        "lowOriginal": 85,
+        "highOriginal": 85,
+        "lowCurrent": 85,
+        "highCurrent": 85
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S26",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000Z11ZX7",
+      "styleId": "VN000Z11",
+      "focusedProduct": false,
+      "name": "2-Eyelet Boat Shoe",
+      "shortDescription": "Lifestyle, Easy-On, Leather",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/low-top-7100/2-eyelet-boat-shoe-VN000Z11ZX7",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "7100",
+      "primaryCategoryName": "Low Top",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Low Top",
+          "url": "/en-us/c/shoes/low-top-7100"
+        }
+      ],
+      "eyebrow": {
+        "label": "Buy More Save More",
+        "id": "BMSM Promotion",
+        "colorHexCode": "none",
+        "details": "$30 off $100, $50 off $150, $70 off $200"
+      },
+      "rating": {
+        "score": 0,
+        "reviewsCount": 0
+      },
+      "availableColorsCount": 4,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1778101591/VN000Z11ZX7-HERO/2Eyelet-Boat-Shoe-VANS-Spicy-Mustard-Yellow-HERO.jpg",
+          "type": "image",
+          "alt": "2Eyelet Boat Shoe VANS Spicy Mustard Yellow HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1778101581/VN000Z11ZX7-ALT1/2Eyelet-Boat-Shoe-VANS-Spicy-Mustard-Yellow-ALT1.jpg",
+          "type": "image",
+          "alt": "2Eyelet Boat Shoe VANS Spicy Mustard Yellow ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1778101583/VN000Z11ZX7-ALT2/2Eyelet-Boat-Shoe-VANS-Spicy-Mustard-Yellow-ALT2.jpg",
+          "type": "image",
+          "alt": "2Eyelet Boat Shoe VANS Spicy Mustard Yellow ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1778101585/VN000Z11ZX7-ALT3/2Eyelet-Boat-Shoe-VANS-Spicy-Mustard-Yellow-ALT3.jpg",
+          "type": "image",
+          "alt": "2Eyelet Boat Shoe VANS Spicy Mustard Yellow ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1778101588/VN000Z11ZX7-ALT4/2Eyelet-Boat-Shoe-VANS-Spicy-Mustard-Yellow-ALT4.jpg",
+          "type": "image",
+          "alt": "2Eyelet Boat Shoe VANS Spicy Mustard Yellow ALT4"
+        }
+      ],
+      "price": {
+        "lowOriginal": 90,
+        "highOriginal": 90,
+        "lowCurrent": 90,
+        "highCurrent": 90
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S26",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000Z74GRI",
+      "styleId": "VN000Z74",
+      "focusedProduct": false,
+      "name": "Authentic Shoe",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/authentic-5310/authentic-VN000Z74GRI",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5310",
+      "primaryCategoryName": "Authentic",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Authentic",
+          "url": "/en-us/c/shoes/icons/authentic-5310"
+        }
+      ],
+      "eyebrow": {
+        "label": "Buy More Save More",
+        "id": "BMSM Promotion",
+        "colorHexCode": "none",
+        "details": "$30 off $100, $50 off $150, $70 off $200"
+      },
+      "rating": {
+        "score": 0,
+        "reviewsCount": 0
+      },
+      "availableColorsCount": 42,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1776185750/VN000Z74GRI-HERO/Authentic-Shoe-VANS-HERO.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS DUCK CANVAS Soft Slate Blue HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1776185745/VN000Z74GRI-ALT1/Authentic-Shoe-VANS-ALT1.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS DUCK CANVAS Soft Slate Blue ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1776185746/VN000Z74GRI-ALT2/Authentic-Shoe-VANS-ALT2.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS DUCK CANVAS Soft Slate Blue ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1776185747/VN000Z74GRI-ALT3/Authentic-Shoe-VANS-ALT3.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS DUCK CANVAS Soft Slate Blue ALT3"
+        }
+      ],
+      "price": {
+        "lowOriginal": 65,
+        "highOriginal": 65,
+        "lowCurrent": 65,
+        "highCurrent": 65
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "F26",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000D5PYB2",
+      "styleId": "VN000D5P",
+      "focusedProduct": false,
+      "name": "Classic Slip-On Checkerboard Shoe",
+      "shortDescription": "Lifestyle, Classic Icon, Canvas",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/classic-slip-on-5315/classic-slip-on-checkerboard-shoe-VN000D5PYB2",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5315",
+      "primaryCategoryName": "Classic Slip On",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Classic Slip On",
+          "url": "/en-us/c/shoes/icons/classic-slip-on-5315"
+        }
+      ],
+      "eyebrow": {
+        "label": "Top Seller",
+        "id": "Top Seller",
+        "colorHexCode": "none"
+      },
+      "rating": {
+        "score": 3.4,
+        "reviewsCount": 10
+      },
+      "availableColorsCount": 32,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1740626053/VN000D5PYB2-HERO/Classic-SlipOn-Checkerboard-Shoe-VANS-White-Black-HERO.png",
+          "type": "image",
+          "alt": "Classic SlipOn Checkerboard Shoe VANS Checkerboard White  Black HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1771368606/VN000D5PYB2-ALT1/Classic-SlipOn-Checkerboard-Shoe-VANS-Checkerboard-White-Black-ALT1.jpg",
+          "type": "image",
+          "alt": "Classic SlipOn Checkerboard Shoe VANS Checkerboard White  Black ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1771368605/VN000D5PYB2-ALT2/Classic-SlipOn-Checkerboard-Shoe-VANS-Checkerboard-White-Black-ALT2.jpg",
+          "type": "image",
+          "alt": "Classic SlipOn Checkerboard Shoe VANS Checkerboard White  Black ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1771368606/VN000D5PYB2-ALT3/Classic-SlipOn-Checkerboard-Shoe-VANS-Checkerboard-White-Black-ALT3.jpg",
+          "type": "image",
+          "alt": "Classic SlipOn Checkerboard Shoe VANS Checkerboard White  Black ALT3"
+        }
+      ],
+      "price": {
+        "lowOriginal": 65,
+        "highOriginal": 65,
+        "lowCurrent": 65,
+        "highCurrent": 65
+      },
+      "isCustoms": false,
+      "customsRecipeID": "0a7f002bfd58aaaf7e4db4b80609a5f2",
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000D60BLK",
+      "styleId": "VN000D60",
+      "focusedProduct": false,
+      "name": "UltraRange 2.0 Shoe",
+      "shortDescription": "Multi-Terrain, Lightweight, Cushioning, Rapidweld",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/ultrarange-5140/ultrarange-20-shoe-VN000D60BLK",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5140",
+      "primaryCategoryName": "UltraRange",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "UltraRange",
+          "url": "/en-us/c/shoes/ultrarange-5140"
+        }
+      ],
+      "eyebrow": {
+        "label": "Buy More Save More",
+        "id": "BMSM Promotion",
+        "colorHexCode": "none",
+        "details": "$30 off $100, $50 off $150, $70 off $200"
+      },
+      "rating": {
+        "score": 0,
+        "reviewsCount": 0
+      },
+      "availableColorsCount": 29,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1772670275/VN000D60BLK-HERO/UltraRange-20-Shoe-VANS-Black-HERO.jpg",
+          "type": "image",
+          "alt": "UltraRange 20 Shoe VANS Black HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1772670269/VN000D60BLK-ALT1/UltraRange-20-Shoe-VANS-Black-ALT1.jpg",
+          "type": "image",
+          "alt": "UltraRange 20 Shoe VANS Black ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1772670270/VN000D60BLK-ALT2/UltraRange-20-Shoe-VANS-Black-ALT2.jpg",
+          "type": "image",
+          "alt": "UltraRange 20 Shoe VANS Black ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1755307992/VN000D60BLK-ALT3/UltraRange-20-Shoe-VANS-Black-White-ALT3.png",
+          "type": "image",
+          "alt": "UltraRange 20 Shoe VANS Black ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1755308002/VN000D60BLK-ALT4/UltraRange-20-Shoe-VANS-Black-White-ALT4.png",
+          "type": "image",
+          "alt": "UltraRange 20 Shoe VANS Black ALT4"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1755308004/VN000D60BLK-ALT5/UltraRange-20-Shoe-VANS-Black-White-ALT5.png",
+          "type": "image",
+          "alt": "UltraRange 20 Shoe VANS Black ALT5"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1772670275/VN000D60BLK-ALT6/UltraRange-20-Shoe-VANS-Black-ALT6.jpg",
+          "type": "image",
+          "alt": "UltraRange 20 Shoe VANS Black ALT6"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1772665707/VN000D60BLK-ALT7/UltraRange-20-Shoe-VANS-Black-ALT7.jpg",
+          "type": "image",
+          "alt": "UltraRange 20 Shoe VANS Black ALT7"
+        }
+      ],
+      "price": {
+        "lowOriginal": 100,
+        "highOriginal": 100,
+        "lowCurrent": 100,
+        "highCurrent": 100
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000D5IB8C",
+      "styleId": "VN000D5I",
+      "focusedProduct": false,
+      "name": "Sk8-Hi Shoe",
+      "shortDescription": "Lifestyle, Classic Icon, Suede/Canvas",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/sk8-hi-5325/sk8-hi-shoe-VN000D5IB8C",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5325",
+      "primaryCategoryName": "Sk8 Hi",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Sk8 Hi",
+          "url": "/en-us/c/shoes/icons/sk8-hi-5325"
+        }
+      ],
+      "eyebrow": {},
+      "rating": {
+        "score": 4.6,
+        "reviewsCount": 2298
+      },
+      "availableColorsCount": 11,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1753917953/VN000D5IB8C-HERO/Sk8Hi-Shoe-VANS-Black-White-HERO.png",
+          "type": "image",
+          "alt": "Sk8Hi Shoe VANS Black  White HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1753917945/VN000D5IB8C-ALT1/Sk8Hi-Shoe-VANS-Black-White-ALT1.png",
+          "type": "image",
+          "alt": "Sk8Hi Shoe VANS Black  White ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1753917948/VN000D5IB8C-ALT2/Sk8Hi-Shoe-VANS-Black-White-ALT2.png",
+          "type": "image",
+          "alt": "Sk8Hi Shoe VANS Black  White ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1753917952/VN000D5IB8C-ALT3/Sk8Hi-Shoe-VANS-Black-White-ALT3.png",
+          "type": "image",
+          "alt": "Sk8Hi Shoe VANS Black  White ALT3"
+        }
+      ],
+      "price": {
+        "lowOriginal": 80,
+        "highOriginal": 80,
+        "lowCurrent": 80,
+        "highCurrent": 80
+      },
+      "isCustoms": false,
+      "customsRecipeID": "25252703cc00477f7c9d1211ebb34102",
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN0A5FCBY28",
+      "styleId": "VN0A5FCB",
+      "focusedProduct": false,
+      "name": "Skate Old Skool Shoe",
+      "shortDescription": "Skate, Icon, Vulcanized, Impact Protection, Next-Level Grip, Suede/Canvas",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/old-skool-5205/skate-old-skool-shoe-VN0A5FCBY28",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5205",
+      "primaryCategoryName": "Old Skool",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Old Skool",
+          "url": "/en-us/c/shoes/icons/old-skool-5205"
+        }
+      ],
+      "eyebrow": {},
+      "rating": {
+        "score": 4.4,
+        "reviewsCount": 1064
+      },
+      "availableColorsCount": 13,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1753917675/VN0A5FCBY28-HERO/Skate-Old-Skool-Shoe-VANS-Black-White-HERO.png",
+          "type": "image",
+          "alt": "Skate Old Skool Shoe VANS Black  White HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1753917661/VN0A5FCBY28-ALT1/Skate-Old-Skool-Shoe-VANS-Black-White-ALT1.png",
+          "type": "image",
+          "alt": "Skate Old Skool Shoe VANS Black  White ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1753917663/VN0A5FCBY28-ALT2/Skate-Old-Skool-Shoe-VANS-Black-White-ALT2.png",
+          "type": "image",
+          "alt": "Skate Old Skool Shoe VANS Black  White ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1753917662/VN0A5FCBY28-ALT3/Skate-Old-Skool-Shoe-VANS-Black-White-ALT3.png",
+          "type": "image",
+          "alt": "Skate Old Skool Shoe VANS Black  White ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1753917670/VN0A5FCBY28-ALT4/Skate-Old-Skool-Shoe-VANS-Black-White-ALT4.png",
+          "type": "image",
+          "alt": "Skate Old Skool Shoe VANS Black  White ALT4"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1753917674/VN0A5FCBY28-ALT5/Skate-Old-Skool-Shoe-VANS-Black-White-ALT5.png",
+          "type": "image",
+          "alt": "Skate Old Skool Shoe VANS Black  White ALT5"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1753207709/VN0A5FCBY28-ALT6/Skate-Old-Skool-Shoe-VANS-Black-White-ALT6.jpg",
+          "type": "image",
+          "alt": "Skate Old Skool Shoe VANS Black  White ALT6"
+        }
+      ],
+      "price": {
+        "lowOriginal": 80,
+        "highOriginal": 80,
+        "lowCurrent": 80,
+        "highCurrent": 80
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000D60BKA",
+      "styleId": "VN000D60",
+      "focusedProduct": false,
+      "name": "UltraRange 2.0 Shoe",
+      "shortDescription": "Multi-Terrain, Lightweight, Cushioning, Rapidweld",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/ultrarange-5140/ultrarange-20-shoe-VN000D60BKA",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5140",
+      "primaryCategoryName": "UltraRange",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "UltraRange",
+          "url": "/en-us/c/shoes/ultrarange-5140"
+        }
+      ],
+      "eyebrow": {
+        "label": "Buy More Save More",
+        "id": "BMSM Promotion",
+        "colorHexCode": "none",
+        "details": "$30 off $100, $50 off $150, $70 off $200"
+      },
+      "rating": {
+        "score": 0,
+        "reviewsCount": 0
+      },
+      "availableColorsCount": 29,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1772670267/VN000D60BKA-HERO/UltraRange-20-Shoe-VANS-Blackout-HERO.jpg",
+          "type": "image",
+          "alt": "UltraRange 20 Shoe VANS Blackout HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1772670265/VN000D60BKA-ALT1/UltraRange-20-Shoe-VANS-Blackout-ALT1.jpg",
+          "type": "image",
+          "alt": "UltraRange 20 Shoe VANS Blackout ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1772670265/VN000D60BKA-ALT2/UltraRange-20-Shoe-VANS-Blackout-ALT2.jpg",
+          "type": "image",
+          "alt": "UltraRange 20 Shoe VANS Blackout ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1755307978/VN000D60BKA-ALT3/UltraRange-20-Shoe-VANS-Black-ALT3.png",
+          "type": "image",
+          "alt": "UltraRange 20 Shoe VANS Blackout ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1755307979/VN000D60BKA-ALT4/UltraRange-20-Shoe-VANS-Black-ALT4.png",
+          "type": "image",
+          "alt": "UltraRange 20 Shoe VANS Blackout ALT4"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1755307989/VN000D60BKA-ALT5/UltraRange-20-Shoe-VANS-Black-ALT5.png",
+          "type": "image",
+          "alt": "UltraRange 20 Shoe VANS Blackout ALT5"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1772670266/VN000D60BKA-ALT6/UltraRange-20-Shoe-VANS-Blackout-ALT6.jpg",
+          "type": "image",
+          "alt": "UltraRange 20 Shoe VANS Blackout ALT6"
+        }
+      ],
+      "price": {
+        "lowOriginal": 100,
+        "highOriginal": 100,
+        "lowCurrent": 100,
+        "highCurrent": 100
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000EYEW00",
+      "styleId": "VN000EYE",
+      "focusedProduct": false,
+      "name": "Classic Slip-On Shoe",
+      "shortDescription": "Lifestyle, Classic Icon, Canvas",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/classic-slip-on-5315/classic-slip-on-shoe-VN000EYEW00",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5315",
+      "primaryCategoryName": "Classic Slip On",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Classic Slip On",
+          "url": "/en-us/c/shoes/icons/classic-slip-on-5315"
+        }
+      ],
+      "eyebrow": {
+        "label": "Top Seller",
+        "id": "Top Seller",
+        "colorHexCode": "none"
+      },
+      "rating": {
+        "score": 4.6,
+        "reviewsCount": 8974
+      },
+      "availableColorsCount": 22,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1740714506/VN000EYEW00-HERO/Classic-SlipOn-Shoe-VANS-True-White-HERO.png",
+          "type": "image",
+          "alt": "Classic SlipOn Shoe VANS True White HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1740714493/VN000EYEW00-ALT2/Classic-SlipOn-Shoe-VANS-True-White-ALT2.png",
+          "type": "image",
+          "alt": "Classic SlipOn Shoe VANS True White ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1740714499/VN000EYEW00-ALT3/Classic-SlipOn-Shoe-VANS-True-White-ALT3.png",
+          "type": "image",
+          "alt": "Classic SlipOn Shoe VANS True White ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1740714501/VN000EYEW00-ALT4/Classic-SlipOn-Shoe-VANS-True-White-ALT4.png",
+          "type": "image",
+          "alt": "Classic SlipOn Shoe VANS True White ALT4"
+        }
+      ],
+      "price": {
+        "lowOriginal": 60,
+        "highOriginal": 60,
+        "lowCurrent": 60,
+        "highCurrent": 60
+      },
+      "isCustoms": false,
+      "customsRecipeID": "e26e3f72a9b7e92d030ce38921925d40",
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN00117JCCZ",
+      "styleId": "VN00117J",
+      "focusedProduct": false,
+      "name": "Skate Era Shoe",
+      "shortDescription": "Skate, Icon, Vulcanized, Impact Protection, Next-Level Grip, Suede/Canvas",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/era-5320/skate-era-VN00117JCCZ",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5320",
+      "primaryCategoryName": "Era",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Era",
+          "url": "/en-us/c/shoes/icons/era-5320"
+        }
+      ],
+      "eyebrow": {},
+      "rating": {
+        "score": 0,
+        "reviewsCount": 0
+      },
+      "availableColorsCount": 7,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767822185/VN00117JCCZ-HERO/Skate-Era-Shoe-VANS-HERO.png",
+          "type": "image",
+          "alt": "Skate Era Shoe VANS Marshmallow White HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767822177/VN00117JCCZ-ALT1/Skate-Era-Shoe-VANS-ALT1.png",
+          "type": "image",
+          "alt": "Skate Era Shoe VANS Marshmallow White ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767822178/VN00117JCCZ-ALT2/Skate-Era-Shoe-VANS-ALT2.png",
+          "type": "image",
+          "alt": "Skate Era Shoe VANS Marshmallow White ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767822183/VN00117JCCZ-ALT3/Skate-Era-Shoe-VANS-ALT3.png",
+          "type": "image",
+          "alt": "Skate Era Shoe VANS Marshmallow White ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767822187/VN00117JCCZ-ALT4/Skate-Era-Shoe-VANS-ALT4.png",
+          "type": "image",
+          "alt": "Skate Era Shoe VANS Marshmallow White ALT4"
+        }
+      ],
+      "price": {
+        "lowOriginal": 65,
+        "highOriginal": 65,
+        "lowCurrent": 65,
+        "highCurrent": 65
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S26",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN0A5FCCBKA",
+      "styleId": "VN0A5FCC",
+      "focusedProduct": false,
+      "name": "Skate Sk8-Hi Shoe",
+      "shortDescription": "Skate, Icon, Vulcanized, Impact Protection, Next-Level Grip, Suede/Canvas",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/sk8-hi-5325/skate-sk8-hi-shoe-VN0A5FCCBKA",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5325",
+      "primaryCategoryName": "Sk8 Hi",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Sk8 Hi",
+          "url": "/en-us/c/shoes/icons/sk8-hi-5325"
+        }
+      ],
+      "eyebrow": {},
+      "rating": {
+        "score": 4.4,
+        "reviewsCount": 654
+      },
+      "availableColorsCount": 7,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1750296040/VN0A5FCCBKA-HERO/Skate-Sk8Hi-Shoe-VANS-BlackBlack-HERO.png",
+          "type": "image",
+          "alt": "Skate Sk8Hi Shoe VANS Blackout HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1750295634/VN0A5FCCBKA-ALT1/Skate-Sk8Hi-Shoe-VANS-BlackBlack-ALT1.png",
+          "type": "image",
+          "alt": "Skate Sk8Hi Shoe VANS Blackout ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1750295636/VN0A5FCCBKA-ALT2/Skate-Sk8Hi-Shoe-VANS-BlackBlack-ALT2.png",
+          "type": "image",
+          "alt": "Skate Sk8Hi Shoe VANS Blackout ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1750295647/VN0A5FCCBKA-ALT3/Skate-Sk8Hi-Shoe-VANS-BlackBlack-ALT3.png",
+          "type": "image",
+          "alt": "Skate Sk8Hi Shoe VANS Blackout ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1750296040/VN0A5FCCBKA-ALT4/Skate-Sk8Hi-Shoe-VANS-BlackBlack-ALT4.png",
+          "type": "image",
+          "alt": "Skate Sk8Hi Shoe VANS Blackout ALT4"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1750296040/VN0A5FCCBKA-ALT5/Skate-Sk8Hi-Shoe-VANS-BlackBlack-ALT5.png",
+          "type": "image",
+          "alt": "Skate Sk8Hi Shoe VANS Blackout ALT5"
+        }
+      ],
+      "price": {
+        "lowOriginal": 85,
+        "highOriginal": 85,
+        "lowCurrent": 85,
+        "highCurrent": 85
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN0A5FCAAUH",
+      "styleId": "VN0A5FCA",
+      "focusedProduct": false,
+      "name": "Skate Slip-On Checkerboard Shoe",
+      "shortDescription": "Skate, Icon, Vulcanized, Impact Protection, Next-Level Grip, Canvas",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/classic-slip-on-5315/skate-slip-on-checkerboard-shoe-VN0A5FCAAUH",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5315",
+      "primaryCategoryName": "Classic Slip On",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Classic Slip On",
+          "url": "/en-us/c/shoes/icons/classic-slip-on-5315"
+        }
+      ],
+      "eyebrow": {},
+      "rating": {
+        "score": 3.6,
+        "reviewsCount": 1022
+      },
+      "availableColorsCount": 10,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1753917629/VN0A5FCAAUH-HERO/Skate-SlipOn-Checkerboard-Shoe-VANS-BlackOff-White-HERO.png",
+          "type": "image",
+          "alt": "Skate SlipOn Checkerboard Shoe VANS Checkerboard Black  Off White HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1753917615/VN0A5FCAAUH-ALT1/Skate-SlipOn-Checkerboard-Shoe-VANS-BlackOff-White-ALT1.png",
+          "type": "image",
+          "alt": "Skate SlipOn Checkerboard Shoe VANS Checkerboard Black  Off White ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1753917617/VN0A5FCAAUH-ALT2/Skate-SlipOn-Checkerboard-Shoe-VANS-BlackOff-White-ALT2.png",
+          "type": "image",
+          "alt": "Skate SlipOn Checkerboard Shoe VANS Checkerboard Black  Off White ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1753917620/VN0A5FCAAUH-ALT3/Skate-SlipOn-Checkerboard-Shoe-VANS-BlackOff-White-ALT3.png",
+          "type": "image",
+          "alt": "Skate SlipOn Checkerboard Shoe VANS Checkerboard Black  Off White ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1753917628/VN0A5FCAAUH-ALT4/Skate-SlipOn-Checkerboard-Shoe-VANS-BlackOff-White-ALT4.png",
+          "type": "image",
+          "alt": "Skate SlipOn Checkerboard Shoe VANS Checkerboard Black  Off White ALT4"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1753917630/VN0A5FCAAUH-ALT5/Skate-SlipOn-Checkerboard-Shoe-VANS-BlackOff-White-ALT5.png",
+          "type": "image",
+          "alt": "Skate SlipOn Checkerboard Shoe VANS Checkerboard Black  Off White ALT5"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1753207160/VN0A5FCAAUH-ALT6/Skate-SlipOn-Checkerboard-Shoe-VANS-BlackOff-White-ALT6.jpg",
+          "type": "image",
+          "alt": "Skate SlipOn Checkerboard Shoe VANS Checkerboard Black  Off White ALT6"
+        }
+      ],
+      "price": {
+        "lowOriginal": 65,
+        "highOriginal": 65,
+        "lowCurrent": 65,
+        "highCurrent": 65
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000D3HBKA",
+      "styleId": "VN000D3H",
+      "focusedProduct": false,
+      "name": "Old Skool Shoe",
+      "shortDescription": "Lifestyle, Classic Icon, Suede/Canvas",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/old-skool-5205/old-skool-canvas-shoe-VN000D3HBKA",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5205",
+      "primaryCategoryName": "Old Skool",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Old Skool",
+          "url": "/en-us/c/shoes/icons/old-skool-5205"
+        }
+      ],
+      "eyebrow": {},
+      "rating": {
+        "score": 4.7,
+        "reviewsCount": 5470
+      },
+      "availableColorsCount": 52,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1740710862/VN000D3HBKA-HERO/Old-Skool-Shoe-VANS-BlackBlack-HERO.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS Blackout HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1740710858/VN000D3HBKA-ALT1/Old-Skool-Shoe-VANS-BlackBlack-ALT1.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS Blackout ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1740710858/VN000D3HBKA-ALT2/Old-Skool-Shoe-VANS-BlackBlack-ALT2.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS Blackout ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1740710864/VN000D3HBKA-ALT3/Old-Skool-Shoe-VANS-BlackBlack-ALT3.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS Blackout ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1740710858/VN000D3HBKA-ALT4/Old-Skool-Shoe-VANS-BlackBlack-ALT4.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS Blackout ALT4"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1740710854/VN000D3HBKA-ALT5/Old-Skool-Shoe-VANS-BlackBlack-ALT5.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS Blackout ALT5"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1740710858/VN000D3HBKA-ALT6/Old-Skool-Shoe-VANS-BlackBlack-ALT6.png",
+          "type": "image",
+          "alt": "Old Skool Shoe VANS Blackout ALT6"
+        }
+      ],
+      "price": {
+        "lowOriginal": 75,
+        "highOriginal": 75,
+        "lowCurrent": 75,
+        "highCurrent": 75
+      },
+      "isCustoms": false,
+      "customsRecipeID": "5903aa0eb27881c80e197be5289b148a",
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000D6085T",
+      "styleId": "VN000D60",
+      "focusedProduct": false,
+      "name": "UltraRange 2.0 Shoe",
+      "shortDescription": "Multi-Terrain, Lightweight, Cushioning, Rapidweld",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/ultrarange-5140/ultrarange-20-shoe-VN000D6085T",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5140",
+      "primaryCategoryName": "UltraRange",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "UltraRange",
+          "url": "/en-us/c/shoes/ultrarange-5140"
+        }
+      ],
+      "eyebrow": {
+        "label": "Buy More Save More",
+        "id": "BMSM Promotion",
+        "colorHexCode": "none",
+        "details": "$30 off $100, $50 off $150, $70 off $200"
+      },
+      "rating": {
+        "score": 0,
+        "reviewsCount": 0
+      },
+      "availableColorsCount": 29,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1748389226/VN000D6085T-HERO/UltraRange-20-Shoe-VANS-Frost-Grey-HERO.png",
+          "type": "image",
+          "alt": "UltraRange 20 Shoe VANS Frost Grey HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1748389212/VN000D6085T-ALT1/UltraRange-20-Shoe-VANS-Frost-Grey-ALT1.png",
+          "type": "image",
+          "alt": "UltraRange 20 Shoe VANS Frost Grey ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1748389217/VN000D6085T-ALT2/UltraRange-20-Shoe-VANS-Frost-Grey-ALT2.png",
+          "type": "image",
+          "alt": "UltraRange 20 Shoe VANS Frost Grey ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1748389217/VN000D6085T-ALT3/UltraRange-20-Shoe-VANS-Frost-Grey-ALT3.png",
+          "type": "image",
+          "alt": "UltraRange 20 Shoe VANS Frost Grey ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1748389288/VN000D6085T-ALT4/UltraRange-20-Shoe-VANS-Frost-Grey-ALT4.png",
+          "type": "image",
+          "alt": "UltraRange 20 Shoe VANS Frost Grey ALT4"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1748389223/VN000D6085T-ALT5/UltraRange-20-Shoe-VANS-Frost-Grey-ALT5.png",
+          "type": "image",
+          "alt": "UltraRange 20 Shoe VANS Frost Grey ALT5"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1748389291/VN000D6085T-ALT6/UltraRange-20-Shoe-VANS-Frost-Grey-ALT6.png",
+          "type": "image",
+          "alt": "UltraRange 20 Shoe VANS Frost Grey ALT6"
+        }
+      ],
+      "price": {
+        "lowOriginal": 100,
+        "highOriginal": 100,
+        "lowCurrent": 100,
+        "highCurrent": 100
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN0010VECJK",
+      "styleId": "VN0010VE",
+      "focusedProduct": false,
+      "name": "Premium Style 152 Shoe",
+      "shortDescription": "Lifestyle, Vintage Trainer, Traction, Cushioning",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/gift-guide-5070/lx-style-152-VN0010VECJK",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5070",
+      "primaryCategoryName": "Gift Guide",
+      "breadcrumbs": [
+        {
+          "label": "Gift Guide",
+          "url": "/en-us/c/gift-guide-5070"
+        }
+      ],
+      "eyebrow": {
+        "label": "Buy More Save More",
+        "id": "BMSM Promotion",
+        "colorHexCode": "none",
+        "details": "$30 off $100, $50 off $150, $70 off $200"
+      },
+      "rating": {
+        "score": 0,
+        "reviewsCount": 0
+      },
+      "availableColorsCount": 3,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1770672026/VN0010VECJK-HERO/Premium-Style-152-Shoe-VANS-HERO.png",
+          "type": "image",
+          "alt": "Premium Style 152 Shoe VANS Black HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1770672026/VN0010VECJK-ALT1/Premium-Style-152-Shoe-VANS-ALT1.png",
+          "type": "image",
+          "alt": "Premium Style 152 Shoe VANS Black ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548087/VN0010VECJK-ALT2/Premium-Style-152-Shoe-VANS-ALT2.png",
+          "type": "image",
+          "alt": "Premium Style 152 Shoe VANS Black ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548091/VN0010VECJK-ALT4/Premium-Style-152-Shoe-VANS-ALT4.png",
+          "type": "image",
+          "alt": "Premium Style 152 Shoe VANS Black ALT4"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1770066400/VN0010VECJK-ALT5/Premium-Style-152-Shoe-VANS-ALT5.jpg",
+          "type": "image",
+          "alt": "Premium Style 152 Shoe VANS Black ALT5"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1770066401/VN0010VECJK-ALT6/Premium-Style-152-Shoe-VANS-ALT6.jpg",
+          "type": "image",
+          "alt": "Premium Style 152 Shoe VANS Black ALT6"
+        }
+      ],
+      "price": {
+        "lowOriginal": 100,
+        "highOriginal": 100,
+        "lowCurrent": 100,
+        "highCurrent": 100
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN0A5FCB1N6",
+      "styleId": "VN0A5FCB",
+      "focusedProduct": false,
+      "name": "Skate Old Skool Shoe",
+      "shortDescription": "Skate, Icon, Vulcanized, Impact Protection, Next-Level Grip",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/old-skool-5205/skate-old-skool-shoe-VN0A5FCB1N6",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5205",
+      "primaryCategoryName": "Old Skool",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Old Skool",
+          "url": "/en-us/c/shoes/icons/old-skool-5205"
+        }
+      ],
+      "eyebrow": {
+        "label": "Buy More Save More",
+        "id": "BMSM Promotion",
+        "colorHexCode": "none",
+        "details": "$30 off $100, $50 off $150, $70 off $200"
+      },
+      "rating": {
+        "score": 4.4,
+        "reviewsCount": 1064
+      },
+      "availableColorsCount": 13,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1748389137/VN0A5FCB1N6-HERO/Skate-Old-Skool-Shoe-VANS-PewterWhite-HERO.png",
+          "type": "image",
+          "alt": "Skate Old Skool Shoe VANS Pewter Grey  White HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1748389121/VN0A5FCB1N6-ALT1/Skate-Old-Skool-Shoe-VANS-PewterWhite-ALT1.png",
+          "type": "image",
+          "alt": "Skate Old Skool Shoe VANS Pewter Grey  White ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1748389124/VN0A5FCB1N6-ALT2/Skate-Old-Skool-Shoe-VANS-PewterWhite-ALT2.png",
+          "type": "image",
+          "alt": "Skate Old Skool Shoe VANS Pewter Grey  White ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1748389124/VN0A5FCB1N6-ALT3/Skate-Old-Skool-Shoe-VANS-PewterWhite-ALT3.png",
+          "type": "image",
+          "alt": "Skate Old Skool Shoe VANS Pewter Grey  White ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1748389130/VN0A5FCB1N6-ALT4/Skate-Old-Skool-Shoe-VANS-PewterWhite-ALT4.png",
+          "type": "image",
+          "alt": "Skate Old Skool Shoe VANS Pewter Grey  White ALT4"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1748389136/VN0A5FCB1N6-ALT5/Skate-Old-Skool-Shoe-VANS-PewterWhite-ALT5.png",
+          "type": "image",
+          "alt": "Skate Old Skool Shoe VANS Pewter Grey  White ALT5"
+        }
+      ],
+      "price": {
+        "lowOriginal": 80,
+        "highOriginal": 80,
+        "lowCurrent": 80,
+        "highCurrent": 80
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "F25",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000EE3WHT",
+      "styleId": "VN000EE3",
+      "focusedProduct": false,
+      "name": "Authentic Shoe",
+      "shortDescription": "Lifestyle, Classic Icon, Canvas",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/authentic-5310/authentic-shoe-VN000EE3WHT",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5310",
+      "primaryCategoryName": "Authentic",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Authentic",
+          "url": "/en-us/c/shoes/icons/authentic-5310"
+        }
+      ],
+      "eyebrow": {},
+      "rating": {
+        "score": 4.6,
+        "reviewsCount": 4174
+      },
+      "availableColorsCount": 42,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1740714043/VN000EE3WHT-HERO/Authentic-Shoe-VANS-White-HERO.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS White HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1740714025/VN000EE3WHT-ALT1/Authentic-Shoe-VANS-White-ALT1.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS White ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1740714021/VN000EE3WHT-ALT2/Authentic-Shoe-VANS-White-ALT2.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS White ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1740714028/VN000EE3WHT-ALT3/Authentic-Shoe-VANS-White-ALT3.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS White ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1740714029/VN000EE3WHT-ALT4/Authentic-Shoe-VANS-White-ALT4.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS White ALT4"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1740714036/VN000EE3WHT-ALT5/Authentic-Shoe-VANS-White-ALT5.png",
+          "type": "image",
+          "alt": "Authentic Shoe VANS White ALT5"
+        }
+      ],
+      "price": {
+        "lowOriginal": 60,
+        "highOriginal": 60,
+        "lowCurrent": 60,
+        "highCurrent": 60
+      },
+      "isCustoms": false,
+      "customsRecipeID": "db06359894e52f4bb1e001e0eebe2b88",
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN0A5FCBBKA",
+      "styleId": "VN0A5FCB",
+      "focusedProduct": false,
+      "name": "Skate Old Skool Shoe",
+      "shortDescription": "Skate, Icon, Vulcanized, Impact Protection, Next-Level Grip, Suede/Canvas",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/old-skool-5205/skate-old-skool-shoe-VN0A5FCBBKA",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5205",
+      "primaryCategoryName": "Old Skool",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Old Skool",
+          "url": "/en-us/c/shoes/icons/old-skool-5205"
+        }
+      ],
+      "eyebrow": {},
+      "rating": {
+        "score": 4.4,
+        "reviewsCount": 1064
+      },
+      "availableColorsCount": 13,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1750295611/VN0A5FCBBKA-HERO/Skate-Old-Skool-Shoe-VANS-Black-HERO.png",
+          "type": "image",
+          "alt": "Skate Old Skool Shoe VANS Blackout HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1750295607/VN0A5FCBBKA-ALT1/Skate-Old-Skool-Shoe-VANS-Black-ALT1.png",
+          "type": "image",
+          "alt": "Skate Old Skool Shoe VANS Blackout ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1750295593/VN0A5FCBBKA-ALT2/Skate-Old-Skool-Shoe-VANS-Black-ALT2.png",
+          "type": "image",
+          "alt": "Skate Old Skool Shoe VANS Blackout ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1750295608/VN0A5FCBBKA-ALT3/Skate-Old-Skool-Shoe-VANS-Black-ALT3.png",
+          "type": "image",
+          "alt": "Skate Old Skool Shoe VANS Blackout ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1750295610/VN0A5FCBBKA-ALT4/Skate-Old-Skool-Shoe-VANS-Black-ALT4.png",
+          "type": "image",
+          "alt": "Skate Old Skool Shoe VANS Blackout ALT4"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1750295611/VN0A5FCBBKA-ALT5/Skate-Old-Skool-Shoe-VANS-Black-ALT5.png",
+          "type": "image",
+          "alt": "Skate Old Skool Shoe VANS Blackout ALT5"
+        }
+      ],
+      "price": {
+        "lowOriginal": 80,
+        "highOriginal": 80,
+        "lowCurrent": 80,
+        "highCurrent": 80
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN00117JGWT",
+      "styleId": "VN00117J",
+      "focusedProduct": false,
+      "name": "Skate Era Shoe",
+      "shortDescription": "Skate, Icon, Vulcanized, Impact Protection, Next-Level Grip, Suede/Canvas",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/era-5320/skate-era-VN00117JGWT",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5320",
+      "primaryCategoryName": "Era",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Era",
+          "url": "/en-us/c/shoes/icons/era-5320"
+        }
+      ],
+      "eyebrow": {},
+      "rating": {
+        "score": 0,
+        "reviewsCount": 0
+      },
+      "availableColorsCount": 7,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767822196/VN00117JGWT-HERO/Skate-Era-Shoe-VANS-HERO.png",
+          "type": "image",
+          "alt": "Skate Era Shoe VANS Chipmunk Brown HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767822188/VN00117JGWT-ALT1/Skate-Era-Shoe-VANS-ALT1.png",
+          "type": "image",
+          "alt": "Skate Era Shoe VANS Chipmunk Brown ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767822191/VN00117JGWT-ALT2/Skate-Era-Shoe-VANS-ALT2.png",
+          "type": "image",
+          "alt": "Skate Era Shoe VANS Chipmunk Brown ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767822189/VN00117JGWT-ALT3/Skate-Era-Shoe-VANS-ALT3.png",
+          "type": "image",
+          "alt": "Skate Era Shoe VANS Chipmunk Brown ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767822196/VN00117JGWT-ALT4/Skate-Era-Shoe-VANS-ALT4.png",
+          "type": "image",
+          "alt": "Skate Era Shoe VANS Chipmunk Brown ALT4"
+        }
+      ],
+      "price": {
+        "lowOriginal": 65,
+        "highOriginal": 65,
+        "lowCurrent": 65,
+        "highCurrent": 65
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "F26",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN0000T8BMX",
+      "styleId": "VN0000T8",
+      "focusedProduct": false,
+      "name": "Old Skool Wide Shoe",
+      "shortDescription": "Lifestyle, Classic Icon, Suede/Canvas",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/wides-5655/old-skool-wide-shoe-VN0000T8BMX",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5655",
+      "primaryCategoryName": "Wides",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Wides",
+          "url": "/en-us/c/shoes/wides-5655"
+        }
+      ],
+      "eyebrow": {},
+      "rating": {
+        "score": 4.6,
+        "reviewsCount": 300
+      },
+      "availableColorsCount": 3,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1742241648/VN0000T8BMX-HERO/Old-Skool-Wide-Shoe-VANS-Black-White-HERO.png",
+          "type": "image",
+          "alt": "Old Skool Wide Shoe VANS Black  True White HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1734670196/VN0000T8BMX-ALT1/Old-Skool-Wide-Shoe-VANS-BlackWhite-ALT1.png",
+          "type": "image",
+          "alt": "Old Skool Wide Shoe VANS Black  True White ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1734670195/VN0000T8BMX-ALT2/Old-Skool-Wide-Shoe-VANS-BlackWhite-ALT2.png",
+          "type": "image",
+          "alt": "Old Skool Wide Shoe VANS Black  True White ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1734670194/VN0000T8BMX-ALT3/Old-Skool-Wide-Shoe-VANS-BlackWhite-ALT3.png",
+          "type": "image",
+          "alt": "Old Skool Wide Shoe VANS Black  True White ALT3"
+        }
+      ],
+      "price": {
+        "lowOriginal": 75,
+        "highOriginal": 75,
+        "lowCurrent": 75,
+        "highCurrent": 75
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000EACBPC",
+      "styleId": "VN000EAC",
+      "focusedProduct": false,
+      "name": "Classic Slip-On Shoe",
+      "shortDescription": "Lifestyle, Classic Icon, Leather",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/classic-slip-on-5315/classic-slip-on-VN000EACBPC",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5315",
+      "primaryCategoryName": "Classic Slip On",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Classic Slip On",
+          "url": "/en-us/c/shoes/icons/classic-slip-on-5315"
+        }
+      ],
+      "eyebrow": {
+        "label": "New",
+        "id": "New Arrival",
+        "colorHexCode": "none"
+      },
+      "rating": {
+        "score": 0,
+        "reviewsCount": 0
+      },
+      "availableColorsCount": 2,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767048751/VN000EACBPC-HERO/Classic-SlipOn-Shoe-VANS-HERO.png",
+          "type": "image",
+          "alt": "Classic SlipOn Shoe VANS True White HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767048749/VN000EACBPC-ALT1/Classic-SlipOn-Shoe-VANS-ALT1.png",
+          "type": "image",
+          "alt": "Classic SlipOn Shoe VANS True White ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767048776/VN000EACBPC-ALT2/Classic-SlipOn-Shoe-VANS-ALT2.png",
+          "type": "image",
+          "alt": "Classic SlipOn Shoe VANS True White ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767048746/VN000EACBPC-ALT3/Classic-SlipOn-Shoe-VANS-ALT3.png",
+          "type": "image",
+          "alt": "Classic SlipOn Shoe VANS True White ALT3"
+        }
+      ],
+      "price": {
+        "lowOriginal": 70,
+        "highOriginal": 70,
+        "lowCurrent": 70,
+        "highCurrent": 70
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN0A5FCCY28",
+      "styleId": "VN0A5FCC",
+      "focusedProduct": false,
+      "name": "Skate Sk8-Hi Shoe",
+      "shortDescription": "Skate, Icon, Vulcanized, Impact Protection, Next-Level Grip, Suede/Canvas",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/sk8-hi-5325/skate-sk8-hi-shoe-VN0A5FCCY28",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5325",
+      "primaryCategoryName": "Sk8 Hi",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Sk8 Hi",
+          "url": "/en-us/c/shoes/icons/sk8-hi-5325"
+        }
+      ],
+      "eyebrow": {},
+      "rating": {
+        "score": 4.4,
+        "reviewsCount": 654
+      },
+      "availableColorsCount": 7,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1750296056/VN0A5FCCY28-HERO/Skate-Sk8Hi-Shoe-VANS-Black-White-HERO.png",
+          "type": "image",
+          "alt": "Skate Sk8Hi Shoe VANS Black  White HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1750296044/VN0A5FCCY28-ALT1/Skate-Sk8Hi-Shoe-VANS-BlackWhite-ALT1.png",
+          "type": "image",
+          "alt": "Skate Sk8Hi Shoe VANS Black  White ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1750296051/VN0A5FCCY28-ALT2/Skate-Sk8Hi-Shoe-VANS-Black-White-ALT2.png",
+          "type": "image",
+          "alt": "Skate Sk8Hi Shoe VANS Black  White ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1750296041/VN0A5FCCY28-ALT3/Skate-Sk8Hi-Shoe-VANS-BlackWhite-ALT3.png",
+          "type": "image",
+          "alt": "Skate Sk8Hi Shoe VANS Black  White ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1750296054/VN0A5FCCY28-ALT4/Skate-Sk8Hi-Shoe-VANS-Black-White-ALT4.png",
+          "type": "image",
+          "alt": "Skate Sk8Hi Shoe VANS Black  White ALT4"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1750296074/VN0A5FCCY28-ALT5/Skate-Sk8Hi-Shoe-VANS-Black-White-ALT5.png",
+          "type": "image",
+          "alt": "Skate Sk8Hi Shoe VANS Black  White ALT5"
+        }
+      ],
+      "price": {
+        "lowOriginal": 85,
+        "highOriginal": 85,
+        "lowCurrent": 85,
+        "highCurrent": 85
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000EACBPB",
+      "styleId": "VN000EAC",
+      "focusedProduct": false,
+      "name": "Classic Slip-On Shoe",
+      "shortDescription": "Lifestyle, Classic Icon, Leather",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/classic-slip-on-5315/classic-slip-on-VN000EACBPB",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5315",
+      "primaryCategoryName": "Classic Slip On",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Classic Slip On",
+          "url": "/en-us/c/shoes/icons/classic-slip-on-5315"
+        }
+      ],
+      "eyebrow": {
+        "label": "New",
+        "id": "New Arrival",
+        "colorHexCode": "none"
+      },
+      "rating": {
+        "score": 0,
+        "reviewsCount": 0
+      },
+      "availableColorsCount": 2,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548036/VN000EACBPB-HERO/Classic-SlipOn-Shoe-VANS-HERO.png",
+          "type": "image",
+          "alt": "Classic SlipOn Shoe VANS Black  True White HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548031/VN000EACBPB-ALT1/Classic-SlipOn-Shoe-VANS-ALT1.png",
+          "type": "image",
+          "alt": "Classic SlipOn Shoe VANS Black  True White ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548033/VN000EACBPB-ALT2/Classic-SlipOn-Shoe-VANS-ALT2.png",
+          "type": "image",
+          "alt": "Classic SlipOn Shoe VANS Black  True White ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1769548035/VN000EACBPB-ALT3/Classic-SlipOn-Shoe-VANS-ALT3.png",
+          "type": "image",
+          "alt": "Classic SlipOn Shoe VANS Black  True White ALT3"
+        }
+      ],
+      "price": {
+        "lowOriginal": 70,
+        "highOriginal": 70,
+        "lowCurrent": 70,
+        "highCurrent": 70
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S27",
+      "hasAltImage": false
+    },
+    {
+      "id": "VN000Z7ZBOP",
+      "styleId": "VN000Z7Z",
+      "focusedProduct": false,
+      "name": "Premium Classic Slip-On Shoe",
+      "shortDescription": "Lifestyle, Icon, Cushioning, Slip-On, Canvas",
+      "currency": "USD",
+      "primeIntended": false,
+      "url": "/en-us/p/shoes/icons/classic-slip-on-5315/lx-classic-slip-on-98-VN000Z7ZBOP",
+      "onSale": "false",
+      "isRobisOnly": false,
+      "primaryCategoryId": "5315",
+      "primaryCategoryName": "Classic Slip On",
+      "breadcrumbs": [
+        {
+          "label": "Shoes",
+          "url": "/en-us/c/shoes-00081"
+        },
+        {
+          "label": "Icons",
+          "url": "/en-us/c/shoes/icons-5195"
+        },
+        {
+          "label": "Classic Slip On",
+          "url": "/en-us/c/shoes/icons/classic-slip-on-5315"
+        }
+      ],
+      "eyebrow": {
+        "label": "Buy More Save More",
+        "id": "BMSM Promotion",
+        "colorHexCode": "none",
+        "details": "$30 off $100, $50 off $150, $70 off $200"
+      },
+      "rating": {
+        "score": 0,
+        "reviewsCount": 0
+      },
+      "availableColorsCount": 15,
+      "attributes": [],
+      "gallery": [
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767633825/VN000Z7ZBOP-HERO/Premium-Classic-SlipOn-Shoe-VANS-HERO.png",
+          "type": "image",
+          "alt": "Premium Classic SlipOn Shoe VANS Racing Red  Marshmallow White HERO"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767633814/VN000Z7ZBOP-ALT1/Premium-Classic-SlipOn-Shoe-VANS-ALT1.png",
+          "type": "image",
+          "alt": "Premium Classic SlipOn Shoe VANS Racing Red  Marshmallow White ALT1"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767633848/VN000Z7ZBOP-ALT2/Premium-Classic-SlipOn-Shoe-VANS-ALT2.png",
+          "type": "image",
+          "alt": "Premium Classic SlipOn Shoe VANS Racing Red  Marshmallow White ALT2"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767633800/VN000Z7ZBOP-ALT3/Premium-Classic-SlipOn-Shoe-VANS-ALT3.png",
+          "type": "image",
+          "alt": "Premium Classic SlipOn Shoe VANS Racing Red  Marshmallow White ALT3"
+        },
+        {
+          "src": "https://assets.vans.com/images/t_Thumbnail/v1767633852/VN000Z7ZBOP-ALT4/Premium-Classic-SlipOn-Shoe-VANS-ALT4.png",
+          "type": "image",
+          "alt": "Premium Classic SlipOn Shoe VANS Racing Red  Marshmallow White ALT4"
+        }
+      ],
+      "price": {
+        "lowOriginal": 95,
+        "highOriginal": 95,
+        "lowCurrent": 95,
+        "highCurrent": 95
+      },
+      "isCustoms": false,
+      "dummyCustoms": false,
+      "season": "S26",
+      "hasAltImage": false
+    }
+  ],
+  "keywordRedirect": {},
+  "did_you_mean": [],
+  "autoCorrectQuery": "",
+  "breadcrumbs": [],
+  "pageJsonLd": {
+    "@context": "http://schema.org",
+    "@type": "WebPage"
+  },
+  "breadCrumbsJsonLd": {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList"
+  },
+  "socialMediaJsonLd": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "sameAs": []
+  },
+  "service": "bloomreach"
+}
