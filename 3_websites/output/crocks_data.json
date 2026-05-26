@@ -783,7 +783,7 @@
         "offer_text_secondary": null,
         "offer_text_detail_secondary": null,
         "color_variants_list": {
-            "min_price": 6396,
+            "min_price": 5597,
             "max_price": 7995,
             "items": [
                 {
@@ -1603,7 +1603,7 @@
         "offer_text_secondary": null,
         "offer_text_detail_secondary": null,
         "color_variants_list": {
-            "min_price": 5596,
+            "min_price": 4897,
             "max_price": 6995,
             "items": [
                 {
@@ -1906,7 +1906,7 @@
         "offer_text_secondary": null,
         "offer_text_detail_secondary": null,
         "color_variants_list": {
-            "min_price": 3847,
+            "min_price": 3297,
             "max_price": 5495,
             "items": [
                 {
@@ -3583,7 +3583,7 @@
         "offer_text_secondary": null,
         "offer_text_detail_secondary": null,
         "color_variants_list": {
-            "min_price": 5596,
+            "min_price": 4897,
             "max_price": 6995,
             "items": [
                 {
@@ -3642,6 +3642,136 @@
                 },
                 {
                     "id": 183611,
+                    "url_key": "#",
+                    "is_available": true,
+                    "is_current": true,
+                    "color_code": "#008000",
+                    "more_plus": 0,
+                    "__typename": "ColorVariant"
+                }
+            ],
+            "__typename": "ColorVariantsList"
+        }
+    },
+    {
+        "id": 186927,
+        "uid": "MTg2OTI3",
+        "name": "Coca Cola Classic Unisex Multi Clog",
+        "crocs_primary_category": "Classic, Clog, Men, Women, New",
+        "is_jibbitable": true,
+        "crocs_global_sku": "212129",
+        "offer_text_background_color": "#bae1ff",
+        "layer_color_text": "Multi",
+        "ndsl_color": "Multi",
+        "fit_text": "Roomy",
+        "style_text": "Clog",
+        "gender_text": "Unisex",
+        "price_range": {
+            "minimum_price": {
+                "discount": {
+                    "amount_off": 0,
+                    "percent_off": 0,
+                    "__typename": "ProductDiscount"
+                },
+                "final_price": {
+                    "currency": "INR",
+                    "value": "6995",
+                    "__typename": "Money"
+                },
+                "regular_price": {
+                    "currency": "INR",
+                    "value": "6995",
+                    "__typename": "Money"
+                },
+                "__typename": "ProductPrice"
+            },
+            "__typename": "PriceRange"
+        },
+        "sku": "212129-90H",
+        "small_image": {
+            "url": "https://www.crocs.in/media/catalog/product/2/1/212129_90h_alt110.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=",
+            "__typename": "ProductImage"
+        },
+        "stock_status": "IN_STOCK",
+        "rating_summary": 0,
+        "__typename": "ConfigurableProduct",
+        "url_key": "coca-cola-classic-unisex-multi-clog",
+        "url_suffix": ".html",
+        "listing_title": "Coca-Cola\u00ae Classic Clog",
+        "big_box": 0,
+        "product_labelstr": "New",
+        "offer_text": "<p>Extra 10% Off | Use Code: PREPAID10</p>",
+        "offer_text_detail": "<ol>\r\n    <li>Extra 10% discount applicable only on prepaid orders.</li>\r\n    <li>Applicable only on Full Price Footwear.</li>\r\n    <li>Offer cannot be clubbed with any other coupon discount.</li>\r\n    <li>Limited period offer.</li>\r\n    <li>Valid only on select styles.</li>\r\n</ol>",
+        "offer_text_secondary": null,
+        "offer_text_detail_secondary": null,
+        "color_variants_list": null
+    },
+    {
+        "id": 186609,
+        "uid": "MTg2NjA5",
+        "name": "Echo Marbled Unisex Dusty Olive/Multi Clog",
+        "crocs_primary_category": "Echo, Men, Women, Clog",
+        "is_jibbitable": true,
+        "crocs_global_sku": "208454",
+        "offer_text_background_color": "#bae1ff",
+        "layer_color_text": "Green",
+        "ndsl_color": "Dusty Olive/Multi",
+        "fit_text": "Roomy",
+        "style_text": "Clog",
+        "gender_text": "Unisex",
+        "price_range": {
+            "minimum_price": {
+                "discount": {
+                    "amount_off": 0,
+                    "percent_off": 0,
+                    "__typename": "ProductDiscount"
+                },
+                "final_price": {
+                    "currency": "INR",
+                    "value": "7495",
+                    "__typename": "Money"
+                },
+                "regular_price": {
+                    "currency": "INR",
+                    "value": "7495",
+                    "__typename": "Money"
+                },
+                "__typename": "ProductPrice"
+            },
+            "__typename": "PriceRange"
+        },
+        "sku": "208454-3N4",
+        "small_image": {
+            "url": "https://www.crocs.in/media/catalog/product/2/0/208454_3n4_alt100.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=",
+            "__typename": "ProductImage"
+        },
+        "stock_status": "IN_STOCK",
+        "rating_summary": 0,
+        "__typename": "ConfigurableProduct",
+        "url_key": "echo-marbled-unisex-dusty-olive-multi-clog",
+        "url_suffix": ".html",
+        "listing_title": "Echo Marbled Clog",
+        "big_box": 0,
+        "product_labelstr": "New",
+        "offer_text": "<p>Extra 10% Off | Use Code: PREPAID10</p>",
+        "offer_text_detail": "<ol>\n    <li>Extra 10% discount applicable only on prepaid orders.</li>\n    <li>Applicable only on Full Price Footwear.</li>\n    <li>Offer cannot be clubbed with any other coupon discount.</li>\n    <li>Limited period offer.</li>\n    <li>Valid only on select styles.</li>\n</ol>",
+        "offer_text_secondary": null,
+        "offer_text_detail_secondary": null,
+        "color_variants_list": {
+            "min_price": 7495,
+            "max_price": 7495,
+            "items": [
+                {
+                    "id": 138896,
+                    "url_key": "#",
+                    "is_available": true,
+                    "is_current": false,
+                    "color_code": "#f0d099",
+                    "more_plus": 0,
+                    "__typename": "ColorVariant"
+                },
+                {
+                    "id": 186609,
                     "url_key": "#",
                     "is_available": true,
                     "is_current": true,
@@ -3723,313 +3853,6 @@
                     "is_available": true,
                     "is_current": true,
                     "color_code": "#33e4ff",
-                    "more_plus": 0,
-                    "__typename": "ColorVariant"
-                }
-            ],
-            "__typename": "ColorVariantsList"
-        }
-    },
-    {
-        "id": 186609,
-        "uid": "MTg2NjA5",
-        "name": "Echo Marbled Unisex Dusty Olive/Multi Clog",
-        "crocs_primary_category": "Echo, Men, Women, Clog",
-        "is_jibbitable": true,
-        "crocs_global_sku": "208454",
-        "offer_text_background_color": "#bae1ff",
-        "layer_color_text": "Green",
-        "ndsl_color": "Dusty Olive/Multi",
-        "fit_text": "Roomy",
-        "style_text": "Clog",
-        "gender_text": "Unisex",
-        "price_range": {
-            "minimum_price": {
-                "discount": {
-                    "amount_off": 0,
-                    "percent_off": 0,
-                    "__typename": "ProductDiscount"
-                },
-                "final_price": {
-                    "currency": "INR",
-                    "value": "7495",
-                    "__typename": "Money"
-                },
-                "regular_price": {
-                    "currency": "INR",
-                    "value": "7495",
-                    "__typename": "Money"
-                },
-                "__typename": "ProductPrice"
-            },
-            "__typename": "PriceRange"
-        },
-        "sku": "208454-3N4",
-        "small_image": {
-            "url": "https://www.crocs.in/media/catalog/product/2/0/208454_3n4_alt100.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=",
-            "__typename": "ProductImage"
-        },
-        "stock_status": "IN_STOCK",
-        "rating_summary": 0,
-        "__typename": "ConfigurableProduct",
-        "url_key": "echo-marbled-unisex-dusty-olive-multi-clog",
-        "url_suffix": ".html",
-        "listing_title": "Echo Marbled Clog",
-        "big_box": 0,
-        "product_labelstr": "New",
-        "offer_text": "<p>Extra 10% Off | Use Code: PREPAID10</p>",
-        "offer_text_detail": "<ol>\n    <li>Extra 10% discount applicable only on prepaid orders.</li>\n    <li>Applicable only on Full Price Footwear.</li>\n    <li>Offer cannot be clubbed with any other coupon discount.</li>\n    <li>Limited period offer.</li>\n    <li>Valid only on select styles.</li>\n</ol>",
-        "offer_text_secondary": null,
-        "offer_text_detail_secondary": null,
-        "color_variants_list": {
-            "min_price": 7495,
-            "max_price": 7495,
-            "items": [
-                {
-                    "id": 138896,
-                    "url_key": "#",
-                    "is_available": true,
-                    "is_current": false,
-                    "color_code": "#f0d099",
-                    "more_plus": 0,
-                    "__typename": "ColorVariant"
-                },
-                {
-                    "id": 186609,
-                    "url_key": "#",
-                    "is_available": true,
-                    "is_current": true,
-                    "color_code": "#008000",
-                    "more_plus": 0,
-                    "__typename": "ColorVariant"
-                }
-            ],
-            "__typename": "ColorVariantsList"
-        }
-    },
-    {
-        "id": 119043,
-        "uid": "MTE5MDQz",
-        "name": "Baya Cobblestone Unisex Clog",
-        "crocs_primary_category": "Women, Men,Clog,Baya,Sale",
-        "is_jibbitable": true,
-        "crocs_global_sku": "10126",
-        "offer_text_background_color": "#bae1ff",
-        "layer_color_text": "Khaki",
-        "ndsl_color": "Cobblestone",
-        "fit_text": "Roomy",
-        "style_text": "Clog",
-        "gender_text": "Unisex",
-        "price_range": {
-            "minimum_price": {
-                "discount": {
-                    "amount_off": 0,
-                    "percent_off": 0,
-                    "__typename": "ProductDiscount"
-                },
-                "final_price": {
-                    "currency": "INR",
-                    "value": "4995",
-                    "__typename": "Money"
-                },
-                "regular_price": {
-                    "currency": "INR",
-                    "value": "4995",
-                    "__typename": "Money"
-                },
-                "__typename": "ProductPrice"
-            },
-            "__typename": "PriceRange"
-        },
-        "sku": "10126-2V3",
-        "small_image": {
-            "url": "https://www.crocs.in/media/catalog/product/1/0/10126_2v3_alt100.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=",
-            "__typename": "ProductImage"
-        },
-        "stock_status": "IN_STOCK",
-        "rating_summary": 0,
-        "__typename": "ConfigurableProduct",
-        "url_key": "baya-cobblestone-unisex-clog",
-        "url_suffix": ".html",
-        "listing_title": "Baya Clog",
-        "big_box": 0,
-        "product_labelstr": "Price Drop",
-        "offer_text": "<p>Extra 10% Off | Use Code: PREPAID10</p>",
-        "offer_text_detail": "<ol>\n    <li>Extra 10% discount applicable only on prepaid orders.</li>\n    <li>Applicable only on Full Price Footwear.</li>\n    <li>Offer cannot be clubbed with any other coupon discount.</li>\n    <li>Limited period offer.</li>\n    <li>Valid only on select styles.</li>\n</ol>",
-        "offer_text_secondary": null,
-        "offer_text_detail_secondary": null,
-        "color_variants_list": {
-            "min_price": 4995,
-            "max_price": 4995,
-            "items": [
-                {
-                    "id": 22668,
-                    "url_key": "#",
-                    "is_available": true,
-                    "is_current": false,
-                    "color_code": "#000000",
-                    "more_plus": 0,
-                    "__typename": "ColorVariant"
-                },
-                {
-                    "id": 32303,
-                    "url_key": "#",
-                    "is_available": true,
-                    "is_current": false,
-                    "color_code": "#877f8a",
-                    "more_plus": 0,
-                    "__typename": "ColorVariant"
-                },
-                {
-                    "id": 22669,
-                    "url_key": "#",
-                    "is_available": true,
-                    "is_current": false,
-                    "color_code": "#877f8a",
-                    "more_plus": 0,
-                    "__typename": "ColorVariant"
-                },
-                {
-                    "id": 186567,
-                    "url_key": "#",
-                    "is_available": true,
-                    "is_current": false,
-                    "color_code": "#8f4836",
-                    "more_plus": 0,
-                    "__typename": "ColorVariant"
-                },
-                {
-                    "id": 41394,
-                    "url_key": "#",
-                    "is_available": true,
-                    "is_current": false,
-                    "color_code": "#ffffff",
-                    "more_plus": 0,
-                    "__typename": "ColorVariant"
-                },
-                {
-                    "id": 22672,
-                    "url_key": "#",
-                    "is_available": true,
-                    "is_current": false,
-                    "color_code": "#8f4836",
-                    "more_plus": 0,
-                    "__typename": "ColorVariant"
-                },
-                {
-                    "id": 119043,
-                    "url_key": "#",
-                    "is_available": true,
-                    "is_current": true,
-                    "color_code": "#c3b091",
-                    "more_plus": 0,
-                    "__typename": "ColorVariant"
-                },
-                {
-                    "id": 57781,
-                    "url_key": "#",
-                    "is_available": true,
-                    "is_current": false,
-                    "color_code": "#008000",
-                    "more_plus": 0,
-                    "__typename": "ColorVariant"
-                },
-                {
-                    "id": 189519,
-                    "url_key": "#",
-                    "is_available": true,
-                    "is_current": false,
-                    "color_code": "#008000",
-                    "more_plus": 0,
-                    "__typename": "ColorVariant"
-                },
-                {
-                    "id": 22677,
-                    "url_key": "#",
-                    "is_available": true,
-                    "is_current": false,
-                    "color_code": "#000080",
-                    "more_plus": 0,
-                    "__typename": "ColorVariant"
-                },
-                {
-                    "id": 57790,
-                    "url_key": "#",
-                    "is_available": true,
-                    "is_current": false,
-                    "color_code": "#33e4ff",
-                    "more_plus": 0,
-                    "__typename": "ColorVariant"
-                },
-                {
-                    "id": 121103,
-                    "url_key": "#",
-                    "is_available": true,
-                    "is_current": false,
-                    "color_code": "#33e4ff",
-                    "more_plus": 0,
-                    "__typename": "ColorVariant"
-                },
-                {
-                    "id": 174263,
-                    "url_key": "#",
-                    "is_available": true,
-                    "is_current": false,
-                    "color_code": "#9b30ff",
-                    "more_plus": 0,
-                    "__typename": "ColorVariant"
-                },
-                {
-                    "id": 186570,
-                    "url_key": "#",
-                    "is_available": true,
-                    "is_current": false,
-                    "color_code": "#33e4ff",
-                    "more_plus": 0,
-                    "__typename": "ColorVariant"
-                },
-                {
-                    "id": 124307,
-                    "url_key": "#",
-                    "is_available": true,
-                    "is_current": false,
-                    "color_code": "#9b30ff",
-                    "more_plus": 0,
-                    "__typename": "ColorVariant"
-                },
-                {
-                    "id": 41400,
-                    "url_key": "#",
-                    "is_available": true,
-                    "is_current": false,
-                    "color_code": "#ff0000",
-                    "more_plus": 0,
-                    "__typename": "ColorVariant"
-                },
-                {
-                    "id": 138785,
-                    "url_key": "#",
-                    "is_available": true,
-                    "is_current": false,
-                    "color_code": "#ffb6c1",
-                    "more_plus": 0,
-                    "__typename": "ColorVariant"
-                },
-                {
-                    "id": 121106,
-                    "url_key": "#",
-                    "is_available": true,
-                    "is_current": false,
-                    "color_code": "#ffb6c1",
-                    "more_plus": 0,
-                    "__typename": "ColorVariant"
-                },
-                {
-                    "id": 171520,
-                    "url_key": "#",
-                    "is_available": true,
-                    "is_current": false,
-                    "color_code": "#ffb6c1",
                     "more_plus": 0,
                     "__typename": "ColorVariant"
                 }

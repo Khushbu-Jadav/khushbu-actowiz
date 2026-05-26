@@ -266,3 +266,16 @@ booking_hotels = jmespath.search(
 print("\nBOOKING HOTELS:\n")
 
 print(booking_hotels)
+
+with open(
+    r"C:\python practice\3_websites\output\booking_hotels.json",
+    "w",
+    encoding="utf-8"
+) as f:
+
+    json.dump(
+        booking_hotels,
+        f,
+        indent=4,
+        ensure_ascii=False
+    )
