@@ -2,7 +2,19 @@
     {
         "product_name": "Dell Pro 14 Essential Laptop",
         "product_url": "https://www.dellstore.com/dell-pro-14-essential-laptop-opv1425555001gincom.html",
-        "product_price": "₹112,963.00",
+        "product_price": "112963.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/d/e/dell-pro-pv14255nt.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-2_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-3_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-4_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-9_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-5_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-6_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-7_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-8_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-11_2.jpg"
+        ],
         "technical_details": {
             "Processor": "AMD Ryzen™ 7 250 Processor (8 cores, up to 5.1Ghz)",
             "Operating System": "Windows 11 Pro",
@@ -33,14 +45,25 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code OPV1425555001GINCOM"
-        ]
+        "order_code": "OPV1425555001GINCOM"
     },
     {
         "product_name": "Dell Pro 14 Essential Laptop",
         "product_url": "https://www.dellstore.com/dell-pro-14-essential-laptop-opv1425001101gincom.html",
-        "product_price": "₹99,787.00",
+        "product_price": "99787.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/d/e/dell-pro-pv14250nt_1.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-1_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-4_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-3_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-9_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-5_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-6_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-7_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-8_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-11_1.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ 3 100U (6 cores, up to 4.7 GHz)",
             "Operating System": "Windows 11 Pro",
@@ -71,14 +94,25 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code OPV1425001101GINCOM"
-        ]
+        "order_code": "OPV1425001101GINCOM"
     },
     {
         "product_name": "Dell Pro 14 Essential Laptop",
         "product_url": "https://www.dellstore.com/dell-pro-14-essential-laptop-opv1425000201gincom.html",
-        "product_price": "₹111,457.00",
+        "product_price": "111457.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/d/e/dell-pro-pv14250nt.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-4.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-3.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-9.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-5.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-6.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-7.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-8.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pv14250-nt-laptop-sl-bl-gallery-11.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ 5 120U (10 cores, up to 5.0 GHz)",
             "Operating System": "Windows 11 Pro",
@@ -109,14 +143,15 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code OPV1425000201GINCOM"
-        ]
+        "order_code": "OPV1425000201GINCOM"
     },
     {
         "product_name": "Alienware 16 Area-51 Gaming Laptop",
         "product_url": "https://www.dellstore.com/alienware-16-area-51-gaming-laptop-can16250mlk03mino.html",
-        "product_price": "₹590,290.00",
+        "product_price": "590290.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/a/w/aw_16_1_1_1_1.png"
+        ],
         "technical_details": {
             "Processor": "Intel® Core Ultra 9 processor 290HX Plus (24-Core, 36MB Cache, 2.7Ghz to 5.5GHz)",
             "Operating System": "Windows 11 Home, Single Language",
@@ -155,14 +190,15 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code CAN16250MLK03MINO"
-        ]
+        "order_code": "CAN16250MLK03MINO"
     },
     {
         "product_name": "Alienware 16 Area-51 Gaming Laptop",
         "product_url": "https://www.dellstore.com/alienware-16-area-51-gaming-laptop-can16250mlk02mino.html",
-        "product_price": "₹495,890.00",
+        "product_price": "495890.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/a/w/aw_16_1_1_1.png"
+        ],
         "technical_details": {
             "Processor": "Intel® Core Ultra 9 processor 290HX Plus (24-Core, 36MB Cache, 2.7Ghz to 5.5GHz)",
             "Operating System": "Windows 11 Home, Single Language",
@@ -201,14 +237,15 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code CAN16250MLK02MINO"
-        ]
+        "order_code": "CAN16250MLK02MINO"
     },
     {
         "product_name": "Alienware 16 Area-51 Gaming Laptop",
         "product_url": "https://www.dellstore.com/alienware-16-area-51-gaming-laptop-can16250mlk01mino.html",
-        "product_price": "₹402,590.00",
+        "product_price": "402590.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/a/w/aw_16_1_1.png"
+        ],
         "technical_details": {
             "Processor": "Intel® Core Ultra 9 processor 290HX Plus (24-Core, 36MB Cache, 2.7Ghz to 5.5GHz)",
             "Operating System": "Windows 11 Home, Single Language",
@@ -247,14 +284,15 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code CAN16250MLK01MINO"
-        ]
+        "order_code": "CAN16250MLK01MINO"
     },
     {
         "product_name": "Alienware 18 Area-51 Gaming Laptop",
         "product_url": "https://www.dellstore.com/alienware-18-area-51-gaming-laptop-can18250mlk03mino.html",
-        "product_price": "₹593,390.00",
+        "product_price": "593390.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-alienware-18-aa18250-area-51-new_listing_1.png"
+        ],
         "technical_details": {
             "Processor": "Intel® Core Ultra 9 processor 290HX Plus (24-Core, 36MB Cache, 2.7Ghz to 5.5GHz)",
             "Operating System": "Windows 11 Home, Single Language",
@@ -293,14 +331,15 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code CAN18250MLK03MINO"
-        ]
+        "order_code": "CAN18250MLK03MINO"
     },
     {
         "product_name": "Alienware 18 Area-51 Gaming Laptop",
         "product_url": "https://www.dellstore.com/alienware-18-area-51-gaming-laptop-can18250mlk02mino.html",
-        "product_price": "₹487,290.00",
+        "product_price": "487290.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-alienware-18-aa18250-area-51-new_listing.png"
+        ],
         "technical_details": {
             "Processor": "Intel® Core Ultra 9 processor 290HX Plus (24-Core, 36MB Cache, 2.7Ghz to 5.5GHz)",
             "Operating System": "Windows 11 Home, Single Language",
@@ -339,14 +378,21 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code CAN18250MLK02MINO"
-        ]
+        "order_code": "CAN18250MLK02MINO"
     },
     {
         "product_name": "Dell 15 Laptop",
         "product_url": "https://www.dellstore.com/dell-15-laptop-odc1525000101rins1.html",
-        "product_price": "₹64,390.00",
+        "product_price": "64390.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-gallery-1_2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-gallery-3_2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-usbc-full-function-gallery-2_2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-gallery-8_2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-usbc-full-function-gallery-7_2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-fpr-gallery-6_2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-gallery-9_2_1.jpg"
+        ],
         "technical_details": {
             "Processor": "13th Generation Intel® Core™ i5-1334U (10 cores, up to 4.60 GHz)",
             "Operating System": "Windows 11 Home, Single Language",
@@ -381,14 +427,15 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code ODC1525000101RINS1"
-        ]
+        "order_code": "ODC1525000101RINS1"
     },
     {
         "product_name": "Dell 16 Laptop",
         "product_url": "https://www.dellstore.com/dell-16-laptop-odc1625001002rinb1.html",
-        "product_price": "₹103,590.00",
+        "product_price": "103590.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/d/e/dell-dc16250-laptop-bk_1_.png"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ 7 150U (10 cores, up to 5.4 GHz)",
             "Operating System": "Windows 11 Home, Single Language English",
@@ -428,14 +475,15 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code ODC1625001002RINB1"
-        ]
+        "order_code": "ODC1625001002RINB1"
     },
     {
         "product_name": "Alienware 16 Aurora Gaming Laptop",
         "product_url": "https://www.dellstore.com/alienware-16-aurora-gaming-laptop-oan1625000701mino.html",
-        "product_price": "₹161,490.00",
+        "product_price": "161490.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/a/l/alienware-ac16250-laptop-c-15000ff105-bl_2.png"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ 7 Processor (Series 2) 240H (24MB cache, 10 cores, 1.80 to 5.20 GHz P-Core)",
             "Operating System": "Windows 11 Home, Single Language",
@@ -480,14 +528,21 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code OAN1625000701MINO"
-        ]
+        "order_code": "OAN1625000701MINO"
     },
     {
         "product_name": "Dell Pro 14 Plus Laptop",
         "product_url": "https://www.dellstore.com/dell-pro-14-plus-laptop-bto108icc-pb14250-i2x.html",
-        "product_price": "₹184,019.00",
+        "product_price": "184019.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dellpro-pb14250t-gy-mipi-5mp-ir-wlan-gallery-1_2.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dellpro-pb14250t-gy-mipi-5mp-ir-wlan-gallery-4_4.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dellpro-pb14250t-gy-mipi-5mp-ir-wlan-gallery-6_4.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dellpro-pb14250t-gy-mipi-5mp-ir-wlan-gallery-9_4.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dellpro-pb14250t-gy-mipi-5mp-ir-wlan-gallery-10_4.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dellpro-pb14520nt-gy-80mm-wlan-gallery-6_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dellpro-pb14520nt-gy-fpr-55mm-no-rj45-gallery-8_2.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ Ultra 5 235U, vPro® (12 TOPS NPU, 12 cores, up to 4.9 GHz)",
             "Operating System": "Windows 11 Pro",
@@ -517,14 +572,23 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code BTO108ICC_PB14250_I2X"
-        ]
+        "order_code": "BTO108ICC_PB14250_I2X"
     },
     {
         "product_name": "Dell Pro 16 Laptop",
         "product_url": "https://www.dellstore.com/dell-pro-16-laptop-bto113-pc16250-i3x.html",
-        "product_price": "₹141,825.00",
+        "product_price": "141825.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/b/t/bto113_pc16250_i3x_new_img.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-dell-pro-pc16250nt-hd-fhd-scr-copilot-gray-gallery-2_1_.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pc16250-gy-hd-fhd-gallery-3_1_.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pc16250-gy-hd-fhd-gallery-4_1_.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pc16250-gy-hd-fhd-gallery-9_1_.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-dell-pro-pc16250nt-hd-fhd-scr-gray-gallery-5_1_.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pc16250-gy-hd-fhd-gallery-6_1_.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pc16250-gy-hd-fhd-gallery-8_1_.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-dell-pro-pc16250nt-hd-fhd-scr-gray-gallery-7_1_.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ Ultra 5 235U vPro® (12 TOPS NPU, 12 cores, up to 4.9 GHz)",
             "Operating System": "Windows 11 Pro",
@@ -554,14 +618,23 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code BTO113_PC16250_I3X"
-        ]
+        "order_code": "BTO113_PC16250_I3X"
     },
     {
         "product_name": "Dell Pro 14 Laptop",
         "product_url": "https://www.dellstore.com/dell-pro-14-laptop-bto133bicc-pc14250-i2x.html",
-        "product_price": "₹133,789.00",
+        "product_price": "133789.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-dell-pro-pc14250-hd-fhd-bk-gallery-1_1.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-dell-pro-pc14250-hd-fhd-bk-gallery-2_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-dell-pro-pc14250-hd-fhd-bk-gallery-3_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-dell-pro-pc14250-hd-fhd-bk-gallery-4_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-dell-pro-pc14250-hd-fhd-bk-gallery-5_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-dell-pro-pc14250-hd-fhd-bk-gallery-6_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-dell-pro-pc14250-hd-fhd-bk-gallery-7_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-dell-pro-pc14250-hd-fhd-bk-gallery-8_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-dell-pro-pc14250-hd-fhd-bk-gallery-9_2.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ Ultra 5 235U vPro® (12 TOPS NPU, 12 cores, up to 4.9 GHz)",
             "Operating System": "Windows 11 Pro",
@@ -591,14 +664,20 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code BTO133BICC_PC14250_I2X"
-        ]
+        "order_code": "BTO133BICC_PC14250_I2X"
     },
     {
         "product_name": "XPS 16 Laptop (2025)​",
         "product_url": "https://www.dellstore.com/dell-16-premium-laptop-cda16250cto04rino.html",
-        "product_price": "₹249,990.00",
+        "product_price": "249990.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/c/d/cda16250cto04rino-1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/c/d/cda16250cto04rino-3.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/c/d/cda16250cto04rino-5.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/c/d/cda16250cto04rino-2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/c/d/cda16250cto04rino-4.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/c/d/cda16250cto04rino-6.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ Ultra 7 255H (16 Cores, up to 5.1GHz Turbo)",
             "Operating System": "Windows 11 Home Single Language, English",
@@ -639,14 +718,22 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code CDA16250CTO04RINO"
-        ]
+        "order_code": "CDA16250CTO04RINO"
     },
     {
         "product_name": "Dell 15 Laptop",
         "product_url": "https://www.dellstore.com/dell-15-laptop-odc1525002001rinb1.html",
-        "product_price": "₹56,990.00",
+        "product_price": "56990.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/o/d/odc1525002001rinb1-1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/o/d/odc1525002001rinb1-7.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/o/d/odc1525002001rinb1-2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/o/d/odc1525002001rinb1-3.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/o/d/odc1525002001rinb1-8.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/o/d/odc1525002001rinb1-6.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/o/d/odc1525002001rinb1-5.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/o/d/odc1525002001rinb1-4.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ 3 100U (6 cores, up to 4.7 GHz)",
             "Operating System": "Windows 11 Home, Single Language",
@@ -682,14 +769,15 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code odc1525002001rinb1"
-        ]
+        "order_code": "odc1525002001rinb1"
     },
     {
         "product_name": "Alienware 16 Aurora Gaming Laptop",
         "product_url": "https://www.dellstore.com/alienware-16-aurora-gaming-laptop-oan1625002201mino.html",
-        "product_price": "₹143,890.00",
+        "product_price": "143890.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/a/l/alienware-ac16250-laptop-c-15000ff105-bl_1_3.png"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ 7 Processor (Series 2) 240H (24MB cache, 10 cores, 1.80 to 5.20 GHz P-Core)",
             "Operating System": "Windows 11 Home, Single Language",
@@ -734,14 +822,21 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code OAN1625002201MINO"
-        ]
+        "order_code": "OAN1625002201MINO"
     },
     {
         "product_name": "Dell 15 Laptop",
         "product_url": "https://www.dellstore.com/dell-15-laptop-odc1525000601rins1.html",
-        "product_price": "₹93,590.00",
+        "product_price": "93590.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-gallery-1_2_1_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-gallery-3_2_1_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-usbc-full-function-gallery-2_2_1_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-gallery-8_2_1_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-usbc-full-function-gallery-7_2_1_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-fpr-gallery-6_2_1_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-gallery-9_2_1_1.jpg"
+        ],
         "technical_details": {
             "Processor": "13th Generation Intel® Core™ i7-1355U (10 cores, up to 5.00 GHz)",
             "Operating System": "Windows 11 Home, Single Language",
@@ -783,14 +878,21 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code ODC1525000601RINS1"
-        ]
+        "order_code": "ODC1525000601RINS1"
     },
     {
         "product_name": "Dell 15 Laptop",
         "product_url": "https://www.dellstore.com/dell-15-laptop-odc1525002001rins1.html",
-        "product_price": "₹57,790.00",
+        "product_price": "57790.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-gallery-1_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-gallery-3_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-usbc-full-function-gallery-2_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-gallery-8_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-usbc-full-function-gallery-7_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-fpr-gallery-6_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-gallery-9_2.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ 3 100U (6 cores, up to 4.7 GHz)",
             "Operating System": "Windows 11 Home, Single Language",
@@ -832,14 +934,23 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code ODC1525002001RINS1"
-        ]
+        "order_code": "ODC1525002001RINS1"
     },
     {
         "product_name": "Dell 16 Laptop",
         "product_url": "https://www.dellstore.com/dell-16-laptop-odc1625001201rins1.html",
-        "product_price": "₹77,390.00",
+        "product_price": "77390.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/e/new-image-for-dell-dc16250-laptop-sl.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/o/d/odc1625001201rins1-2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/o/d/odc1625001201rins1-3.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/o/d/odc1625001201rins1-4.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/o/d/odc1625001201rins1-9.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/o/d/odc1625001201rins1-5.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/o/d/odc1625001201rins1-6.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/o/d/odc1625001201rins1-7.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/o/d/odc1625001201rins1-8.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ 5 120U (10 cores, up to 5.0 GHz)",
             "Operating System": "Windows 11 Home, Single Language English",
@@ -879,14 +990,23 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code ODC1625001201RINS1"
-        ]
+        "order_code": "ODC1625001201RINS1"
     },
     {
         "product_name": "Alienware 16X Aurora Gaming Laptop",
         "product_url": "https://www.dellstore.com/new-alienware-16x-aurora-gaming-laptop-oan1625101201mino.html",
-        "product_price": "₹236,690.00",
+        "product_price": "236690.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-alienware-ac16251-blue-rf-gallery-2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/a/l/alienware-ac16251-laptop-c-15000ff105-bl_1.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-alienware-ac16251-blue-lf-gallery-3.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-alienware-ac16251-blue-td-gallery-4.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-alienware-ac16251-blue-bf-gallery-9.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-alienware-ac16251-blue-rb-gallery-5.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-alienware-ac16251-blue-lb-gallery-6.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-alienware-ac16251-blue-lp-gallery-7.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-alienware-ac16251-blue-rp-gallery-8.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ Ultra 9 Processor 275HX (36MB cache, 24 cores, 2.1 to 5.4 GHz P-Core)",
             "Operating System": "Windows 11 Home, Single Language",
@@ -931,14 +1051,15 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code OAN1625101201MINO"
-        ]
+        "order_code": "OAN1625101201MINO"
     },
     {
         "product_name": "Alienware 16 Aurora Gaming Laptop",
         "product_url": "https://www.dellstore.com/alienware-16-aurora-gaming-laptop-oan1625000801mino-2.html",
-        "product_price": "₹174,190.00",
+        "product_price": "174190.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/a/l/alienware-ac16250-laptop-c-15000ff105-bl_1.png"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ 7 Processor (Series 2) 240H (24MB cache, 10 cores, 1.80 to 5.20 GHz P-Core)",
             "Operating System": "Windows 11 Home, Single Language",
@@ -983,14 +1104,15 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code OAN1625000801MINO"
-        ]
+        "order_code": "OAN1625000801MINO"
     },
     {
         "product_name": "Alienware 16 Aurora Gaming Laptop",
         "product_url": "https://www.dellstore.com/new-alienware-16-aurora-gaming-laptop-oan1625000901mino.html",
-        "product_price": "₹182,890.00",
+        "product_price": "182890.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/a/l/alienware-ac16250-laptop-c-15000ff105-bl.png"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ 7 Processor (Series 2) 240H (24MB cache, 10 cores, 1.80 to 5.20 GHz P-Core)",
             "Operating System": "Windows 11 Home, Single Language",
@@ -1035,14 +1157,23 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code OAN1625000901MINO"
-        ]
+        "order_code": "OAN1625000901MINO"
     },
     {
         "product_name": "Dell Pro 16 Laptop",
         "product_url": "https://www.dellstore.com/dell-pro-16-laptop-bto109-pc16250-i3x.html",
-        "product_price": "₹161,125.00",
+        "product_price": "161125.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pc16250-gy-hd-fhd-gallery-1_1.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-dell-pro-pc16250nt-hd-fhd-scr-copilot-gray-gallery-2_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pc16250-gy-hd-fhd-gallery-3_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pc16250-gy-hd-fhd-gallery-4_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-dell-pro-pc16250nt-hd-fhd-scr-gray-gallery-5_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pc16250-gy-hd-fhd-gallery-9_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-dell-pro-pc16250nt-hd-fhd-scr-gray-gallery-7_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pc16250-gy-hd-fhd-gallery-8_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pc16250-gy-hd-fhd-gallery-6_2.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ Ultra 7 265U vPro® (12 TOPS NPU, 12 cores, up to 5.3 GHz)",
             "Operating System": "Windows 11 Pro",
@@ -1077,14 +1208,23 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code BTO109_PC16250_I3X"
-        ]
+        "order_code": "BTO109_PC16250_I3X"
     },
     {
         "product_name": "Dell Pro 16 Laptop",
         "product_url": "https://www.dellstore.com/dell-pro-16-laptop-bto105-pc16250-i3x.html",
-        "product_price": "₹141,343.00",
+        "product_price": "141343.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pc16250-gy-hd-fhd-gallery-1_1_1.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-dell-pro-pc16250nt-hd-fhd-scr-copilot-gray-gallery-2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pc16250-gy-hd-fhd-gallery-3_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pc16250-gy-hd-fhd-gallery-4_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-dell-pro-pc16250nt-hd-fhd-scr-gray-gallery-5_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pc16250-gy-hd-fhd-gallery-9_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-dell-pro-pc16250nt-hd-fhd-scr-gray-gallery-7_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pc16250-gy-hd-fhd-gallery-8_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pc16250-gy-hd-fhd-gallery-6_1.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ Ultra 5 235U vPro® (12 TOPS NPU, 12 cores, up to 4.9 GHz)",
             "Operating System": "Windows 11 Pro",
@@ -1119,14 +1259,23 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code BTO105_PC16250_I3X"
-        ]
+        "order_code": "BTO105_PC16250_I3X"
     },
     {
         "product_name": "Dell Pro 13 Plus Laptop",
         "product_url": "https://www.dellstore.com/dell-pro-13-plus-laptop-bto105-pb13250-i3x.html",
-        "product_price": "₹150,399.00",
+        "product_price": "150399.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dellpro-pb14250t-gy-mipi-5mp-ir-wlan-gallery-1_3.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/1/3/13_plus_new.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pb13250nt-gy-4mm-mipi-5mp-gallery-2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pb13250nt-gy-4mm-mipi-5mp-gallery-4_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pb13250nt-gy-4mm-mipi-5mp-gallery-5_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pb13250nt-gy-4mm-mipi-5mp-gallery-6_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pb13250nt-gy-4mm-mipi-5mp-gallery-7_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pb13250nt-gy-4mm-mipi-5mp-gallery-8_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pb13250nt-gy-4mm-mipi-5mp-gallery-9_1.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ Ultra 5 235U vPro® (12MB cache, 12 cores, 14 threads, up to 4.9 GHz, 12 PTOPS NPU)",
             "Operating System": "Windows 11 Pro",
@@ -1160,14 +1309,24 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code BTO105_PB13250_I3X"
-        ]
+        "order_code": "BTO105_PB13250_I3X"
     },
     {
         "product_name": "Dell 16 Plus Laptop",
         "product_url": "https://www.dellstore.com/dell-16-plus-laptop-odb1625021201rinu1.html",
-        "product_price": "₹118,990.00",
+        "product_price": "118990.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db16250nt-copilot-pc-small_new_1.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db16250nt-fpr-bl-gallery-2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-16-db16250-blue-cart-480-front_1.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db16250nt-fpr-bl-gallery-3.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db16250nt-fpr-bl-gallery-4_1_.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db16250nt-fpr-bl-gallery-5.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db16250nt-fpr-bl-gallery-6.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db16250nt-fpr-bl-gallery-7.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db16250nt-fpr-bl-gallery-8.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db16250nt-fpr-bl-gallery-9.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ Ultra 7 256V (47 TOPS NPU, 8 cores, up to 4.8 GHz)",
             "Operating System": "Windows 11 Home, Copilot+ PC",
@@ -1214,14 +1373,25 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code ODB1625021201RINU1"
-        ]
+        "order_code": "ODB1625021201RINU1"
     },
     {
         "product_name": "Dell 16 Plus 2-in-1 Laptop",
         "product_url": "https://www.dellstore.com/dell-16-plus-2-in-1-laptop-odb0625020301rinu1.html",
-        "product_price": "₹127,090.00",
+        "product_price": "127090.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-copilot-pc-small_new_2.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-1_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-2_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-3_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-4_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-5_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-6_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-7_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-8_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-9_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-10_2.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ Ultra 7 256V (47 TOPS NPU, 8 cores, up to 4.8 GHz)",
             "Operating System": "Windows 11 Home, Copilot+ PC",
@@ -1267,14 +1437,25 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code ODB0625020301RINU1"
-        ]
+        "order_code": "ODB0625020301RINU1"
     },
     {
         "product_name": "Dell 16 Plus 2-in-1 Laptop",
         "product_url": "https://www.dellstore.com/dell-16-plus-2-in-1-laptop-odb0625020201rinu1.html",
-        "product_price": "₹104,290.00",
+        "product_price": "104290.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-copilot-pc-small_new_1.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-1_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-3_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-4_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-5_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-6_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-7_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-8_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-9_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-10_1.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ Ultra 5 226V (40 TOPS NPU, 8 cores, up to 4.5 GHz)",
             "Operating System": "Windows 11 Home, Copilot+ PC",
@@ -1320,14 +1501,25 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code ODB0625020201RINU1"
-        ]
+        "order_code": "ODB0625020201RINU1"
     },
     {
         "product_name": "Dell 16 Plus 2-in-1 Laptop",
         "product_url": "https://www.dellstore.com/dell-16-plus-2-in-1-laptop-odb0625020101rinu1.html",
-        "product_price": "₹137,090.00",
+        "product_price": "137090.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-copilot-pc-small_new.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-3.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-4.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-5.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-6.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-7.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-8.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-9.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db06250t-bl-gallery-10.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ Ultra 7 256V (47 TOPS NPU, 8 cores, up to 4.8 GHz)",
             "Operating System": "Windows 11 Home, Copilot+ PC",
@@ -1373,14 +1565,26 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code ODB0625020101RINU1"
-        ]
+        "order_code": "ODB0625020101RINU1"
     },
     {
         "product_name": "Dell 14 Plus 2-in-1 Laptop",
         "product_url": "https://www.dellstore.com/dell-14-plus-2-in-1-laptop-odb0425020301rinu1.html",
-        "product_price": "₹114,790.00",
+        "product_price": "114790.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-copilot-pc-small_new_2.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-14-db04250-blue-cart-480-right_4.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-1_2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-2_2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-3_2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-4_2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-5_2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-6_2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-7_2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-8_2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-9_2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-10_2_1.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ Ultra 7 256V (47 TOPS NPU, 8 cores, up to 4.8 GHz)",
             "Operating System": "Windows 11 Home, Copilot+ PC",
@@ -1426,14 +1630,25 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code ODB0425020301RINU1"
-        ]
+        "order_code": "ODB0425020301RINU1"
     },
     {
         "product_name": "Dell 14 Plus 2-in-1 Laptop",
         "product_url": "https://www.dellstore.com/dell-14-plus-2-in-1-laptop-odb0425020101rinu1.html",
-        "product_price": "₹124,190.00",
+        "product_price": "124190.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-copilot-pc-small_new_1.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-1_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-2_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-3_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-4_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-5_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-6_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-7_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-8_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-9_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-10_2.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ Ultra 7 256V (47 TOPS NPU, 8 cores, up to 4.8 GHz)",
             "Operating System": "Windows 11 Home, Copilot+ PC",
@@ -1480,14 +1695,23 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code ODB0425020101RINU1"
-        ]
+        "order_code": "ODB0425020101RINU1"
     },
     {
         "product_name": "Dell 16 Plus Laptop",
         "product_url": "https://www.dellstore.com/dell-16-plus-laptop-odb1625021101rinu1.html",
-        "product_price": "₹90,090.00",
+        "product_price": "90090.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db16250nt-copilot-pc-small_new.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db16250nt-fpr-bl-gallery-2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db16250nt-fpr-bl-gallery-3_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db16250nt-fpr-bl-gallery-4_1__1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db16250nt-fpr-bl-gallery-5_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db16250nt-fpr-bl-gallery-6_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db16250nt-fpr-bl-gallery-7_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db16250nt-fpr-bl-gallery-8_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-db16250nt-fpr-bl-gallery-9_1.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ Ultra 5 226V (40 TOPS NPU, 8 cores, up to 4.5 GHz)",
             "Operating System": "Windows 11 Home, Copilot+ PC",
@@ -1534,14 +1758,23 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code ODB1625021101RINU1"
-        ]
+        "order_code": "ODB1625021101RINU1"
     },
     {
         "product_name": "Dell 14 Plus Laptop",
         "product_url": "https://www.dellstore.com/dell-14-plus-laptop-odb1425020801rinu1.html",
-        "product_price": "₹106,690.00",
+        "product_price": "106690.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-db14250-copilot-pc-small_new.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-db14250nt-fpr-laptop-bl-gallery-2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-db14250nt-fpr-laptop-bl-gallery-3.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-db14250nt-fpr-laptop-bl-gallery-4.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-db14250nt-fpr-laptop-bl-gallery-6.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-db14250nt-laptop-bl-gallery-5.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-db14250nt-laptop-bl-gallery-7.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-db14250nt-laptop-bl-gallery-8.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-db14250nt-laptop-bl-gallery-9.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ Ultra 7 256V (47 TOPS NPU, 8 cores, up to 4.8 GHz)",
             "Operating System": "Windows 11 Home, Copilot+ PC",
@@ -1588,14 +1821,25 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code ODB1425020801RINU1"
-        ]
+        "order_code": "ODB1425020801RINU1"
     },
     {
         "product_name": "Dell 14 Plus 2-in-1 Laptop",
         "product_url": "https://www.dellstore.com/dell-14-plus-2-in-1-laptop-odb0425020201rinu1.html",
-        "product_price": "₹105,190.00",
+        "product_price": "105190.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-copilot-pc-small_new.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-3.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-4.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-5.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-6.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-7.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-8.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-9.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dell-db04520-plus-bl-gallery-10.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ Ultra 5 226V (40 TOPS NPU, 8 cores, up to 4.5 GHz)",
             "Operating System": "Windows 11 Home, Copilot+ PC",
@@ -1642,14 +1886,21 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code ODB0425020201RINU1"
-        ]
+        "order_code": "ODB0425020201RINU1"
     },
     {
         "product_name": "Dell Pro 14 Plus Laptop",
         "product_url": "https://www.dellstore.com/dell-pro-14-plus-laptop-bto501-pb14255-i3x.html",
-        "product_price": "₹138,830.00",
+        "product_price": "138830.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dellpro-pb14255t-gy-mipi-5mp-ir-wlan-gallery-1.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dellpro-pb14255t-gy-mipi-5mp-ir-wlan-gallery-4.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dellpro-pb14255t-gy-mipi-5mp-ir-wlan-gallery-6.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dellpro-pb14255t-gy-mipi-5mp-ir-wlan-gallery-7.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dellpro-pb14255t-gy-mipi-5mp-ir-wlan-gallery-8.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dellpro-pb14255t-gy-mipi-5mp-ir-wlan-gallery-9.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/i/2in1-dellpro-pb14255t-gy-mipi-5mp-ir-wlan-gallery-10.jpg"
+        ],
         "technical_details": {
             "Processor": "AMD Ryzen™ 5 220 Processor (22 MB cache, 6 cores, 12 threads, up to 4.9 GHz)",
             "Operating System": "Windows 11 Pro (Dell Technologies recommends Windows 11 Pro for business)",
@@ -1685,14 +1936,22 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code BTO501_PB14255_I3X"
-        ]
+        "order_code": "BTO501_PB14255_I3X"
     },
     {
         "product_name": "Dell Pro 13 Plus Laptop",
         "product_url": "https://www.dellstore.com/dell-pro-13-plus-laptop-bto501-pb13255-i3x.html",
-        "product_price": "₹139,813.00",
+        "product_price": "139813.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pb13255nt-gy-5mm-fhd-rgb-gallery-10_1_.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pb13255nt-gy-5mm-fhd-rgb-gallery-3.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pb13255nt-gy-5mm-fhd-rgb-gallery-4.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pb13255nt-gy-5mm-fhd-rgb-gallery-5.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pb13255nt-gy-5mm-fhd-rgb-gallery-6.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pb13255nt-gy-5mm-fhd-rgb-gallery-7.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pb13255nt-gy-5mm-fhd-rgb-gallery-8.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pb13255nt-gy-5mm-fhd-rgb-gallery-10.jpg"
+        ],
         "technical_details": {
             "Processor": "AMD Ryzen™ 3 210 Processor (12 MB cache, 4 cores, 8 threads, up to 4.7 GHz)",
             "Operating System": "Windows 11 Pro",
@@ -1725,14 +1984,20 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code BTO501_PB13255_I3X"
-        ]
+        "order_code": "BTO501_PB13255_I3X"
     },
     {
         "product_name": "Dell Pro 16 Plus Laptop",
         "product_url": "https://www.dellstore.com/dell-pro-16-plus-bto109-pb16250-i3x.html",
-        "product_price": "₹208,647.00",
+        "product_price": "208647.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pb16250-nt-c-gy-fpr-mipi-5mp-gallery-1_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pb16250-nt-c-gy-fpr-mipi-5mp-gallery-2_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pb16250-nt-c-gy-fpr-mipi-5mp-gallery-4_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pb16250-nt-c-gy-fhd-rgb-wlan-rj45-gallery-6_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pb16250-nt-c-gy-fhd-rgb-wlan-gallery-8_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pb16250-nt-c-gy-fpr-mipi-5mp-gallery-8_2.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ Ultra 7 265U, vPro® (12 TOPS NPU, 12 cores, up to 5.3 GHz)",
             "Operating System": "Windows 11 Pro (Dell Technologies recommends Windows 11 Pro for business)",
@@ -1763,14 +2028,20 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code BTO109_PB16250_I3X"
-        ]
+        "order_code": "BTO109_PB16250_I3X"
     },
     {
         "product_name": "Dell Pro 16 Plus Laptop",
         "product_url": "https://www.dellstore.com/dell-pro-16-plus-laptop-bto102-pb16250-i3x.html",
-        "product_price": "₹154,092.00",
+        "product_price": "154092.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pb16250-nt-c-gy-fpr-mipi-5mp-gallery-1_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pb16250-nt-c-gy-fhd-rgb-wlan-rj45-gallery-6.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pb16250-nt-c-gy-fpr-mipi-5mp-gallery-2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pb16250-nt-c-gy-fpr-mipi-5mp-gallery-4_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pb16250-nt-c-gy-fpr-mipi-5mp-gallery-8_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pb16250-nt-c-gy-fhd-rgb-wlan-gallery-8.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ Ultra 5 235U, vPro® (12 TOPS NPU, 12 cores, up to 4.9 GHz)",
             "Operating System": "Windows 11 Pro",
@@ -1800,14 +2071,22 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code BTO102_PB16250_I3X"
-        ]
+        "order_code": "BTO102_PB16250_I3X"
     },
     {
         "product_name": "Dell Pro 14 Premium Laptop",
         "product_url": "https://www.dellstore.com/dell-pro-14-premium-laptop-bto205-pa14250-i3x.html",
-        "product_price": "₹210,121.00",
+        "product_price": "210121.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/d/e/dell-pro-pa14250-laptop-copilot-pc-small_new_1.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-14-pa14250-nt-gy-entry-panel-plastic-bezel-wlan-gallery-2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-14-pa14250-nt-gy-entry-panel-plastic-bezel-wlan-gallery-3_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-14-pa14250-nt-gy-entry-panel-plastic-bezel-wlan-gallery-5_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-14-pa14250-nt-gy-entry-panel-plastic-bezel-wlan-gallery-6_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-14-pa14250-nt-gy-entry-panel-plastic-bezel-wlan-gallery-7_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-14-pa14250-nt-gy-entry-panel-plastic-bezel-wlan-gallery-8_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-14-pa14250-nt-gy-entry-panel-plastic-bezel-wlan-gallery-9_1.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ Ultra 7 266V vPro® (48 TOPS NPU, 8 cores, up to 5.0 GHz) with 16GB Memory",
             "Operating System": "Windows 11 Pro, Copilot+ PC (Dell Technologies recommends Windows 11 Pro for business)",
@@ -1842,14 +2121,23 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code BTO205_PA14250_I3X"
-        ]
+        "order_code": "BTO205_PA14250_I3X"
     },
     {
         "product_name": "Dell Pro 13 Premium Laptop",
         "product_url": "https://www.dellstore.com/dell-pro-13-premium-laptop-bto201-pa13250-i3x.html",
-        "product_price": "₹180,838.00",
+        "product_price": "180838.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/d/e/dell-pro-pa13250-laptop-copilot-pc-small_new.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pa13250nt-gy-entry-panel-pl-bezel-wlan-gallery-2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pa13250nt-gy-entry-panel-pl-bezel-wlan-gallery-3.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pa13250nt-gy-entry-panel-pl-bezel-wlan-gallery-4.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pa13250nt-gy-entry-panel-pl-bezel-wlan-gallery-5.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pa13250nt-gy-entry-panel-pl-bezel-wlan-gallery-6.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pa13250nt-gy-entry-panel-pl-bezel-wlan-gallery-7.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pa13250nt-gy-entry-panel-pl-bezel-wlan-gallery-8.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-pro-pa13250nt-gy-entry-panel-pl-bezel-wlan-gallery-9.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ Ultra 5 236V vPro® (40 TOPS NPU, 8 cores, up to 4.7 GHz) with 16GB Memory",
             "Operating System": "Windows 11 Pro, Copilot+ PC (Dell Technologies recommends Windows 11 Pro for business)",
@@ -1884,14 +2172,20 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code BTO201_PA13250_I3X"
-        ]
+        "order_code": "BTO201_PA13250_I3X"
     },
     {
         "product_name": "Dell Pro 16 Plus Laptop",
         "product_url": "https://www.dellstore.com/dell-pro-16-plus-laptop-bto208-pb16250-i3x.html",
-        "product_price": "₹146,126.00",
+        "product_price": "146126.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pb16250-nt-c-gy-fpr-mipi-5mp-gallery-1_bto208_pb16250_i3x.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pb16250-nt-c-gy-fpr-mipi-5mp-gallery-2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pb16250-nt-c-gy-fpr-mipi-5mp-gallery-4.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pb16250-nt-c-gy-fpr-mipi-5mp-gallery-6.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pb16250-nt-c-gy-fpr-mipi-5mp-gallery-7.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-pb16250-nt-c-gy-fpr-mipi-5mp-gallery-8.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ Ultra 5 236V vPro® (40 TOPS NPU, 8 cores, up to 4.7 GHz) with 16GB Memory",
             "Operating System": "Windows 11 Pro, Copilot+ PC (Dell Technologies recommends Windows 11 Pro for business)",
@@ -1925,14 +2219,24 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code BTO208_PB16250_I3X"
-        ]
+        "order_code": "BTO208_PB16250_I3X"
     },
     {
         "product_name": "G15 Gaming Laptop",
         "product_url": "https://www.dellstore.com/g15-gaming-laptop-ogn5530003p01rino.html",
-        "product_price": "₹94,790.00",
+        "product_price": "94790.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/g/n/gn5530d83m6001orb1-1_3_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/g/n/gn5530d83m6001orb1-2_3_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/g/n/gn5530d83m6001orb1-3_3_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/g/n/gn5530d83m6001orb1-4_3_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/g/n/gn5530d83m6001orb1-5_3_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/g/n/gn5530d83m6001orb1-6_3_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/g/n/gn5530d83m6001orb1-7_3_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/g/n/gn5530d83m6001orb1-8_3_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/g/n/gn5530d83m6001orb1-9_3_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/g/n/gn5530d83m6001orb1-10_3_1.jpg"
+        ],
         "technical_details": {
             "Processor": "13th Generation Intel® Core™ i5-13450HX, 20 MB cache, 10 cores, up to 4.60 GHz",
             "Operating System": "Windows 11 Home, Single Language English",
@@ -1979,14 +2283,25 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code OGN5530003P01RINO"
-        ]
+        "order_code": "OGN5530003P01RINO"
     },
     {
         "product_name": "Inspiron 14 Plus Laptop",
         "product_url": "https://www.dellstore.com/inspiron-14-plus-laptop-oin7441200101rinu1.html",
-        "product_price": "₹109,490.00",
+        "product_price": "109490.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-inspiron-7441-t-fpr-ice-blue-gallery-12_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-inspiron-7441-t-fpr-ice-blue-gallery-1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-inspiron-7441-t-fpr-ice-blue-gallery-2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-inspiron-7441-t-fpr-ice-blue-gallery-4.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-inspiron-7441-t-fpr-ice-blue-gallery-5.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-inspiron-7441-t-fpr-ice-blue-gallery-6.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-inspiron-7441-t-fpr-ice-blue-gallery-7.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-inspiron-7441-t-fpr-ice-blue-gallery-8.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-inspiron-7441-t-fpr-ice-blue-gallery-10.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-inspiron-7441-t-fpr-ice-blue-gallery-12.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-inspiron-7441-t-fpr-ice-blue-gallery-13.jpg"
+        ],
         "technical_details": {
             "Processor": "Qualcomm® Snapdragon® X Plus X1P-64-100 (45 TOPS NPU, 10 cores, up to 3.4 GHz)",
             "Operating System": "Windows 11 Home, English",
@@ -2028,14 +2343,22 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code OIN7441200101RINU1"
-        ]
+        "order_code": "OIN7441200101RINU1"
     },
     {
         "product_name": "Dell 15 Laptop",
         "product_url": "https://www.dellstore.com/dell-15-laptop-odc1525000101rinb1.html",
-        "product_price": "₹61,990.00",
+        "product_price": "61990.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-bk-plastic-fpr-gallery-1_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-bk-plastic-fpr-gallery-3_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-bk-plastic-usba-gallery-2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-bk-plastic-fpr-gallery-4_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-bk-plastic-gallery-6_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-bk-plastic-gallery-8_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-bk-plastic-gallery-9_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-bk-plastic-usbc-data-gallery-7_1.jpg"
+        ],
         "technical_details": {
             "Processor": "13th Generation Intel® Core™ i5-1334U (10 cores, up to 4.60 GHz)",
             "Operating System": "Windows 11 Home, Single Language",
@@ -2070,14 +2393,23 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code ODC1525000101RINB1"
-        ]
+        "order_code": "ODC1525000101RINB1"
     },
     {
         "product_name": "Dell 14 Laptop",
         "product_url": "https://www.dellstore.com/dell-14-laptop-odc1425000701rins1.html",
-        "product_price": "₹60,490.00",
+        "product_price": "60490.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/d/e/dell-dc14250-laptop_1.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dc14250nt-fpr-plastic-intel-sl-gallery-3.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dc14250nt-fpr-plastic-intel-sl-gallery-4.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dc14250nt-plastic-intel-sl-gallery-5.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dc14250nt-plastic-intel-sl-gallery-7.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dc14250nt-fpr-plastic-intel-sl-gallery-6.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dc14250nt-plastic-intel-sl-gallery-8.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dc14250nt-plastic-intel-sl-gallery-9.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dc14250nt-plastic-intel-sl-gallery-13.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ 3 100U (6 cores, up to 4.7 GHz)",
             "Operating System": "Windows 11 Home, Single Language",
@@ -2117,14 +2449,24 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code ODC1425000701RINS1"
-        ]
+        "order_code": "ODC1425000701RINS1"
     },
     {
         "product_name": "New XPS 16 Laptop (2026)",
         "product_url": "https://www.dellstore.com/xps-16-laptop-cda16260cto02mino.html",
-        "product_price": "₹278,590.00",
+        "product_price": "278590.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-da16260-t-gray-copilot-gallery-1_1.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-da16260-t-gray-gallery-2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-da16260-t-gray-gallery-5_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-da16260-t-gray-gallery-6_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-da16260-t-gray-gallery-11_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-da16260-t-gray-gallery-3_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-da16260-t-gray-gallery-4_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-da16260-t-gray-gallery-8_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-da16260-t-gray-gallery-7_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-da16260-t-gray-gallery-9_1.jpg"
+        ],
         "technical_details": {
             "Processor": "Series 3 Intel® Core™ Ultra X7 358H (16 cores, up to 4.8 GHz)",
             "Operating System": "Windows 11 Home Single Language",
@@ -2163,14 +2505,24 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code CDA16260CTO02MINO"
-        ]
+        "order_code": "CDA16260CTO02MINO"
     },
     {
         "product_name": "New XPS 16 Laptop (2026)",
         "product_url": "https://www.dellstore.com/xps-16-laptop-cda16260cto01mino.html",
-        "product_price": "₹216,490.00",
+        "product_price": "216490.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-da16260-t-gray-copilot-gallery-1.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-da16260-t-gray-gallery-2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-da16260-t-gray-gallery-5.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-da16260-t-gray-gallery-6.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-da16260-t-gray-gallery-11.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-da16260-t-gray-gallery-3.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-da16260-t-gray-gallery-4.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-da16260-t-gray-gallery-8.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-da16260-t-gray-gallery-7.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/n/o/notebook-da16260-t-gray-gallery-9.jpg"
+        ],
         "technical_details": {
             "Processor": "Series 3 Intel® Core™ Ultra 7 Processor 355 (8 Core, 12MB Cache, up to 4.7 GHz)",
             "Operating System": "Windows 11 Home Single Language",
@@ -2209,14 +2561,25 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code CDA16260CTO01MINO"
-        ]
+        "order_code": "CDA16260CTO01MINO"
     },
     {
         "product_name": "New XPS 14 Laptop (2026)",
         "product_url": "https://www.dellstore.com/xps-14-laptop-cda14260cto02mino.html",
-        "product_price": "₹205,990.00",
+        "product_price": "205990.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-da14260t-gray-copilot-gallery-1_1.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-da14260t-gray-gallery-12_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-da14260t-gray-gallery-2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-da14260t-gray-gallery-9_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-da14260t-gray-gallery-6_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-da14260t-gray-gallery-5_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-da14260t-gray-gallery-3_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-da14260t-gray-gallery-4_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-da14260t-gray-gallery-8_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-da14260t-gray-gallery-7_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-da14260t-gray-gallery-10_1.jpg"
+        ],
         "technical_details": {
             "Processor": "Series 3 Intel® Core™ Ultra 7 Processor 355 (8 Core, 12MB Cache, up to 4.7 GHz)",
             "Operating System": "Windows 11 Home Single Language",
@@ -2255,14 +2618,25 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code CDA14260CTO02MINO"
-        ]
+        "order_code": "CDA14260CTO02MINO"
     },
     {
         "product_name": "New XPS 14 Laptop (2026)",
         "product_url": "https://www.dellstore.com/xps-14-laptop-cda14260cto01mino.html",
-        "product_price": "₹185,390.00",
+        "product_price": "185390.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-da14260t-gray-copilot-gallery-1.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-da14260t-gray-gallery-12.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-da14260t-gray-gallery-2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-da14260t-gray-gallery-9.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-da14260t-gray-gallery-6.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-da14260t-gray-gallery-5.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-da14260t-gray-gallery-3.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-da14260t-gray-gallery-4.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-da14260t-gray-gallery-8.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-da14260t-gray-gallery-7.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-da14260t-gray-gallery-10.jpg"
+        ],
         "technical_details": {
             "Processor": "Series 3 Intel® Core™ Ultra 5 325 (8 cores, up to 4.5 GHz)",
             "Operating System": "Windows 11 Home Single Language",
@@ -2301,14 +2675,19 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code CDA14260CTO01MINO"
-        ]
+        "order_code": "CDA14260CTO01MINO"
     },
     {
         "product_name": "New Dell 15 Laptop",
         "product_url": "https://www.dellstore.com/dell-15-laptop-cd15260ctoh5rins1.html",
-        "product_price": "₹101,390.00",
+        "product_price": "101390.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-15-d15260-nt-gray-gallery-1_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-15-d15260-nt-gray-gallery-2_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-15-d15260-nt-gray-gallery-3_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-15-d15260-nt-gray-gallery-5_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-15-d15260-nt-gray-gallery-6_2.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ Ultra 7 Processor 255H",
             "Operating System": "Windows 11 Home, Single Language",
@@ -2347,14 +2726,19 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code CD15260CTOH5RINS1"
-        ]
+        "order_code": "CD15260CTOH5RINS1"
     },
     {
         "product_name": "New Dell 15 Laptop",
         "product_url": "https://www.dellstore.com/dell-15-laptop-cd15260ctoh2rins1.html",
-        "product_price": "₹70,990.00",
+        "product_price": "70990.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-15-d15260-nt-gray-gallery-1_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-15-d15260-nt-gray-gallery-2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-15-d15260-nt-gray-gallery-3_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-15-d15260-nt-gray-gallery-5_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-15-d15260-nt-gray-gallery-6_1.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ Ultra 5 Processor 225H",
             "Operating System": "Windows 11 Home, Single Language",
@@ -2393,14 +2777,15 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code CD15260CTOH2RINS1"
-        ]
+        "order_code": "CD15260CTOH2RINS1"
     },
     {
         "product_name": "New Dell 15 Laptop",
         "product_url": "https://www.dellstore.com/dell-15-laptop-cd15260ctoh1rinb1.html",
-        "product_price": "₹68,590.00",
+        "product_price": "68590.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/d/e/dell-d15260-laptop-bk.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ Ultra 5 Processor 225H",
             "Operating System": "Windows 11 Home, Single Language",
@@ -2439,14 +2824,19 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code CD15260CTOH1RINB1"
-        ]
+        "order_code": "CD15260CTOH1RINB1"
     },
     {
         "product_name": "New Dell 15 Laptop",
         "product_url": "https://www.dellstore.com/dell-15-laptop-cd15260ctoh3rins1.html",
-        "product_price": "₹78,390.00",
+        "product_price": "78390.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-15-d15260-nt-gray-gallery-1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-15-d15260-nt-gray-gallery-2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-15-d15260-nt-gray-gallery-3.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-15-d15260-nt-gray-gallery-5.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-15-d15260-nt-gray-gallery-6.jpg"
+        ],
         "technical_details": {
             "Processor": "Intel® Core™ Ultra 5 Processor 225H",
             "Operating System": "Windows 11 Home, Single Language",
@@ -2485,14 +2875,21 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code CD15260CTOH3RINS1"
-        ]
+        "order_code": "CD15260CTOH3RINS1"
     },
     {
         "product_name": "Dell 15 Laptop",
         "product_url": "https://www.dellstore.com/dell-15-laptop-odc1525580201rins1.html",
-        "product_price": "₹63,190.00",
+        "product_price": "63190.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/d/e/dell-dc15255-laptop-slver_1.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15255nt-sl-plastic-usbc-data-gallery-2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15255nt-sl-plastic-gallery-4_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15255nt-sl-plastic-gallery-9_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15255nt-sl-plastic-gallery-6_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15255nt-sl-plastic-gallery-8_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15255nt-sl-plastic-usbc-data-gallery-7_1.jpg"
+        ],
         "technical_details": {
             "Processor": "AMD Ryzen™ 5 7530U 6-core with Radeon™ Graphics",
             "Operating System": "Windows 11 Home, Single Language English",
@@ -2538,14 +2935,21 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code ODC1525580201RINS1"
-        ]
+        "order_code": "ODC1525580201RINS1"
     },
     {
         "product_name": "Dell 15 Laptop",
         "product_url": "https://www.dellstore.com/dell-15-laptop-odc1525000401rins1.html",
-        "product_price": "₹72,990.00",
+        "product_price": "72990.00",
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-gallery-1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-gallery-3.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-usbc-full-function-gallery-2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-gallery-8.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-usbc-full-function-gallery-7.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-fpr-gallery-6.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/l/a/laptop-dell-dc15250nt-sl-metal-gallery-9.jpg"
+        ],
         "technical_details": {
             "Processor": "13th Generation Intel® Core™ i5-1334U (10 cores, up to 4.60 GHz)",
             "Operating System": "Windows 11 Home, Single Language",
@@ -2591,8 +2995,6 @@
                 "offer_description": "For Detailed T&C , Please visit: https://www.dellstore.com/cashify-terms-and-conditions"
             }
         ],
-        "order_code": [
-            "Order Code ODC1525000401RINS1"
-        ]
+        "order_code": "ODC1525000401RINS1"
     }
 ]
