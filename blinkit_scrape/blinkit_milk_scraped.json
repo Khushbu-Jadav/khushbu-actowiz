@@ -1,0 +1,86 @@
+[
+    {
+        "product_id": 19507,
+        "product_name": "Amul Masti Spiced Salted Buttermilk",
+        "product_price": 15,
+        "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/76a28c0d-0821-40a3-9e5f-8f073ddc5694.png",
+        "unit": "200 ml"
+    },
+    {
+        "product_id": 561268,
+        "product_name": "Amul Gold Full Cream Milk",
+        "product_price": 72,
+        "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/74b0d3be-111c-4342-ac27-43fd7bb54793.png",
+        "unit": "1 ltr"
+    },
+    {
+        "product_id": 19512,
+        "product_name": "Amul Taaza Toned Milk",
+        "product_price": 30,
+        "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/5734b087-3ad9-485f-bbe2-52079cd9e35d.png",
+        "unit": "500 ml"
+    },
+    {
+        "product_id": 45533,
+        "product_name": "Amul Masti Pouch Curd",
+        "product_price": 35,
+        "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/3af56c86-9a93-4d0c-a8d5-cf38493e4120.png",
+        "unit": "390 g"
+    },
+    {
+        "product_id": 329500,
+        "product_name": "Amul Fresh Malai Paneer",
+        "product_price": 95,
+        "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/7a1700ee-dd38-49cf-b34e-171ff84ac0e7.png",
+        "unit": "200 g"
+    },
+    {
+        "product_id": 159,
+        "product_name": "Amul Salted Butter",
+        "product_price": 60,
+        "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/613787ac-f983-4cfb-b534-e219c8d47b39.png",
+        "unit": "100 g"
+    },
+    {
+        "product_id": 176,
+        "product_name": "Amul Taaza Homogenised Toned Milk",
+        "product_price": 77,
+        "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/9a4088cc-db19-4add-b3ce-2edd4d09f4ae.png",
+        "unit": "1 ltr"
+    },
+    {
+        "product_id": 160704,
+        "product_name": "Amul Cow Milk",
+        "product_price": 31,
+        "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1770981407245-4.png",
+        "unit": "500 ml"
+    },
+    {
+        "product_id": 206314,
+        "product_name": "Amul Lactose Free Milk",
+        "product_price": 26,
+        "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/87c1c525-750e-475f-91d1-f155026ddaa1.png",
+        "unit": "250 ml"
+    },
+    {
+        "product_id": 99407,
+        "product_name": "Amul Masti Pouch Curd",
+        "product_price": 80,
+        "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/e7023096-622d-4e2e-9c2c-a7689262c36f.png",
+        "unit": "1 kg"
+    },
+    {
+        "product_id": 159837,
+        "product_name": "Amul Unsalted Buttermilk",
+        "product_price": 15,
+        "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/a8bdf605-84b1-4664-97ac-4a61603b3cac.png",
+        "unit": "400 ml"
+    },
+    {
+        "product_id": 547228,
+        "product_name": "Amul Masti Set Cup Curd Tub",
+        "product_price": 115,
+        "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/04dbb266-d965-4447-ba2c-655f725b47f5.png",
+        "unit": "1 kg"
+    }
+]
