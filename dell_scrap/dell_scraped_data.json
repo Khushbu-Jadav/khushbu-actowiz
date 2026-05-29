@@ -5752,42 +5752,6 @@
     },
     {
         "category_url": "https://www.dellstore.com/monitors.html",
-        "product_name": "Dell 32 Plus 4K Monitor - S3225QS",
-        "product_url": "https://www.dellstore.com/dell-32-plus-4k-monitor-s3225qs.html",
-        "product_price": 35699.0,
-        "product_images": [
-            "https://dellstatic.luroconnect.com/media/catalog/product/m/o/monitor-s3225qs-c-gray-gallery-1.jpg",
-            "https://dellstatic.luroconnect.com/media/catalog/product/m/o/monitor-s3225qs-c-gray-gallery-2.jpg",
-            "https://dellstatic.luroconnect.com/media/catalog/product/m/o/monitor-s3225qs-c-gray-gallery-3.jpg",
-            "https://dellstatic.luroconnect.com/media/catalog/product/m/o/monitor-s3225qs-c-gray-gallery-4.jpg",
-            "https://dellstatic.luroconnect.com/media/catalog/product/m/o/monitor-s3225qs-c-gray-gallery-5.jpg",
-            "https://dellstatic.luroconnect.com/media/catalog/product/m/o/monitor-s3225qs-c-gray-gallery-6.jpg"
-        ],
-        "technical_details": {
-            "Diagonal Size": "80.01 cm (31.50\")",
-            "Resolution / Refresh Rate": "3840 x 2160",
-            "Panel Technology": "Vertical Alignment (VA)",
-            "Audio": "Yes",
-            "Adjustability": "Height, Tilt, Slant",
-            "Color Gamut": "99% sRGB (CIE 1931) | 95% DCI-P3 (CIE 1976)",
-            "Ports": "2 HDMI ports (HDCP 1.4 and 2.2) (Supports up to UHD 3840 x 2160, 120 Hz, FRL, HDR, VRR as per specified in HDMI 2.1), 1 DisplayPort 1.4 (HDCP 1.4 and 2.2) (Supports up to UHD 3840 x 2160, 120 Hz, HDR, VRR)",
-            "Cables": "Power cable, 1 HDMI cable - 1.80 m",
-            "Features": "Height-Adjustable, Integrated Speaker, Energy Star Certified, VESA Compatible"
-        },
-        "special_offers": [
-            {
-                "offer_title": "15% off on Display if purchased with Laptop",
-                "offer_description": "Add any Monitor with Laptops and Get Extra 15% off (only 1 monitor included) Offer is not valid if the above monitor/accessories are purchased standalone and no laptops are purchased altogether Offer valid till 31st July 2026"
-            },
-            {
-                "offer_title": "Avail up to 6 Months No Cost EMI",
-                "offer_description": "No Cost EMI is available on 3 and 6 months EMI plans of all banks credit cards and selected banks debit cards(HDFC and IndusInd only). 3 months NCEMI if the final amount to be paid is Rs 30,000 or less and above Rs 20,000. The interest amount charged by the bank will be discounted from the price of your order. The total amount you pay to the bank will be equal to the price of the item Please check No Cost EMI plans in payments page for more details. Offer must be selected in the payment page to avail the discount. Click here for detailed terms and conditions. Offer valid till 31st July 2026"
-            }
-        ],
-        "order_code": "210-BQWD"
-    },
-    {
-        "category_url": "https://www.dellstore.com/monitors.html",
         "product_name": "Dell 34 Plus USB-C Curved Monitor - S3425DW",
         "product_url": "https://www.dellstore.com/dell-34-plus-usb-c-curved-monitor-s3425dw.html",
         "product_price": 42849.0,
@@ -6163,6 +6127,41 @@
             }
         ],
         "order_code": "210-BKMC"
+    },
+    {
+        "category_url": "https://www.dellstore.com/monitors.html",
+        "product_name": "Dell Pro 27 Plus USB-C Hub Monitor - P2725HE",
+        "product_url": "https://www.dellstore.com/dell-27-usb-cr-hub-monitor-p2725he.html",
+        "product_price": 22299.0,
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/b/m/bmjk_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/b/m/bmjk_2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/b/m/bmjk_3.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/b/m/bmjk_4.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/b/m/bmjk_5.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/b/m/bmjk_6.jpg"
+        ],
+        "technical_details": {
+            "Diagonal Size": "27\" (68.60 cm)",
+            "Resolution / Refresh Rate": "1920 x 1080",
+            "Panel Technology": "In-Plane Switching (IPS) technology",
+            "Adjustability": "Height, Tilt, Swivel, Pivot",
+            "Color Gamut": "99% sRGB",
+            "Ports": "1x HDMI 1.4 (HDCP 1.4) (Supports up to FHD 1920 x 1080 100Hz TMDS as per specified in HDMI 1.4), 1x DP 1.4 (HDCP 1.4), 1x DP-out (1.4) with MST (HDCP 1.4), 1 x RJ45 Ethernet port, 1GbE, 1x USB 3.2 Gen1 Type-C upstream (Alt. mode with DP1.4) with up to 90W",
+            "Cables": "1x Power cord, 1x DP-to-DP cable, 1.8m 1x USB 3.2 Gen2 Type C-to-C cable, 1.0m",
+            "Features": "Height-Adjustable, Energy Star Certified, VESA Compatible"
+        },
+        "special_offers": [
+            {
+                "offer_title": "15% off on Display if purchased with Laptop",
+                "offer_description": "Add any Monitor with Laptops and Get Extra 15% off (only 1 monitor included) Offer is not valid if the above monitor/accessories are purchased standalone and no laptops are purchased altogether Offer valid till 31st July 2026"
+            },
+            {
+                "offer_title": "Avail up to 3 Months No Cost EMI",
+                "offer_description": "No Cost EMI is available on 3 months EMI plans of all banks credit cards and selected banks debit cards(HDFC and IndusInd only). The interest amount charged by the bank will be discounted from the price of your order. The total amount you pay to the bank will be equal to the price of the item Please check No Cost EMI plans in payments page for more details. Offer must be selected in the payment page to avail the discount. Click here for detailed terms and conditions. Offer valid till 31st July 2026"
+            }
+        ],
+        "order_code": "210-BMJK"
     },
     {
         "category_url": "https://www.dellstore.com/monitors.html",
@@ -6766,43 +6765,6 @@
     },
     {
         "category_url": "https://www.dellstore.com/monitors.html",
-        "product_name": "ALIENWARE 27 360HZ QD-OLED GAMING MONITOR - AW2725DF",
-        "product_url": "https://www.dellstore.com/alienware-27-360hz-qd-oled-gaming-monitor-aw2725df.html",
-        "product_price": 73899.0,
-        "product_images": [
-            "https://dellstatic.luroconnect.com/media/catalog/product/m/o/monitor-alienware-2725df-black-gallery-8.jpg",
-            "https://dellstatic.luroconnect.com/media/catalog/product/a/w/aw2725df_n.png",
-            "https://dellstatic.luroconnect.com/media/catalog/product/m/o/monitor-alienware-2725df-black-gallery-9.jpg",
-            "https://dellstatic.luroconnect.com/media/catalog/product/m/o/monitor-alienware-2725df-black-gallery-4.jpg",
-            "https://dellstatic.luroconnect.com/media/catalog/product/m/o/monitor-alienware-2725df-black-gallery-10.jpg",
-            "https://dellstatic.luroconnect.com/media/catalog/product/m/o/monitor-alienware-2725df-black-gallery-16.jpg",
-            "https://dellstatic.luroconnect.com/media/catalog/product/m/o/monitor-alienware-2725df-black-gallery-3.jpg",
-            "https://dellstatic.luroconnect.com/media/catalog/product/m/o/monitor-alienware-2725df-black-gallery-11.jpg"
-        ],
-        "technical_details": {
-            "Diagonal Size": "26.7\" (67.81 cm)",
-            "Resolution / Refresh Rate": "2560 X 1440 at 360Hz (Native with DisplayPort), 2560 X 1440 at 144Hz (Native with HDMI)",
-            "Panel Technology": "QD OLED",
-            "Adaptive Sync": "AMD FreeSync™ Technology: Yes, AMD FreeSync™ Premium Pro, VESA AdaptiveSync Display, Certification:Yes",
-            "Response Time": "0.03 ms (gray-to-gray)",
-            "Ports": "2 x DP 1.4 (HDCP 1.4 & 2.3)(Supports up to QHD 2560 x 1440 360 Hz, HDR, VRR), 1 x HDMI 2.1 (HDCP 1.4 & 2.3)(Supports up to QHD 2560 x 1440 144 Hz TMDS, HDR, VRR as per specified in HDMI 2.1), 1 x USB 3.2 Gen 1 (5 Gbps) Type-B upstream port (Rear), 2 x US",
-            "Cables": "1 x Power cable (varies by country), 1 x DisplayPort to DisplayPort 1.4 cable (1.80 meters), 1 x USB-C to DisplayPort 1.4 cable (1.0 meters), 1 x USB 3.2 Gen1(5 Gbps) upstream cable (1.80 meters)",
-            "Features": "Height-Adjustable, VESA Compatible"
-        },
-        "special_offers": [
-            {
-                "offer_title": "15% off on Display if purchased with Laptop",
-                "offer_description": "Add any Monitor with Laptops and Get Extra 15% off (only 1 monitor included) Offer is not valid if the above monitor/accessories are purchased standalone and no laptops are purchased altogether Offer valid till 31st July 2026"
-            },
-            {
-                "offer_title": "Avail up to 6 Months No Cost EMI",
-                "offer_description": "No Cost EMI is available on 3 and 6 months EMI plans of all banks credit cards and selected banks debit cards(HDFC and IndusInd only). 3 months NCEMI if the final amount to be paid is Rs 30,000 or less and above Rs 20,000. The interest amount charged by the bank will be discounted from the price of your order. The total amount you pay to the bank will be equal to the price of the item Please check No Cost EMI plans in payments page for more details. Offer must be selected in the payment page to avail the discount. Click here for detailed terms and conditions. Offer valid till 31st July 2026"
-            }
-        ],
-        "order_code": "210-BLQH"
-    },
-    {
-        "category_url": "https://www.dellstore.com/monitors.html",
         "product_name": "ALIENWARE 32 4K QD-OLED GAMING MONITOR - AW3225QF",
         "product_url": "https://www.dellstore.com/alienware-32-4k-qd-oled-gaming-monitor-aw3225qf.html",
         "product_price": 93699.0,
@@ -7065,6 +7027,38 @@
             }
         ],
         "order_code": "210-BSYM"
+    },
+    {
+        "category_url": "https://www.dellstore.com/monitors.html",
+        "product_name": "Dell 27 200Hz Monitor - SE2725HG",
+        "product_url": "https://www.dellstore.com/dell-27-200hz-monitor-se2725hg-210-bsgt.html",
+        "product_price": 12599.0,
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/m/o/monitor-se2725hg-black-gallery-1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/m/o/monitor-se2725hg-black-gallery-2.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/m/o/monitor-se2725hg-black-gallery-3.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/m/o/monitor-se2725hg-black-gallery-4.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/m/o/monitor-se2725hg-black-gallery-5.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/m/o/monitor-se2725hg-black-gallery-6.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/m/o/monitor-se2725hg-black-gallery-8.jpg"
+        ],
+        "technical_details": {
+            "Diagonal Size": "27\" (68.58 cm)",
+            "Resolution / Refresh Rate": "Full HD (1920 x 1080)",
+            "Panel Technology": "In-plane Switching (IPS) Technology",
+            "Adjustability": "Tilt Pivot Height Swivel",
+            "Color Gamut": "99% sRGB (CIE 1931)",
+            "Ports": "2 HDMI ports (HDCP 1.4 and HDCP 2.2) (Supports up to FHD 1920 x 1080 200Hz, VRR, HDR as per specified in HDMI 2.1) 1 DisplayPort 1.4 port (HDCP 1.4 and HDCP 2.2), 1 Headphone-out port (3.5 mm jack)",
+            "Cables": "Power Cable, 1 x HDMI 2.0 Cable - 1.80 m",
+            "Features": "VESA Compatible"
+        },
+        "special_offers": [
+            {
+                "offer_title": "15% off on Display if purchased with Laptop",
+                "offer_description": "Add any Monitor with Laptops and Get Extra 15% off (only 1 monitor included) Offer is not valid if the above monitor/accessories are purchased standalone and no laptops are purchased altogether Offer valid till 31st July 2026"
+            }
+        ],
+        "order_code": "210-BSGT"
     },
     {
         "category_url": "https://www.dellstore.com/monitors.html",
@@ -8433,25 +8427,6 @@
     },
     {
         "category_url": "https://www.dellstore.com/accessories.html",
-        "product_name": "Dell Wireless Audio Receiver - HR024",
-        "product_url": "https://www.dellstore.com/dell-wireless-audio-receiver-hr024.html",
-        "product_price": 3199.0,
-        "product_images": [
-            "https://dellstatic.luroconnect.com/media/catalog/product/4/9/492-bdmf_107.jpg"
-        ],
-        "technical_details": {
-            "Colour": "Apollo Black",
-            "Functions / Device Type": "Wireless Audio Receiver",
-            "Connectivity": "USB-C",
-            "Interfaces": "USB-C",
-            "Warranty Period": "1 Year Limited Hardware Warranty",
-            "Compatibility": "Dell Pro Plus Earbuds - EB525, Dell Pro Wireless Headset - WL3024, Dell Pro Plus Wireless ANC Headset - WL5024 Dell Pro Premium Wireless ANC Headset - WL7024"
-        },
-        "special_offers": [],
-        "order_code": "492-BDMF"
-    },
-    {
-        "category_url": "https://www.dellstore.com/accessories.html",
         "product_name": "Dell Pro Plus Wired/Wireless Headset Ear Cushions - HE524",
         "product_url": "https://www.dellstore.com/dell-pro-wired-wireless-headset-ear-cushions-he524.html",
         "product_price": 1299.0,
@@ -8613,6 +8588,32 @@
         },
         "special_offers": [],
         "order_code": "570-BBFF"
+    },
+    {
+        "category_url": "https://www.dellstore.com/accessories.html",
+        "product_name": "Dell Webcam - WB3023 - 2K QHD",
+        "product_url": "https://www.dellstore.com/dell-ultrasharp-webcam-wb3023.html",
+        "product_price": 7499.0,
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/1/_/1_1__1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/2/_/2_3_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/3/_/3_3_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/4/_/4_3_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/5/_/5_3_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/6/_/6_2_1.jpg",
+            "https://dellstatic.luroconnect.com/media/catalog/product/7/_/7_2.jpg"
+        ],
+        "technical_details": {
+            "Software Certification": "Zoom Certified, Certified for Microsoft Teams",
+            "Audio": "Yes: built-in microphone",
+            "Video Resolution": "2560 x 1440",
+            "Connectivity": "Wired",
+            "Warranty Period": "Advanced Exchange Service - 3 years",
+            "OS Required": "Apple MacOS, Windows 10 64-bit Edition, Windows 11",
+            "Cables": "1 x USB cable - 1.5 m"
+        },
+        "special_offers": [],
+        "order_code": "722-BBBW"
     },
     {
         "category_url": "https://www.dellstore.com/accessories.html",
@@ -9006,27 +9007,6 @@
     },
     {
         "category_url": "https://www.dellstore.com/accessories.html",
-        "product_name": "Dell UltraSharp Webcam - WB7022",
-        "product_url": "https://www.dellstore.com/dell-ultrasharp-webcam-wb7022.html",
-        "product_price": 19799.0,
-        "product_images": [
-            "https://dellstatic.luroconnect.com/media/catalog/product/7/2/722-bbbc.jpg",
-            "https://dellstatic.luroconnect.com/media/catalog/product/7/2/722-bbbc1.jpg",
-            "https://dellstatic.luroconnect.com/media/catalog/product/7/2/722-bbbc2.jpg",
-            "https://dellstatic.luroconnect.com/media/catalog/product/7/2/722-bbbc3.jpg",
-            "https://dellstatic.luroconnect.com/media/catalog/product/7/2/722-bbbc4.jpg"
-        ],
-        "technical_details": {
-            "Video Resolution": "3840 x 2160",
-            "Additional Features": "Advanced Digital Overlap HDR 3D+2D Video Noise Reduction AI Auto-Framing Dell Express Sign-In Auto Focus Auto White Balance",
-            "Cables": "USB-C to USB-A cable - 2 m",
-            "Included Accessories": "Lens cap, privacy cover"
-        },
-        "special_offers": [],
-        "order_code": "722-BBBC"
-    },
-    {
-        "category_url": "https://www.dellstore.com/accessories.html",
         "product_name": "Dell Pro Wireless Keyboard and Mouse - KM5221W",
         "product_url": "https://www.dellstore.com/dell-pro-wireless-keyboard-and-mouse-international-english-km5221w-retail-packaging.html",
         "product_price": 3099.0,
@@ -9179,6 +9159,27 @@
         },
         "special_offers": [],
         "order_code": "570-AAJG"
+    },
+    {
+        "category_url": "https://www.dellstore.com/accessories.html",
+        "product_name": "Dell Pro Wired Mouse - MS3220 - Titan Gray",
+        "product_url": "https://www.dellstore.com/dell-laser-wired-mouse-ms3220-titan-gray-570-abdt.html",
+        "product_price": 1199.0,
+        "product_images": [
+            "https://dellstatic.luroconnect.com/media/catalog/product/5/7/570-abdt_1.png",
+            "https://dellstatic.luroconnect.com/media/catalog/product/5/7/570-abdt_2.png"
+        ],
+        "technical_details": {
+            "Connectivity Technology": "Wired",
+            "Colour": "Titan grey",
+            "Functions / Device Type": "Mouse",
+            "Movement resolution (DPI)": "Adjustable at 400, 800, 1600 and 3200 (default)",
+            "Buttons": "5",
+            "Interfaces": "USB 2.0",
+            "Additional Features": "Scrolling wheel"
+        },
+        "special_offers": [],
+        "order_code": "570-ABDT"
     },
     {
         "category_url": "https://www.dellstore.com/accessories.html",
