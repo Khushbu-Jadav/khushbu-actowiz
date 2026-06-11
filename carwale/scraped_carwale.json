@@ -1,0 +1,640 @@
+[
+    {
+        "brand": "tata",
+        "brand_url": "https://www.carwale.com/tata-cars/",
+        "car_url": [
+            "https://www.carwale.com/tata-cars/punch/",
+            "https://www.carwale.com/tata-cars/nexon/",
+            "https://www.carwale.com/tata-cars/tiago/",
+            "https://www.carwale.com/tata-cars/tiago-ev/",
+            "https://www.carwale.com/tata-cars/sierra/",
+            "https://www.carwale.com/tata-cars/harrier/",
+            "https://www.carwale.com/tata-cars/punch-ev/",
+            "https://www.carwale.com/tata-cars/safari/",
+            "https://www.carwale.com/tata-cars/curvv/",
+            "https://www.carwale.com/tata-cars/altroz/",
+            "https://www.carwale.com/tata-cars/nexon-ev/",
+            "https://www.carwale.com/tata-cars/harrier-ev/",
+            "https://www.carwale.com/tata-cars/curvv-ev/",
+            "https://www.carwale.com/tata-cars/tigor/",
+            "https://www.carwale.com/tata-cars/tiago-nrg/",
+            "https://www.carwale.com/tata-cars/tigor-ev/",
+            "https://www.carwale.com/tata-cars/sierra-ev/",
+            "https://www.carwale.com/tata-cars/new-tigor/",
+            "https://www.carwale.com/tata-cars/new-tigor-ev/",
+            "https://www.carwale.com/tata-cars/safari-ev/",
+            "https://www.carwale.com/tata-cars/altroz-ev/",
+            "https://www.carwale.com/tata-cars/avinya/"
+        ]
+    },
+    {
+        "brand": "maruti-suzuki",
+        "brand_url": "https://www.carwale.com/maruti-suzuki-cars/",
+        "car_url": [
+            "https://www.carwale.com/maruti-suzuki-cars/fronx/",
+            "https://www.carwale.com/maruti-suzuki-cars/baleno/",
+            "https://www.carwale.com/maruti-suzuki-cars/swift/",
+            "https://www.carwale.com/maruti-suzuki-cars/dzire/",
+            "https://www.carwale.com/maruti-suzuki-cars/brezza/",
+            "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/",
+            "https://www.carwale.com/maruti-suzuki-cars/victoris/",
+            "https://www.carwale.com/maruti-suzuki-cars/wagon-r/",
+            "https://www.carwale.com/maruti-suzuki-cars/ertiga/",
+            "https://www.carwale.com/maruti-suzuki-cars/alto-k10/",
+            "https://www.carwale.com/maruti-suzuki-cars/e-vitara/",
+            "https://www.carwale.com/maruti-suzuki-cars/celerio/",
+            "https://www.carwale.com/maruti-suzuki-cars/xl6/",
+            "https://www.carwale.com/maruti-suzuki-cars/s-presso/",
+            "https://www.carwale.com/maruti-suzuki-cars/jimny/",
+            "https://www.carwale.com/maruti-suzuki-cars/invicto/",
+            "https://www.carwale.com/maruti-suzuki-cars/eeco/",
+            "https://www.carwale.com/maruti-suzuki-cars/wagon-r/flex-fuel/",
+            "https://www.carwale.com/maruti-suzuki-cars/2026-brezza/",
+            "https://www.carwale.com/maruti-suzuki-cars/baleno-facelift/",
+            "https://www.carwale.com/maruti-suzuki-cars/fronx-facelift/",
+            "https://www.carwale.com/maruti-suzuki-cars/grand-vitara/phantom-blaq-edition/",
+            "https://www.carwale.com/maruti-suzuki-cars/new-ertiga/",
+            "https://www.carwale.com/maruti-suzuki-cars/seven-seat-ev-mpv-ymc/",
+            "https://www.carwale.com/maruti-suzuki-cars/sub-compact-suv/"
+        ]
+    },
+    {
+        "brand": "mahindra",
+        "brand_url": "https://www.carwale.com/mahindra-cars/",
+        "car_url": [
+            "https://www.carwale.com/mahindra-cars/xuv-7xo/",
+            "https://www.carwale.com/mahindra-cars/scorpio-n/",
+            "https://www.carwale.com/mahindra-cars/xuv-3xo/",
+            "https://www.carwale.com/mahindra-cars/thar-roxx/",
+            "https://www.carwale.com/mahindra-cars/thar/",
+            "https://www.carwale.com/mahindra-cars/scorpio/",
+            "https://www.carwale.com/mahindra-cars/be-6/",
+            "https://www.carwale.com/mahindra-cars/bolero/",
+            "https://www.carwale.com/mahindra-cars/xev-9s/",
+            "https://www.carwale.com/mahindra-cars/xev-9e/",
+            "https://www.carwale.com/mahindra-cars/bolero-neo/",
+            "https://www.carwale.com/mahindra-cars/xuv-3xo-ev/",
+            "https://www.carwale.com/mahindra-cars/bolero-neo-plus/",
+            "https://www.carwale.com/mahindra-cars/be-6-fe/",
+            "https://www.carwale.com/mahindra-cars/xuv400/",
+            "https://www.carwale.com/mahindra-cars/marazzo/",
+            "https://www.carwale.com/mahindra-cars/thar-facelift/",
+            "https://www.carwale.com/mahindra-cars/bolero-2026/",
+            "https://www.carwale.com/mahindra-cars/scorpio-n-facelift/",
+            "https://www.carwale.com/mahindra-cars/scorpio-facelift/",
+            "https://www.carwale.com/mahindra-cars/global-pik-up/",
+            "https://www.carwale.com/mahindra-cars/be07/",
+            "https://www.carwale.com/mahindra-cars/vision-s-compact-suv/",
+            "https://www.carwale.com/mahindra-cars/vision-s-sub-compact-suv/",
+            "https://www.carwale.com/mahindra-cars/be09/",
+            "https://www.carwale.com/mahindra-cars/vision-x-sub-compact-suv/",
+            "https://www.carwale.com/mahindra-cars/vision-x-compact-suv/",
+            "https://www.carwale.com/mahindra-cars/thar-electric/",
+            "https://www.carwale.com/mahindra-cars/vision-t/",
+            "https://www.carwale.com/mahindra-cars/vision-sxt/"
+        ]
+    },
+    {
+        "brand": "toyota",
+        "brand_url": "https://www.carwale.com/toyota-cars/",
+        "car_url": [
+            "https://www.carwale.com/toyota-cars/innova-crysta/",
+            "https://www.carwale.com/toyota-cars/hyryder/",
+            "https://www.carwale.com/toyota-cars/fortuner/",
+            "https://www.carwale.com/toyota-cars/innova-hycross/",
+            "https://www.carwale.com/toyota-cars/taisor/",
+            "https://www.carwale.com/toyota-cars/rumion/",
+            "https://www.carwale.com/toyota-cars/glanza/",
+            "https://www.carwale.com/toyota-cars/hilux/",
+            "https://www.carwale.com/toyota-cars/urban-cruiser-ebella/",
+            "https://www.carwale.com/toyota-cars/fortuner-legender/",
+            "https://www.carwale.com/toyota-cars/camry/",
+            "https://www.carwale.com/toyota-cars/vellfire/",
+            "https://www.carwale.com/toyota-cars/land-cruiser/",
+            "https://www.carwale.com/toyota-cars/urban-cruiser-hyryder-7-seater/",
+            "https://www.carwale.com/toyota-cars/fortuner-facelift/",
+            "https://www.carwale.com/toyota-cars/glanza-facelift/",
+            "https://www.carwale.com/toyota-cars/bz4x/",
+            "https://www.carwale.com/toyota-cars/urban-cruiser-taisor-facelift/",
+            "https://www.carwale.com/toyota-cars/new-rumion/",
+            "https://www.carwale.com/toyota-cars/new-land-cruiser-fj/"
+        ]
+    },
+    {
+        "brand": "hyundai",
+        "brand_url": "https://www.carwale.com/hyundai-cars/",
+        "car_url": [
+            "https://www.carwale.com/hyundai-cars/creta/",
+            "https://www.carwale.com/hyundai-cars/venue/",
+            "https://www.carwale.com/hyundai-cars/exter/",
+            "https://www.carwale.com/hyundai-cars/i20/",
+            "https://www.carwale.com/hyundai-cars/grand-i10-nios/",
+            "https://www.carwale.com/hyundai-cars/verna/",
+            "https://www.carwale.com/hyundai-cars/aura/",
+            "https://www.carwale.com/hyundai-cars/alcazar/",
+            "https://www.carwale.com/hyundai-cars/creta-electric/",
+            "https://www.carwale.com/hyundai-cars/i20-n-line/",
+            "https://www.carwale.com/hyundai-cars/venue-n-line/",
+            "https://www.carwale.com/hyundai-cars/creta-n-line/",
+            "https://www.carwale.com/hyundai-cars/ioniq-5/",
+            "https://www.carwale.com/hyundai-cars/mid-size-suv/",
+            "https://www.carwale.com/hyundai-cars/bayon/",
+            "https://www.carwale.com/hyundai-cars/ioniq-6/",
+            "https://www.carwale.com/hyundai-cars/sub-compact-ev-suv/",
+            "https://www.carwale.com/hyundai-cars/tucson-facelift/",
+            "https://www.carwale.com/hyundai-cars/ioniq-9/",
+            "https://www.carwale.com/hyundai-cars/palisade/",
+            "https://www.carwale.com/hyundai-cars/creta-facelift/",
+            "https://www.carwale.com/hyundai-cars/new-santa-fe/",
+            "https://www.carwale.com/hyundai-cars/stargazer/",
+            "https://www.carwale.com/hyundai-cars/staria/",
+            "https://www.carwale.com/hyundai-cars/boulder/"
+        ]
+    },
+    {
+        "brand": "kia",
+        "brand_url": "https://www.carwale.com/kia-cars/",
+        "car_url": [
+            "https://www.carwale.com/kia-cars/seltos/",
+            "https://www.carwale.com/kia-cars/sonet/",
+            "https://www.carwale.com/kia-cars/carens/",
+            "https://www.carwale.com/kia-cars/carens-clavis/",
+            "https://www.carwale.com/kia-cars/syros/",
+            "https://www.carwale.com/kia-cars/carens-clavis-ev/",
+            "https://www.carwale.com/kia-cars/carnival/",
+            "https://www.carwale.com/kia-cars/ev6/",
+            "https://www.carwale.com/kia-cars/ev9/",
+            "https://www.carwale.com/kia-cars/syros-ev/",
+            "https://www.carwale.com/kia-cars/carnival/hybrid/",
+            "https://www.carwale.com/kia-cars/sorento-hybrid/",
+            "https://www.carwale.com/kia-cars/ev5/",
+            "https://www.carwale.com/kia-cars/new-sonet/",
+            "https://www.carwale.com/kia-cars/ev3/",
+            "https://www.carwale.com/kia-cars/tasman/"
+        ]
+    },
+    {
+        "brand": "bmw",
+        "brand_url": "https://www.carwale.com/bmw-cars/",
+        "car_url": [
+            "https://www.carwale.com/bmw-cars/3-series/",
+            "https://www.carwale.com/bmw-cars/2-series-gran-coupe/",
+            "https://www.carwale.com/bmw-cars/m340i/",
+            "https://www.carwale.com/bmw-cars/m4/",
+            "https://www.carwale.com/bmw-cars/x1/",
+            "https://www.carwale.com/bmw-cars/m5/",
+            "https://www.carwale.com/bmw-cars/x7/",
+            "https://www.carwale.com/bmw-cars/x5/",
+            "https://www.carwale.com/bmw-cars/m440i/",
+            "https://www.carwale.com/bmw-cars/z4/",
+            "https://www.carwale.com/bmw-cars/7-series/",
+            "https://www.carwale.com/bmw-cars/m2/",
+            "https://www.carwale.com/bmw-cars/x3/",
+            "https://www.carwale.com/bmw-cars/5-series/",
+            "https://www.carwale.com/bmw-cars/ix1-lwb/",
+            "https://www.carwale.com/bmw-cars/ix1/",
+            "https://www.carwale.com/bmw-cars/m8/",
+            "https://www.carwale.com/bmw-cars/xm/",
+            "https://www.carwale.com/bmw-cars/i7/",
+            "https://www.carwale.com/bmw-cars/i4/",
+            "https://www.carwale.com/bmw-cars/x4/",
+            "https://www.carwale.com/bmw-cars/ix/",
+            "https://www.carwale.com/bmw-cars/i5/",
+            "https://www.carwale.com/bmw-cars/x6-facelift/",
+            "https://www.carwale.com/bmw-cars/ix3/"
+        ]
+    },
+    {
+        "brand": "skoda",
+        "brand_url": "https://www.carwale.com/skoda-cars/",
+        "car_url": [
+            "https://www.carwale.com/skoda-cars/kylaq/",
+            "https://www.carwale.com/skoda-cars/slavia/",
+            "https://www.carwale.com/skoda-cars/kushaq/",
+            "https://www.carwale.com/skoda-cars/kodiaq/",
+            "https://www.carwale.com/skoda-cars/octaviars/",
+            "https://www.carwale.com/skoda-cars/slavia-facelift/",
+            "https://www.carwale.com/skoda-cars/kylaq/sportline-at/",
+            "https://www.carwale.com/skoda-cars/kodiaq-rs/",
+            "https://www.carwale.com/skoda-cars/new-superb/",
+            "https://www.carwale.com/skoda-cars/octavia-facelift/",
+            "https://www.carwale.com/skoda-cars/epiq/",
+            "https://www.carwale.com/skoda-cars/peaq/",
+            "https://www.carwale.com/skoda-cars/elroq/",
+            "https://www.carwale.com/skoda-cars/enyaq/"
+        ]
+    },
+    {
+        "brand": "honda",
+        "brand_url": "https://www.carwale.com/honda-cars/",
+        "car_url": [
+            "https://www.carwale.com/honda-cars/amaze/",
+            "https://www.carwale.com/honda-cars/city/",
+            "https://www.carwale.com/honda-cars/elevate/",
+            "https://www.carwale.com/honda-cars/amaze-2nd-gen/",
+            "https://www.carwale.com/honda-cars/zr-v/",
+            "https://www.carwale.com/honda-cars/elevate-facelift/",
+            "https://www.carwale.com/honda-cars/super-one/",
+            "https://www.carwale.com/honda-cars/0-alpha/",
+            "https://www.carwale.com/honda-cars/prelude/",
+            "https://www.carwale.com/honda-cars/elevate-based-three-row-suv/",
+            "https://www.carwale.com/honda-cars/cr-v-hybrid/",
+            "https://www.carwale.com/honda-cars/compact-suv/"
+        ]
+    },
+    {
+        "brand": "mg",
+        "brand_url": "https://www.carwale.com/mg-cars/",
+        "car_url": [
+            "https://www.carwale.com/mg-cars/windsor-ev/",
+            "https://www.carwale.com/mg-cars/majestor/",
+            "https://www.carwale.com/mg-cars/hector/",
+            "https://www.carwale.com/mg-cars/comet-ev/",
+            "https://www.carwale.com/mg-cars/cyberster/",
+            "https://www.carwale.com/mg-cars/m9/",
+            "https://www.carwale.com/mg-cars/astor/",
+            "https://www.carwale.com/mg-cars/zs-ev/",
+            "https://www.carwale.com/mg-cars/hector-plus/",
+            "https://www.carwale.com/mg-cars/gloster/",
+            "https://www.carwale.com/mg-cars/im6/",
+            "https://www.carwale.com/mg-cars/astor-facelift/"
+        ]
+    },
+    {
+        "brand": "volkswagen",
+        "brand_url": "https://www.carwale.com/volkswagen-cars/",
+        "car_url": [
+            "https://www.carwale.com/volkswagen-cars/taigun/",
+            "https://www.carwale.com/volkswagen-cars/virtus/",
+            "https://www.carwale.com/volkswagen-cars/tayron-r-line/",
+            "https://www.carwale.com/volkswagen-cars/tiguan-r-line/",
+            "https://www.carwale.com/volkswagen-cars/golf-gti/",
+            "https://www.carwale.com/volkswagen-cars/virtus-facelift/",
+            "https://www.carwale.com/volkswagen-cars/tera-suv/",
+            "https://www.carwale.com/volkswagen-cars/id4/"
+        ]
+    },
+    {
+        "brand": "renault",
+        "brand_url": "https://www.carwale.com/renault-cars/",
+        "car_url": [
+            "https://www.carwale.com/renault-cars/triber/",
+            "https://www.carwale.com/renault-cars/duster/",
+            "https://www.carwale.com/renault-cars/kiger/",
+            "https://www.carwale.com/renault-cars/kwid/",
+            "https://www.carwale.com/renault-cars/boreal-bigster/",
+            "https://www.carwale.com/renault-cars/duster/emotion-18l-strong-hybrid/",
+            "https://www.carwale.com/renault-cars/kwid-facelift/",
+            "https://www.carwale.com/renault-cars/bridger/",
+            "https://www.carwale.com/renault-cars/kwid-ev/"
+        ]
+    },
+    {
+        "brand": "mercedes-benz",
+        "brand_url": "https://www.carwale.com/mercedes-benz-cars/",
+        "car_url": [
+            "https://www.carwale.com/mercedes-benz-cars/s-class-facelift/",
+            "https://www.carwale.com/mercedes-benz-cars/cla-ev/",
+            "https://www.carwale.com/mercedes-benz-cars/g-class/",
+            "https://www.carwale.com/mercedes-benz-cars/c-class/",
+            "https://www.carwale.com/mercedes-benz-cars/gls/",
+            "https://www.carwale.com/mercedes-benz-cars/gla/",
+            "https://www.carwale.com/mercedes-benz-cars/e-class/",
+            "https://www.carwale.com/mercedes-benz-cars/glc/",
+            "https://www.carwale.com/mercedes-benz-cars/maybach-s-class/",
+            "https://www.carwale.com/mercedes-benz-cars/gle/",
+            "https://www.carwale.com/mercedes-benz-cars/amg-cle/",
+            "https://www.carwale.com/mercedes-benz-cars/amg-c-43/",
+            "https://www.carwale.com/mercedes-benz-cars/s-class/",
+            "https://www.carwale.com/mercedes-benz-cars/v-class/",
+            "https://www.carwale.com/mercedes-benz-cars/amg-g-class/",
+            "https://www.carwale.com/mercedes-benz-cars/maybach-gls/",
+            "https://www.carwale.com/mercedes-benz-cars/amg-gla35/",
+            "https://www.carwale.com/mercedes-benz-cars/amg-glc43-coupe/",
+            "https://www.carwale.com/mercedes-benz-cars/g580-with-eq-technology/",
+            "https://www.carwale.com/mercedes-benz-cars/cle-cabriolet/",
+            "https://www.carwale.com/mercedes-benz-cars/eqs/",
+            "https://www.carwale.com/mercedes-benz-cars/amg-gt-63/",
+            "https://www.carwale.com/mercedes-benz-cars/eqs-suv/",
+            "https://www.carwale.com/mercedes-benz-cars/amg-gle-coupe/",
+            "https://www.carwale.com/mercedes-benz-cars/amg-sl55-roadster/",
+            "https://www.carwale.com/mercedes-benz-cars/amg-a45-s/",
+            "https://www.carwale.com/mercedes-benz-cars/maybach-sl-680/",
+            "https://www.carwale.com/mercedes-benz-cars/amg-e53-cabriolet/",
+            "https://www.carwale.com/mercedes-benz-cars/maybach-eqs-suv/",
+            "https://www.carwale.com/mercedes-benz-cars/amg-gt-63-s-4matic-plus/",
+            "https://www.carwale.com/mercedes-benz-cars/amg-eqs/",
+            "https://www.carwale.com/mercedes-benz-cars/eqe-suv/",
+            "https://www.carwale.com/mercedes-benz-cars/amg-gt-63-s-e-performance/",
+            "https://www.carwale.com/mercedes-benz-cars/amg-s-63-e-performance/",
+            "https://www.carwale.com/mercedes-benz-cars/amg-c-63-s-e-performance/",
+            "https://www.carwale.com/mercedes-benz-cars/new-gls/",
+            "https://www.carwale.com/mercedes-benz-cars/c-class-ev/",
+            "https://www.carwale.com/mercedes-benz-cars/new-gle/",
+            "https://www.carwale.com/mercedes-benz-cars/glc-ev/"
+        ]
+    },
+    {
+        "brand": "land-rover",
+        "brand_url": "https://www.carwale.com/land-rover-cars/",
+        "car_url": [
+            "https://www.carwale.com/land-rover-cars/defender/",
+            "https://www.carwale.com/land-rover-cars/range-rover-velar/",
+            "https://www.carwale.com/land-rover-cars/range-rover/",
+            "https://www.carwale.com/land-rover-cars/range-rover-sport/",
+            "https://www.carwale.com/land-rover-cars/range-rover-evoque/",
+            "https://www.carwale.com/land-rover-cars/discovery-sport/",
+            "https://www.carwale.com/land-rover-cars/discovery/",
+            "https://www.carwale.com/land-rover-cars/defender-facelift/"
+        ]
+    },
+    {
+        "brand": "nissan",
+        "brand_url": "https://www.carwale.com/nissan-cars/",
+        "car_url": [
+            "https://www.carwale.com/nissan-cars/tekton/",
+            "https://www.carwale.com/nissan-cars/magnite/",
+            "https://www.carwale.com/nissan-cars/gravite/",
+            "https://www.carwale.com/nissan-cars/x-trail/",
+            "https://www.carwale.com/nissan-cars/gravite/tekna-petrol-10l-manual-cng/"
+        ]
+    },
+    {
+        "brand": "vinfast",
+        "brand_url": "https://www.carwale.com/vinfast-cars/",
+        "car_url": [
+            "https://www.carwale.com/vinfast-cars/vf-6/",
+            "https://www.carwale.com/vinfast-cars/vf-7/",
+            "https://www.carwale.com/vinfast-cars/vf-mpv-7/",
+            "https://www.carwale.com/vinfast-cars/vf-3/",
+            "https://www.carwale.com/vinfast-cars/vf-9/",
+            "https://www.carwale.com/vinfast-cars/vf-e34/",
+            "https://www.carwale.com/vinfast-cars/vf-8/"
+        ]
+    },
+    {
+        "brand": "byd",
+        "brand_url": "https://www.carwale.com/byd-cars/",
+        "car_url": [
+            "https://www.carwale.com/byd-cars/atto-3/",
+            "https://www.carwale.com/byd-cars/sealion-7/",
+            "https://www.carwale.com/byd-cars/seal/",
+            "https://www.carwale.com/byd-cars/emax-7/",
+            "https://www.carwale.com/byd-cars/atto-2/",
+            "https://www.carwale.com/byd-cars/seal-u-dm-i/"
+        ]
+    },
+    {
+        "brand": "jeep",
+        "brand_url": "https://www.carwale.com/jeep-cars/",
+        "car_url": [
+            "https://www.carwale.com/jeep-cars/meridian/",
+            "https://www.carwale.com/jeep-cars/compass/",
+            "https://www.carwale.com/jeep-cars/wrangler/",
+            "https://www.carwale.com/jeep-cars/grand-cherokee/"
+        ]
+    },
+    {
+        "brand": "citroen",
+        "brand_url": "https://www.carwale.com/citroen-cars/",
+        "car_url": [
+            "https://www.carwale.com/citroen-cars/c3-x/",
+            "https://www.carwale.com/citroen-cars/basalt-x/",
+            "https://www.carwale.com/citroen-cars/aircross-x/",
+            "https://www.carwale.com/citroen-cars/ec3/",
+            "https://www.carwale.com/citroen-cars/c5-aircross/",
+            "https://www.carwale.com/citroen-cars/ec3-facelift/",
+            "https://www.carwale.com/citroen-cars/new-c5-aircross/",
+            "https://www.carwale.com/citroen-cars/c3-facelift/",
+            "https://www.carwale.com/citroen-cars/basalt-ev/",
+            "https://www.carwale.com/citroen-cars/aircross-x-facelift/"
+        ]
+    },
+    {
+        "brand": "audi",
+        "brand_url": "https://www.carwale.com/audi-cars/",
+        "car_url": [
+            "https://www.carwale.com/audi-cars/q3/",
+            "https://www.carwale.com/audi-cars/rs-q8-performance/",
+            "https://www.carwale.com/audi-cars/a4/",
+            "https://www.carwale.com/audi-cars/a6/",
+            "https://www.carwale.com/audi-cars/rs5/",
+            "https://www.carwale.com/audi-cars/q8-sportback-e-tron/",
+            "https://www.carwale.com/audi-cars/q5/",
+            "https://www.carwale.com/audi-cars/q7/",
+            "https://www.carwale.com/audi-cars/q8/",
+            "https://www.carwale.com/audi-cars/s5-sportback/",
+            "https://www.carwale.com/audi-cars/q3-sportback/",
+            "https://www.carwale.com/audi-cars/e-tron-gt/",
+            "https://www.carwale.com/audi-cars/a8-l/",
+            "https://www.carwale.com/audi-cars/sq8/",
+            "https://www.carwale.com/audi-cars/e-tron-sportback/",
+            "https://www.carwale.com/audi-cars/e-tron/",
+            "https://www.carwale.com/audi-cars/q8-e-tron/",
+            "https://www.carwale.com/audi-cars/new-q3/",
+            "https://www.carwale.com/audi-cars/new-q5-third-gen/",
+            "https://www.carwale.com/audi-cars/q6-e-tron/",
+            "https://www.carwale.com/audi-cars/q9/"
+        ]
+    },
+    {
+        "brand": "porsche",
+        "brand_url": "https://www.carwale.com/porsche-cars/",
+        "car_url": [
+            "https://www.carwale.com/porsche-cars/911/",
+            "https://www.carwale.com/porsche-cars/macan/",
+            "https://www.carwale.com/porsche-cars/cayenne/",
+            "https://www.carwale.com/porsche-cars/taycan/",
+            "https://www.carwale.com/porsche-cars/panamera/",
+            "https://www.carwale.com/porsche-cars/macan-turbo-ev/",
+            "https://www.carwale.com/porsche-cars/cayenne-ev/",
+            "https://www.carwale.com/porsche-cars/cayenne-coupe/"
+        ]
+    },
+    {
+        "brand": "volvo",
+        "brand_url": "https://www.carwale.com/volvo-cars/",
+        "car_url": [
+            "https://www.carwale.com/volvo-cars/ex30/",
+            "https://www.carwale.com/volvo-cars/xc90/",
+            "https://www.carwale.com/volvo-cars/xc60/",
+            "https://www.carwale.com/volvo-cars/ec40/",
+            "https://www.carwale.com/volvo-cars/ex90/"
+        ]
+    },
+    {
+        "brand": "lexus",
+        "brand_url": "https://www.carwale.com/lexus-cars/",
+        "car_url": [
+            "https://www.carwale.com/lexus-cars/es/",
+            "https://www.carwale.com/lexus-cars/lx/",
+            "https://www.carwale.com/lexus-cars/lm/",
+            "https://www.carwale.com/lexus-cars/nx/",
+            "https://www.carwale.com/lexus-cars/rx/",
+            "https://www.carwale.com/lexus-cars/es/350h-hybrid-electric-plus-petrol-automatic/"
+        ]
+    },
+    {
+        "brand": "mini",
+        "brand_url": "https://www.carwale.com/mini-cars/",
+        "car_url": [
+            "https://www.carwale.com/mini-cars/countryman-c/",
+            "https://www.carwale.com/mini-cars/cooper/",
+            "https://www.carwale.com/mini-cars/cooper-s-convertible/",
+            "https://www.carwale.com/mini-cars/countryman/",
+            "https://www.carwale.com/mini-cars/cooper-se/",
+            "https://www.carwale.com/mini-cars/countryman-electric/"
+        ]
+    },
+    {
+        "brand": "ferrari",
+        "brand_url": "https://www.carwale.com/ferrari-cars/",
+        "car_url": [
+            "https://www.carwale.com/ferrari-cars/849-testarossa/",
+            "https://www.carwale.com/ferrari-cars/purosangue-suv/",
+            "https://www.carwale.com/ferrari-cars/296-gtb/",
+            "https://www.carwale.com/ferrari-cars/roma/",
+            "https://www.carwale.com/ferrari-cars/f8-tributo/",
+            "https://www.carwale.com/ferrari-cars/296-gts/",
+            "https://www.carwale.com/ferrari-cars/portofino/"
+        ]
+    },
+    {
+        "brand": "lamborghini",
+        "brand_url": "https://www.carwale.com/lamborghini-cars/",
+        "car_url": [
+            "https://www.carwale.com/lamborghini-cars/revuelto/",
+            "https://www.carwale.com/lamborghini-cars/urus-se/",
+            "https://www.carwale.com/lamborghini-cars/temerario/"
+        ]
+    },
+    {
+        "brand": "force-motors",
+        "brand_url": "https://www.carwale.com/force-motors-cars/",
+        "car_url": [
+            "https://www.carwale.com/force-motors-cars/gurkha/",
+            "https://www.carwale.com/force-motors-cars/trax-cruiser/"
+        ]
+    },
+    {
+        "brand": "jaguar",
+        "brand_url": "https://www.carwale.com/jaguar-cars/",
+        "car_url": [
+            "https://www.carwale.com/jaguar-cars/f-pace/",
+            "https://www.carwale.com/jaguar-cars/type-00/"
+        ]
+    },
+    {
+        "brand": "rolls-royce",
+        "brand_url": "https://www.carwale.com/rolls-royce-cars/",
+        "car_url": [
+            "https://www.carwale.com/rolls-royce-cars/phantom/",
+            "https://www.carwale.com/rolls-royce-cars/cullinan/",
+            "https://www.carwale.com/rolls-royce-cars/spectre/"
+        ]
+    },
+    {
+        "brand": "jsw",
+        "brand_url": "https://www.carwale.com/jsw-cars/",
+        "car_url": [
+            "https://www.carwale.com/jsw-cars/jetour-t2/",
+            "https://www.carwale.com/jsw-cars/jaecoo-j5/"
+        ]
+    },
+    {
+        "brand": "tesla",
+        "brand_url": "https://www.carwale.com/tesla-cars/",
+        "car_url": [
+            "https://www.carwale.com/tesla-cars/model-y/",
+            "https://www.carwale.com/tesla-cars/model-3/",
+            "https://www.carwale.com/tesla-cars/model-s/"
+        ]
+    },
+    {
+        "brand": "isuzu",
+        "brand_url": "https://www.carwale.com/isuzu-cars/",
+        "car_url": [
+            "https://www.carwale.com/isuzu-cars/v-cross/",
+            "https://www.carwale.com/isuzu-cars/hi-lander/",
+            "https://www.carwale.com/isuzu-cars/mu-x/"
+        ]
+    },
+    {
+        "brand": "maserati",
+        "brand_url": "https://www.carwale.com/maserati-cars/",
+        "car_url": [
+            "https://www.carwale.com/maserati-cars/ghibli/",
+            "https://www.carwale.com/maserati-cars/mc20/",
+            "https://www.carwale.com/maserati-cars/levante/",
+            "https://www.carwale.com/maserati-cars/mcpura/",
+            "https://www.carwale.com/maserati-cars/grecale/",
+            "https://www.carwale.com/maserati-cars/quattroporte/",
+            "https://www.carwale.com/maserati-cars/granturismo/"
+        ]
+    },
+    {
+        "brand": "aston-martin",
+        "brand_url": "https://www.carwale.com/aston-martin-cars/",
+        "car_url": [
+            "https://www.carwale.com/aston-martin-cars/db11/",
+            "https://www.carwale.com/aston-martin-cars/vanquish/",
+            "https://www.carwale.com/aston-martin-cars/dbx/",
+            "https://www.carwale.com/aston-martin-cars/vantage/",
+            "https://www.carwale.com/aston-martin-cars/db12/"
+        ]
+    },
+    {
+        "brand": "mclaren",
+        "brand_url": "https://www.carwale.com/mclaren-cars/",
+        "car_url": [
+            "https://www.carwale.com/mclaren-cars/750s/",
+            "https://www.carwale.com/mclaren-cars/720s/",
+            "https://www.carwale.com/mclaren-cars/gt/"
+        ]
+    },
+    {
+        "brand": "bentley",
+        "brand_url": "https://www.carwale.com/bentley-cars/",
+        "car_url": [
+            "https://www.carwale.com/bentley-cars/bentayga/"
+        ]
+    },
+    {
+        "brand": "lotus",
+        "brand_url": "https://www.carwale.com/lotus-cars/",
+        "car_url": [
+            "https://www.carwale.com/lotus-cars/emeya/",
+            "https://www.carwale.com/lotus-cars/eletre/",
+            "https://www.carwale.com/lotus-cars/emira/"
+        ]
+    },
+    {
+        "brand": "ola",
+        "brand_url": "https://www.carwale.com/ola-cars/",
+        "car_url": [
+            "https://www.carwale.com/ola-cars/electric-sedan/"
+        ]
+    },
+    {
+        "brand": "pravaig",
+        "brand_url": "https://www.carwale.com/pravaig-cars/",
+        "car_url": [
+            "https://www.carwale.com/pravaig-cars/defy/"
+        ]
+    },
+    {
+        "brand": "genesis",
+        "brand_url": "https://www.carwale.com/genesis-cars/",
+        "car_url": []
+    },
+    {
+        "brand": "fisker",
+        "brand_url": "https://www.carwale.com/fisker-cars/",
+        "car_url": []
+    },
+    {
+        "brand": "leapmotor",
+        "brand_url": "https://www.carwale.com/leapmotor-cars/",
+        "car_url": []
+    }
+]
