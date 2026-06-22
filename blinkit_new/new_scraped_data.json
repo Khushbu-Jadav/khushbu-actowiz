@@ -1,0 +1,1514 @@
+{
+    "shampoo": [
+        {
+            "product_id": 10629,
+            "product_name": "Sunsilk Stunning Black Shine Shampoo",
+            "product_url": "https://blinkit.com/prn/sunsilk-stunning-black-shine-shampoo/prid/10629",
+            "product_brand": "Sunsilk",
+            "product_quantity": 1,
+            "product_price": 173,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1776155891120-393.png",
+            "product_unit": "180 ml"
+        },
+        {
+            "product_id": 561809,
+            "product_name": "WishCare Multi Peptide Anti Hairfall Shampoo",
+            "product_url": "https://blinkit.com/prn/wishcare-multi-peptide-anti-hairfall-shampoo/prid/561809",
+            "product_brand": "WishCare",
+            "product_quantity": 1,
+            "product_price": 399,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1779075684469-120.png",
+            "product_unit": "250 ml"
+        },
+        {
+            "product_id": 676279,
+            "product_name": "Schwarzkopf Professional Bonacure pH 4.5 Color Freeze Shampoo",
+            "product_url": "https://blinkit.com/prn/schwarzkopf-professional-bonacure-ph-4.5-color-freeze-shampoo/prid/676279",
+            "product_brand": "Schwarzkopf Professional",
+            "product_quantity": 1,
+            "product_price": 1035,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771931062015-1104.png",
+            "product_unit": "250 ml"
+        },
+        {
+            "product_id": 553010,
+            "product_name": "Pilgrim Anti Hairfall Shampoo with Biotin",
+            "product_url": "https://blinkit.com/prn/pilgrim-anti-hairfall-shampoo-with-biotin/prid/553010",
+            "product_brand": "Pilgrim",
+            "product_quantity": 1,
+            "product_price": 284,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1780639952405-105.png",
+            "product_unit": "200 ml"
+        },
+        {
+            "product_id": 11735,
+            "product_name": "Clinic Plus Strong & Long Health Shampoo",
+            "product_url": "https://blinkit.com/prn/clinic-plus-strong-&-long-health-shampoo/prid/11735",
+            "product_brand": "Clinic Plus",
+            "product_quantity": 1,
+            "product_price": 262,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1776375127483-14.png",
+            "product_unit": "340 ml"
+        },
+        {
+            "product_id": 718456,
+            "product_name": "Moxie Beauty Scalp Reviving Shampoo",
+            "product_url": "https://blinkit.com/prn/moxie-beauty-scalp-reviving-shampoo/prid/718456",
+            "product_brand": "Moxie Beauty",
+            "product_quantity": 1,
+            "product_price": 499,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771931930830-554.png",
+            "product_unit": "200 ml"
+        },
+        {
+            "product_id": 533544,
+            "product_name": "Dabur Vatika Ayurvedic Shampoo with 2x Damage Protection",
+            "product_url": "https://blinkit.com/prn/dabur-vatika-ayurvedic-shampoo-with-2x-damage-protection/prid/533544",
+            "product_brand": "Dabur Vatika",
+            "product_quantity": 1,
+            "product_price": 154,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771923717021-4823.png",
+            "product_unit": "340 ml"
+        },
+        {
+            "product_id": 561049,
+            "product_name": "Plum Soft & Shiny Hair Duo Shampoo & Conditioner",
+            "product_url": "https://blinkit.com/prn/plum-soft-&-shiny-hair-duo-shampoo-&-conditioner/prid/561049",
+            "product_brand": "Plum",
+            "product_quantity": 1,
+            "product_price": 598,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/b9202a26-62ea-4773-899d-3160d51ce527.png",
+            "product_unit": "2 pcs"
+        },
+        {
+            "product_id": 628113,
+            "product_name": "Moxie Beauty Hyaluronic Acid Repairing Shampoo",
+            "product_url": "https://blinkit.com/prn/moxie-beauty-hyaluronic-acid-repairing-shampoo/prid/628113",
+            "product_brand": "Moxie Beauty",
+            "product_quantity": 1,
+            "product_price": 429,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771923717021-6835.png",
+            "product_unit": "120 ml"
+        },
+        {
+            "product_id": 377634,
+            "product_name": "Dabur Vatika Naturals Health Shampoo with Henna & Amla",
+            "product_url": "https://blinkit.com/prn/dabur-vatika-naturals-health-shampoo-with-henna-&-amla/prid/377634",
+            "product_brand": "Dabur Vatika",
+            "product_quantity": 1,
+            "product_price": 137,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771923717021-2052.png",
+            "product_unit": "340 ml"
+        },
+        {
+            "product_id": 445539,
+            "product_name": "L'Oréal Professionnel Absolut Repair Damage Shampoo",
+            "product_url": "https://blinkit.com/prn/l'oréal-professionnel-absolut-repair-damage-shampoo/prid/445539",
+            "product_brand": "L'Oréal Professionnel",
+            "product_quantity": 1,
+            "product_price": 795,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1777606736566-225.png",
+            "product_unit": "300 ml"
+        },
+        {
+            "product_id": 559155,
+            "product_name": "Moxie Beauty Gentle Cleansing Shampoo",
+            "product_url": "https://blinkit.com/prn/moxie-beauty-gentle-cleansing-shampoo/prid/559155",
+            "product_brand": "Moxie Beauty",
+            "product_quantity": 1,
+            "product_price": 499,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771923717021-5350.png",
+            "product_unit": "200 ml"
+        },
+        {
+            "product_id": 632517,
+            "product_name": "Clinic Plus Strength & Shine Shampoo with Egg Protein",
+            "product_url": "https://blinkit.com/prn/clinic-plus-strength-&-shine-shampoo-with-egg-protein/prid/632517",
+            "product_brand": "Clinic Plus",
+            "product_quantity": 1,
+            "product_price": 154,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1776453616669-468.png",
+            "product_unit": "175 ml"
+        },
+        {
+            "product_id": 5063,
+            "product_name": "Johnson's No More Tears Baby Shampoo",
+            "product_url": "https://blinkit.com/prn/johnson's-no-more-tears-baby-shampoo/prid/5063",
+            "product_brand": "Johnson's",
+            "product_quantity": 1,
+            "product_price": 186,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1779256334018-33.png",
+            "product_unit": "200 ml"
+        },
+        {
+            "product_id": 491568,
+            "product_name": "Earth Rhythm Shampoo Bar with Shikakai, Reetha & Amla",
+            "product_url": "https://blinkit.com/prn/earth-rhythm-shampoo-bar-with-shikakai,-reetha-&-amla/prid/491568",
+            "product_brand": "Earth Rhythm",
+            "product_quantity": 1,
+            "product_price": 291,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1775121099346-296.png",
+            "product_unit": "80 g"
+        },
+        {
+            "product_id": 377632,
+            "product_name": "Dabur Vatika Long & Black - Power of 7 Natural Ingredients Shampoo",
+            "product_url": "https://blinkit.com/prn/dabur-vatika-long-&-black---power-of-7-natural-ingredients-shampoo/prid/377632",
+            "product_brand": "Dabur Vatika",
+            "product_quantity": 1,
+            "product_price": 127,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771923717021-2042.png",
+            "product_unit": "340 ml"
+        },
+        {
+            "product_id": 379652,
+            "product_name": "Head & Shoulders Cool Menthol 2-in-1 Shampoo & Conditioner 180 ml",
+            "product_url": "https://blinkit.com/prn/head-&-shoulders-cool-menthol-2-in-1-shampoo-&-conditioner-180-ml/prid/379652",
+            "product_brand": "Head & Shoulders",
+            "product_quantity": 1,
+            "product_price": 238,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1775553956612-472.png",
+            "product_unit": "180 ml"
+        },
+        {
+            "product_id": 507082,
+            "product_name": "Wella Professionals Invigo Balance Clean Scalp Anti Dandruff Shampoo",
+            "product_url": "https://blinkit.com/prn/wella-professionals-invigo-balance-clean-scalp-anti-dandruff-shampoo/prid/507082",
+            "product_brand": "Wella Professionals",
+            "product_quantity": 1,
+            "product_price": 632,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771923717021-4066.png",
+            "product_unit": "250 ml"
+        },
+        {
+            "product_id": 604639,
+            "product_name": "Mamaearth Onion Shampoo",
+            "product_url": "https://blinkit.com/prn/mamaearth-onion-shampoo/prid/604639",
+            "product_brand": "Mamaearth",
+            "product_quantity": 1,
+            "product_price": 114,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771923717021-6133.png",
+            "product_unit": "100 ml"
+        },
+        {
+            "product_id": 743185,
+            "product_name": "Love Beauty & Planet Dry Shampoo Mist",
+            "product_url": "https://blinkit.com/prn/love-beauty-&-planet-dry-shampoo-mist/prid/743185",
+            "product_brand": "Love Beauty & Planet",
+            "product_quantity": 1,
+            "product_price": 196,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/ef931393-18bc-4edb-9358-f1ead864b6c8.png",
+            "product_unit": "30 ml"
+        },
+        {
+            "product_id": 500991,
+            "product_name": "Earth Rhythm Shampoo Bar with Murumuru Butter",
+            "product_url": "https://blinkit.com/prn/earth-rhythm-shampoo-bar-with-murumuru-butter/prid/500991",
+            "product_brand": "Earth Rhythm",
+            "product_quantity": 1,
+            "product_price": 291,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/fc08b874-03e9-4e76-9f8a-03c1f0bcbc87.png",
+            "product_unit": "80 g"
+        },
+        {
+            "product_id": 133541,
+            "product_name": "Matrix Mega Smooth Shampoo",
+            "product_url": "https://blinkit.com/prn/matrix-mega-smooth-shampoo/prid/133541",
+            "product_brand": "Matrix",
+            "product_quantity": 1,
+            "product_price": 425,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1779767007480-48.png",
+            "product_unit": "200 ml"
+        },
+        {
+            "product_id": 628839,
+            "product_name": "Naturali Rosemary Anti Hairfall Shampoo",
+            "product_url": "https://blinkit.com/prn/naturali-rosemary-anti-hairfall-shampoo/prid/628839",
+            "product_brand": "Naturali",
+            "product_quantity": 1,
+            "product_price": 269,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1776829632782-532.png",
+            "product_unit": "200 ml"
+        },
+        {
+            "product_id": 577101,
+            "product_name": "Naturali Strength & Nourish Rice Water Shampoo",
+            "product_url": "https://blinkit.com/prn/naturali-strength-&-nourish-rice-water-shampoo/prid/577101",
+            "product_brand": "Naturali",
+            "product_quantity": 1,
+            "product_price": 269,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1776829632782-518.png",
+            "product_unit": "200 ml"
+        },
+        {
+            "product_id": 97251,
+            "product_name": "Khadi Natural Amla & Bhringraj Hair Cleanser / Shampoo (Shampoo)",
+            "product_url": "https://blinkit.com/prn/khadi-natural-amla-&-bhringraj-hair-cleanser-/-shampoo-(shampoo)/prid/97251",
+            "product_brand": "Khadi Natural",
+            "product_quantity": 1,
+            "product_price": 272,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771923717021-1600.png",
+            "product_unit": "210 ml"
+        }
+    ],
+    "Conditioner": [
+        {
+            "product_id": 610046,
+            "product_name": "L'Oreal Paris Hyaluron Pure 72H Purifying Shampoo",
+            "product_url": "https://blinkit.com/prn/l'oreal-paris-hyaluron-pure-72h-purifying-shampoo/prid/610046",
+            "product_brand": "L'Oreal Paris",
+            "product_quantity": 1,
+            "product_price": 442,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771923717021-6215.png",
+            "product_unit": "340 ml"
+        },
+        {
+            "product_id": 499589,
+            "product_name": "Dot & Key Frizz Control Smoothing Hair Conditioner (Moringa & Argan)",
+            "product_url": "https://blinkit.com/prn/dot-&-key-frizz-control-smoothing-hair-conditioner-(moringa-&-argan)/prid/499589",
+            "product_brand": "Dot & Key",
+            "product_quantity": 1,
+            "product_price": 280,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-3639.png",
+            "product_unit": "120 ml"
+        },
+        {
+            "product_id": 628374,
+            "product_name": "Moxie Beauty Hyaluronic Acid Repairing Conditioner",
+            "product_url": "https://blinkit.com/prn/moxie-beauty-hyaluronic-acid-repairing-conditioner/prid/628374",
+            "product_brand": "Moxie Beauty",
+            "product_quantity": 1,
+            "product_price": 399,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-4783.png",
+            "product_unit": "120 ml"
+        },
+        {
+            "product_id": 544690,
+            "product_name": "BBlunt Intense Moisture Conditioner with Jojoba & Vitamin E",
+            "product_url": "https://blinkit.com/prn/bblunt-intense-moisture-conditioner-with-jojoba-&-vitamin-e/prid/544690",
+            "product_brand": "BBlunt",
+            "product_quantity": 1,
+            "product_price": 448,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-4075.png",
+            "product_unit": "250 g"
+        },
+        {
+            "product_id": 430638,
+            "product_name": "Dove Daily Shine Conditioner with Nutritive Serum for Smooth & Shiny Hair",
+            "product_url": "https://blinkit.com/prn/dove-daily-shine-conditioner-with-nutritive-serum-for-smooth-&-shiny-hair/prid/430638",
+            "product_brand": "Dove",
+            "product_quantity": 1,
+            "product_price": 412,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/dc72ee84-0224-4a4e-8cff-e847d047c2ab.png",
+            "product_unit": "335 ml"
+        },
+        {
+            "product_id": 507095,
+            "product_name": "Wella Professionals Elements Renewing Conditioner",
+            "product_url": "https://blinkit.com/prn/wella-professionals-elements-renewing-conditioner/prid/507095",
+            "product_brand": "Wella Professionals",
+            "product_quantity": 1,
+            "product_price": 1283,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-3753.png",
+            "product_unit": "200 ml"
+        },
+        {
+            "product_id": 453384,
+            "product_name": "L'Oreal Paris Dream Lengths Conditioner 175 ml",
+            "product_url": "https://blinkit.com/prn/l'oreal-paris-dream-lengths-conditioner-175-ml/prid/453384",
+            "product_brand": "L'Oreal Paris",
+            "product_quantity": 1,
+            "product_price": 264,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-3503.png",
+            "product_unit": "175 ml"
+        },
+        {
+            "product_id": 507317,
+            "product_name": "Mamaearth Hair Fall Control Conditioner 250 ml",
+            "product_url": "https://blinkit.com/prn/mamaearth-hair-fall-control-conditioner-250-ml/prid/507317",
+            "product_brand": "Mamaearth",
+            "product_quantity": 1,
+            "product_price": 314,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-3760.png",
+            "product_unit": "250 ml"
+        },
+        {
+            "product_id": 507086,
+            "product_name": "Wella Professionals Invigo Color Brilliance Conditioner",
+            "product_url": "https://blinkit.com/prn/wella-professionals-invigo-color-brilliance-conditioner/prid/507086",
+            "product_brand": "Wella Professionals",
+            "product_quantity": 1,
+            "product_price": 808,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-3733.png",
+            "product_unit": "200 ml"
+        },
+        {
+            "product_id": 604642,
+            "product_name": "Mamaearth Onion Conditioner",
+            "product_url": "https://blinkit.com/prn/mamaearth-onion-conditioner/prid/604642",
+            "product_brand": "Mamaearth",
+            "product_quantity": 1,
+            "product_price": 149,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-4474.png",
+            "product_unit": "100 ml"
+        },
+        {
+            "product_id": 430637,
+            "product_name": "Sunsilk Lusciously Thick & Long Conditioner 340 ml",
+            "product_url": "https://blinkit.com/prn/sunsilk-lusciously-thick-&-long-conditioner-340-ml/prid/430637",
+            "product_brand": "Sunsilk",
+            "product_quantity": 1,
+            "product_price": 360,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-3456.png",
+            "product_unit": "340 ml"
+        },
+        {
+            "product_id": 523125,
+            "product_name": "Fix My Curls Hydrating Deep Conditioner",
+            "product_url": "https://blinkit.com/prn/fix-my-curls-hydrating-deep-conditioner/prid/523125",
+            "product_brand": "Fix My Curls",
+            "product_quantity": 1,
+            "product_price": 451,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-3938.png",
+            "product_unit": "100 ml"
+        },
+        {
+            "product_id": 63194,
+            "product_name": "Tresemme Smooth & Shine Conditioner 190 ml",
+            "product_url": "https://blinkit.com/prn/tresemme-smooth-&-shine-conditioner-190-ml/prid/63194",
+            "product_brand": "Tresemme",
+            "product_quantity": 1,
+            "product_price": 245,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1781509789125-416.png",
+            "product_unit": "190 ml"
+        },
+        {
+            "product_id": 519956,
+            "product_name": "Bare Anatomy Expert Anti Frizz Leave in Conditioner",
+            "product_url": "https://blinkit.com/prn/bare-anatomy-expert-anti-frizz-leave-in-conditioner/prid/519956",
+            "product_brand": "Bare Anatomy",
+            "product_quantity": 1,
+            "product_price": 492,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/729ef4c6-d4a3-44cf-ba5f-4fac930be551.png",
+            "product_unit": "150 ml"
+        },
+        {
+            "product_id": 564613,
+            "product_name": "Dove Hair Fall Rescue Bio Protein Care Conditioner",
+            "product_url": "https://blinkit.com/prn/dove-hair-fall-rescue-bio-protein-care-conditioner/prid/564613",
+            "product_brand": "Dove",
+            "product_quantity": 1,
+            "product_price": 391,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-4256.png",
+            "product_unit": "335 ml"
+        },
+        {
+            "product_id": 665948,
+            "product_name": "Dove Peptide Bond Strength Conditioner",
+            "product_url": "https://blinkit.com/prn/dove-peptide-bond-strength-conditioner/prid/665948",
+            "product_brand": "Dove",
+            "product_quantity": 1,
+            "product_price": 253,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1776453616669-479.png",
+            "product_unit": "175 ml"
+        },
+        {
+            "product_id": 916,
+            "product_name": "L'Oreal Paris Extraordinary Oil Nourishing Conditioner For Dry & Dull Hair 180 ml",
+            "product_url": "https://blinkit.com/prn/l'oreal-paris-extraordinary-oil-nourishing-conditioner-for-dry-&-dull-hair-180-ml/prid/916",
+            "product_brand": "L'Oreal Paris",
+            "product_quantity": 1,
+            "product_price": 280,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-3263.png",
+            "product_unit": "175 ml"
+        },
+        {
+            "product_id": 559154,
+            "product_name": "Moxie Beauty Ultra Hydrating Conditioner",
+            "product_url": "https://blinkit.com/prn/moxie-beauty-ultra-hydrating-conditioner/prid/559154",
+            "product_brand": "Moxie Beauty",
+            "product_quantity": 1,
+            "product_price": 589,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-4209.png",
+            "product_unit": "175 ml"
+        },
+        {
+            "product_id": 403433,
+            "product_name": "Pantene Advanced Hair Fall Solution and Control Conditioner",
+            "product_url": "https://blinkit.com/prn/pantene-advanced-hair-fall-solution-and-control-conditioner/prid/403433",
+            "product_brand": "Pantene",
+            "product_quantity": 1,
+            "product_price": 216,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-3436.png",
+            "product_unit": "180 ml"
+        },
+        {
+            "product_id": 106793,
+            "product_name": "Tresemme Hair Fall Defense Conditioner",
+            "product_url": "https://blinkit.com/prn/tresemme-hair-fall-defense-conditioner/prid/106793",
+            "product_brand": "Tresemme",
+            "product_quantity": 1,
+            "product_price": 245,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1781509789125-458.png",
+            "product_unit": "190 ml"
+        },
+        {
+            "product_id": 534333,
+            "product_name": "Pilgrim Patua & Keratin Hair Smoothing Conditioner",
+            "product_url": "https://blinkit.com/prn/pilgrim-patua-&-keratin-hair-smoothing-conditioner/prid/534333",
+            "product_brand": "Pilgrim",
+            "product_quantity": 1,
+            "product_price": 348,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-4028.png",
+            "product_unit": "200 ml"
+        },
+        {
+            "product_id": 403441,
+            "product_name": "Pantene Advanced Hair Fall Solution Silky Smooth Care Conditioner",
+            "product_url": "https://blinkit.com/prn/pantene-advanced-hair-fall-solution-silky-smooth-care-conditioner/prid/403441",
+            "product_brand": "Pantene",
+            "product_quantity": 1,
+            "product_price": 216,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-3446.png",
+            "product_unit": "180 ml"
+        },
+        {
+            "product_id": 589086,
+            "product_name": "Tresemme Lamellar Gloss Conditioner",
+            "product_url": "https://blinkit.com/prn/tresemme-lamellar-gloss-conditioner/prid/589086",
+            "product_brand": "Tresemme",
+            "product_quantity": 1,
+            "product_price": 262,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1776233954716-341.png",
+            "product_unit": "190 ml"
+        },
+        {
+            "product_id": 437168,
+            "product_name": "L'Oreal Paris Total Repair 5 Serum, Shampoo & Conditioner 650 ml + 180 ml + 40 ml",
+            "product_url": "https://blinkit.com/prn/l'oreal-paris-total-repair-5-serum,-shampoo-&-conditioner-650-ml-+-180-ml-+-40-ml/prid/437168",
+            "product_brand": "L'Oreal Paris",
+            "product_quantity": 1,
+            "product_price": 1246,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/4a0574dd-e940-4627-8cc8-8ea3bf70e41f.png",
+            "product_unit": "870 ml"
+        },
+        {
+            "product_id": 733946,
+            "product_name": "Pantene Miracle Rescue Collagen Repair Conditioner +  Hair Science Hairfall Control Shampoo with Vitamin B 340 ml Combo",
+            "product_url": "https://blinkit.com/prn/pantene-miracle-rescue-collagen-repair-conditioner-+--hair-science-hairfall-control-shampoo-with-vitamin-b-340-ml-combo/prid/733946",
+            "product_brand": "Pantene",
+            "product_quantity": 1,
+            "product_price": 433,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/2935179b-27ec-4d76-8bdf-beaadbb9e04c.png",
+            "product_unit": "200 ml + 340 ml"
+        }
+    ],
+    "Moisturizer": [
+        {
+            "product_id": 133189,
+            "product_name": "Pond's Bright Beauty Serum Skin Treatment Cream 34 g",
+            "product_url": "https://blinkit.com/prn/pond's-bright-beauty-serum-skin-treatment-cream-34-g/prid/133189",
+            "product_brand": "Pond's",
+            "product_quantity": 1,
+            "product_price": 170,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1776138991809-188.png",
+            "product_unit": "35 g"
+        },
+        {
+            "product_id": 553217,
+            "product_name": "Mamaearth Rice Oil-Free Face Moisturizing Cream",
+            "product_url": "https://blinkit.com/prn/mamaearth-rice-oil-free-face-moisturizing-cream/prid/553217",
+            "product_brand": "Mamaearth",
+            "product_quantity": 1,
+            "product_price": 287,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772099110297-1455.png",
+            "product_unit": "80 g"
+        },
+        {
+            "product_id": 543348,
+            "product_name": "Minimalist Nonapeptide + AHA 06% Under Arm Roll-On",
+            "product_url": "https://blinkit.com/prn/minimalist-nonapeptide-+-aha-06%-under-arm-roll-on/prid/543348",
+            "product_brand": "Minimalist",
+            "product_quantity": 1,
+            "product_price": 399,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/462735b0-6a43-4be0-84e0-dd128be63d1c.png",
+            "product_unit": "40 ml"
+        },
+        {
+            "product_id": 448357,
+            "product_name": "Neutrogena Hydro Boost Water Moisturizing Gel (50 g)",
+            "product_url": "https://blinkit.com/prn/neutrogena-hydro-boost-water-moisturizing-gel-(50-g)/prid/448357",
+            "product_brand": "Neutrogena",
+            "product_quantity": 1,
+            "product_price": 756,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/b3dd8229-7f56-485f-a811-a4c8c6396946.png",
+            "product_unit": "50 g"
+        },
+        {
+            "product_id": 19962,
+            "product_name": "Nivea Soft Light Moisturizing Cream (100 ml)",
+            "product_url": "https://blinkit.com/prn/nivea-soft-light-moisturizing-cream-(100-ml)/prid/19962",
+            "product_brand": "Nivea",
+            "product_quantity": 1,
+            "product_price": 279,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1778594065812-4.png",
+            "product_unit": "100 ml"
+        },
+        {
+            "product_id": 621107,
+            "product_name": "Pond's Salicylic Acid Super Light Gel Face Moisturizer",
+            "product_url": "https://blinkit.com/prn/pond's-salicylic-acid-super-light-gel-face-moisturizer/prid/621107",
+            "product_brand": "Pond's",
+            "product_quantity": 1,
+            "product_price": 256,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1776138991809-540.png",
+            "product_unit": "100 ml"
+        },
+        {
+            "product_id": 621086,
+            "product_name": "Pond's Super Light Gel Face Moisturizer",
+            "product_url": "https://blinkit.com/prn/pond's-super-light-gel-face-moisturizer/prid/621086",
+            "product_brand": "Pond's",
+            "product_quantity": 1,
+            "product_price": 507,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1778219433419-338.png",
+            "product_unit": "300 ml"
+        },
+        {
+            "product_id": 108101,
+            "product_name": "Nivea Soft Light Moisturizing Cream",
+            "product_url": "https://blinkit.com/prn/nivea-soft-light-moisturizing-cream/prid/108101",
+            "product_brand": "Nivea",
+            "product_quantity": 1,
+            "product_price": 419,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1778594065812-39.png",
+            "product_unit": "300 ml"
+        },
+        {
+            "product_id": 557570,
+            "product_name": "Pond's Super Light Moisturizing Gel",
+            "product_url": "https://blinkit.com/prn/pond's-super-light-moisturizing-gel/prid/557570",
+            "product_brand": "Pond's",
+            "product_quantity": 1,
+            "product_price": 390,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1778219433419-324.png",
+            "product_unit": "200 ml"
+        },
+        {
+            "product_id": 544650,
+            "product_name": "Simple Hydrating Light Moisturizing Cream",
+            "product_url": "https://blinkit.com/prn/simple-hydrating-light-moisturizing-cream/prid/544650",
+            "product_brand": "Simple",
+            "product_quantity": 1,
+            "product_price": 400,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772099110297-1366.png",
+            "product_unit": "125 ml"
+        },
+        {
+            "product_id": 555994,
+            "product_name": "The Derma Co Oil - Free Daily Moisturizing Cream",
+            "product_url": "https://blinkit.com/prn/the-derma-co-oil---free-daily-moisturizing-cream/prid/555994",
+            "product_brand": "The Derma Co",
+            "product_quantity": 1,
+            "product_price": 314,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772099110297-1506.png",
+            "product_unit": "100 g"
+        },
+        {
+            "product_id": 679259,
+            "product_name": "CeraVe Moisturizing Cream (For Dry Skin with Ceramides)",
+            "product_url": "https://blinkit.com/prn/cerave-moisturizing-cream-(for-dry-skin-with-ceramides)/prid/679259",
+            "product_brand": "CeraVe",
+            "product_quantity": 1,
+            "product_price": 1571,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1777522895462-119.png",
+            "product_unit": "340 g"
+        },
+        {
+            "product_id": 500360,
+            "product_name": "Minimalist 5% Marula Oil Moisturizer",
+            "product_url": "https://blinkit.com/prn/minimalist-5%-marula-oil-moisturizer/prid/500360",
+            "product_brand": "Minimalist",
+            "product_quantity": 1,
+            "product_price": 299,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772099110297-958.png",
+            "product_unit": "50 g"
+        },
+        {
+            "product_id": 31786,
+            "product_name": "Biotique Morning Nectar Nourishing & Hydrate Face Moisturizer",
+            "product_url": "https://blinkit.com/prn/biotique-morning-nectar-nourishing-&-hydrate-face-moisturizer/prid/31786",
+            "product_brand": "Biotique",
+            "product_quantity": 1,
+            "product_price": 312,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/e599dbcd-02dd-4d61-a5da-3ede01ddeb91.png",
+            "product_unit": "190 ml"
+        },
+        {
+            "product_id": 500372,
+            "product_name": "Chemist At Play 5% AHA Fragrance Free Under Arm Roll-On",
+            "product_url": "https://blinkit.com/prn/chemist-at-play-5%-aha-fragrance-free-under-arm-roll-on/prid/500372",
+            "product_brand": "Chemist At Play",
+            "product_quantity": 1,
+            "product_price": 348,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772803551672-241.png",
+            "product_unit": "40 ml"
+        },
+        {
+            "product_id": 679279,
+            "product_name": "CeraVe Moisturizing Lotion (For Dry Skin with Ceramides)",
+            "product_url": "https://blinkit.com/prn/cerave-moisturizing-lotion-(for-dry-skin-with-ceramides)/prid/679279",
+            "product_brand": "CeraVe",
+            "product_quantity": 1,
+            "product_price": 1208,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1777522895462-152.png",
+            "product_unit": "236 ml"
+        },
+        {
+            "product_id": 564651,
+            "product_name": "Dot & Key CICA + Niacinamide Oil Free Moisturizing Cream",
+            "product_url": "https://blinkit.com/prn/dot-&-key-cica-+-niacinamide-oil-free-moisturizing-cream/prid/564651",
+            "product_brand": "Dot & Key",
+            "product_quantity": 1,
+            "product_price": 348,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772450025964-2606.png",
+            "product_unit": "50 g"
+        },
+        {
+            "product_id": 544672,
+            "product_name": "Dr. Sheth's Ceramide & Vitamin C Oil-Free Moisturizer",
+            "product_url": "https://blinkit.com/prn/dr.-sheth's-ceramide-&-vitamin-c-oil-free-moisturizer/prid/544672",
+            "product_brand": "Dr. Sheth's",
+            "product_quantity": 1,
+            "product_price": 314,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/bbad3fa1-6a64-47fc-818b-47086598a777.png",
+            "product_unit": "50 g"
+        },
+        {
+            "product_id": 524562,
+            "product_name": "Fixderma Skarfix Plus Pigment Correcting Skin Treatment Cream",
+            "product_url": "https://blinkit.com/prn/fixderma-skarfix-plus-pigment-correcting-skin-treatment-cream/prid/524562",
+            "product_brand": "Fixderma",
+            "product_quantity": 1,
+            "product_price": 220,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1773385515396-969.png",
+            "product_unit": "15 g"
+        },
+        {
+            "product_id": 553429,
+            "product_name": "Dr. Sheth's Kesar & Kojic Acid Oil-Free Face Moisturizing Cream",
+            "product_url": "https://blinkit.com/prn/dr.-sheth's-kesar-&-kojic-acid-oil-free-face-moisturizing-cream/prid/553429",
+            "product_brand": "Dr. Sheth's",
+            "product_quantity": 1,
+            "product_price": 321,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772099110297-1465.png",
+            "product_unit": "50 g"
+        },
+        {
+            "product_id": 563847,
+            "product_name": "Foxtale Ceramide Supercream Hydrating Moisturizing Cream",
+            "product_url": "https://blinkit.com/prn/foxtale-ceramide-supercream-hydrating-moisturizing-cream/prid/563847",
+            "product_brand": "Foxtale",
+            "product_quantity": 1,
+            "product_price": 194,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772099110297-1516.png",
+            "product_unit": "15 ml"
+        },
+        {
+            "product_id": 687720,
+            "product_name": "Foxtale Oil Balancing Lightweight Gel Moisturizer",
+            "product_url": "https://blinkit.com/prn/foxtale-oil-balancing-lightweight-gel-moisturizer/prid/687720",
+            "product_brand": "Foxtale",
+            "product_quantity": 1,
+            "product_price": 397,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1778167916963-307.png",
+            "product_unit": "50 ml"
+        },
+        {
+            "product_id": 564960,
+            "product_name": "Garnier Bright Complete Vitamin C Serum Day Cream",
+            "product_url": "https://blinkit.com/prn/garnier-bright-complete-vitamin-c-serum-day-cream/prid/564960",
+            "product_brand": "Garnier",
+            "product_quantity": 1,
+            "product_price": 269,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/be812dd4-4611-410d-be43-e290b3de811c.png",
+            "product_unit": "45 g"
+        },
+        {
+            "product_id": 496035,
+            "product_name": "Cetaphil Moisturizing Cream",
+            "product_url": "https://blinkit.com/prn/cetaphil-moisturizing-cream/prid/496035",
+            "product_brand": "Cetaphil",
+            "product_quantity": 1,
+            "product_price": 1380,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1773735159250-217.png",
+            "product_unit": "250 g"
+        },
+        {
+            "product_id": 30772,
+            "product_name": "Himalaya Natural Glow Fairness Skin Treatment Cream",
+            "product_url": "https://blinkit.com/prn/himalaya-natural-glow-fairness-skin-treatment-cream/prid/30772",
+            "product_brand": "Himalaya",
+            "product_quantity": 1,
+            "product_price": 94,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/9409bf61-4c90-40e1-9954-886a63c789ad.png",
+            "product_unit": "50 g"
+        }
+    ],
+    "Hair Oil": [
+        {
+            "product_id": 19937,
+            "product_name": "Navratna Ayurvedic Cool Hair Oil for Instant Relief",
+            "product_url": "https://blinkit.com/prn/navratna-ayurvedic-cool-hair-oil-for-instant-relief/prid/19937",
+            "product_brand": "Navratna",
+            "product_quantity": 1,
+            "product_price": 209,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1773288376130-238.png",
+            "product_unit": "300 ml"
+        },
+        {
+            "product_id": 616579,
+            "product_name": "Tata Simply Better Cold Pressed Virgin Coconut Oil",
+            "product_url": "https://blinkit.com/prn/tata-simply-better-cold-pressed-virgin-coconut-oil/prid/616579",
+            "product_brand": "Tata Simply Better",
+            "product_quantity": 1,
+            "product_price": 439,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/110807c7-e122-4231-87d9-eabe31394d4d.png",
+            "product_unit": "500 ml"
+        },
+        {
+            "product_id": 500612,
+            "product_name": "Beardo Hair Serum with Argan Oil",
+            "product_url": "https://blinkit.com/prn/beardo-hair-serum-with-argan-oil/prid/500612",
+            "product_brand": "Beardo",
+            "product_quantity": 1,
+            "product_price": 236,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/cbe56f16-fbe5-49ea-90be-b58fd550a679.png",
+            "product_unit": "50 ml"
+        },
+        {
+            "product_id": 43428,
+            "product_name": "Indulekha Bhringraj Hair Oil 100 ml",
+            "product_url": "https://blinkit.com/prn/indulekha-bhringraj-hair-oil-100-ml/prid/43428",
+            "product_brand": "Indulekha",
+            "product_quantity": 1,
+            "product_price": 345,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1776164577352-233.png",
+            "product_unit": "100 ml"
+        },
+        {
+            "product_id": 626946,
+            "product_name": "Navratna Ayurvedic Hair Oil (Extra Cold)",
+            "product_url": "https://blinkit.com/prn/navratna-ayurvedic-hair-oil-(extra-cold)/prid/626946",
+            "product_brand": "Navratna",
+            "product_quantity": 1,
+            "product_price": 129,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1779694507022-315.png",
+            "product_unit": "180 ml"
+        },
+        {
+            "product_id": 548865,
+            "product_name": "Bajaj 100% Pure Grade 1 Coconut Oil",
+            "product_url": "https://blinkit.com/prn/bajaj-100%-pure-grade-1-coconut-oil/prid/548865",
+            "product_brand": "Bajaj",
+            "product_quantity": 1,
+            "product_price": 155,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/f8a40d00-5b0f-4335-92dd-ab1a06c027cc.png",
+            "product_unit": "300 ml"
+        },
+        {
+            "product_id": 485959,
+            "product_name": "Coco Soul Cold Pressed Virgin Coconut Oil",
+            "product_url": "https://blinkit.com/prn/coco-soul-cold-pressed-virgin-coconut-oil/prid/485959",
+            "product_brand": "Coco Soul",
+            "product_quantity": 1,
+            "product_price": 253,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/51cc9ece-2196-4326-bf82-afbcd1cdb08c.png",
+            "product_unit": "250 ml"
+        },
+        {
+            "product_id": 633522,
+            "product_name": "Navratna Gold Cooling Ayurvedic Hair Oil",
+            "product_url": "https://blinkit.com/prn/navratna-gold-cooling-ayurvedic-hair-oil/prid/633522",
+            "product_brand": "Navratna",
+            "product_quantity": 1,
+            "product_price": 139,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1775023416545-495.png",
+            "product_unit": "200 ml"
+        },
+        {
+            "product_id": 216089,
+            "product_name": "Nihar Naturals Shanti Badam and Amla Hair Oil 500 ml",
+            "product_url": "https://blinkit.com/prn/nihar-naturals-shanti-badam-and-amla-hair-oil-500-ml/prid/216089",
+            "product_brand": "Nihar Naturals",
+            "product_quantity": 1,
+            "product_price": 172,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771782930535-743.png",
+            "product_unit": "500 ml"
+        },
+        {
+            "product_id": 561819,
+            "product_name": "Soulflower Rosemary Essential Oil for Hair Growth",
+            "product_url": "https://blinkit.com/prn/soulflower-rosemary-essential-oil-for-hair-growth/prid/561819",
+            "product_brand": "Soulflower",
+            "product_quantity": 1,
+            "product_price": 599,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/db079c44-7bcf-46af-b85b-2c9133fae4a1.png",
+            "product_unit": "30 ml"
+        },
+        {
+            "product_id": 91224,
+            "product_name": "Dabur Amla Hair Oil",
+            "product_url": "https://blinkit.com/prn/dabur-amla-hair-oil/prid/91224",
+            "product_brand": "Dabur Amla",
+            "product_quantity": 1,
+            "product_price": 97,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1773288376130-256.png",
+            "product_unit": "180 ml"
+        },
+        {
+            "product_id": 21550,
+            "product_name": "Dabur Amla Hair Oil - For Strong, Long and Thick Hair",
+            "product_url": "https://blinkit.com/prn/dabur-amla-hair-oil---for-strong,-long-and-thick-hair/prid/21550",
+            "product_brand": "Dabur Amla",
+            "product_quantity": 1,
+            "product_price": 140,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771782930535-493.png",
+            "product_unit": "275 ml"
+        },
+        {
+            "product_id": 564362,
+            "product_name": "Anveshan Cold Pressed Virgin Coconut Oil (Virgin Nariyal Tel)",
+            "product_url": "https://blinkit.com/prn/anveshan-cold-pressed-virgin-coconut-oil-(virgin-nariyal-tel)/prid/564362",
+            "product_brand": "Anveshan",
+            "product_quantity": 1,
+            "product_price": 279,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/774a7cd0-458e-48ce-8b14-0315d8260a34.png",
+            "product_unit": "250 ml"
+        },
+        {
+            "product_id": 367999,
+            "product_name": "Indulekha Bhringraj Hair Oil 50 ml",
+            "product_url": "https://blinkit.com/prn/indulekha-bhringraj-hair-oil-50-ml/prid/367999",
+            "product_brand": "Indulekha",
+            "product_quantity": 1,
+            "product_price": 234,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1776155891120-460.png",
+            "product_unit": "50 ml"
+        },
+        {
+            "product_id": 695941,
+            "product_name": "Avimee Herbal Rosemary Hair Oil",
+            "product_url": "https://blinkit.com/prn/avimee-herbal-rosemary-hair-oil/prid/695941",
+            "product_brand": "Avimee Herbal",
+            "product_quantity": 1,
+            "product_price": 275,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771782930535-3646.png",
+            "product_unit": "100 ml"
+        },
+        {
+            "product_id": 485352,
+            "product_name": "Bajaj Almond Drops Non-Sticky Hair Oil - 95 ml - Pack of 2",
+            "product_url": "https://blinkit.com/prn/bajaj-almond-drops-non-sticky-hair-oil---95-ml---pack-of-2/prid/485352",
+            "product_brand": "Bajaj",
+            "product_quantity": 1,
+            "product_price": 173,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771782930535-1461.png",
+            "product_unit": "2 x 95 ml"
+        },
+        {
+            "product_id": 163657,
+            "product_name": "Khadi Natural Bhringraj Hair Oil 210 ml",
+            "product_url": "https://blinkit.com/prn/khadi-natural-bhringraj-hair-oil-210-ml/prid/163657",
+            "product_brand": "Khadi Natural",
+            "product_quantity": 1,
+            "product_price": 211,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771782930535-718.png",
+            "product_unit": "210 ml"
+        },
+        {
+            "product_id": 147410,
+            "product_name": "Parachute Advansed Ayurvedic Hot Oil, Warming Coconut Hair Oil 300 ml",
+            "product_url": "https://blinkit.com/prn/parachute-advansed-ayurvedic-hot-oil,-warming-coconut-hair-oil-300-ml/prid/147410",
+            "product_brand": "Parachute Advansed",
+            "product_quantity": 1,
+            "product_price": 164,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771782930535-705.png",
+            "product_unit": "300 ml"
+        },
+        {
+            "product_id": 697418,
+            "product_name": "Raw Alchemy Face Massage Cold Pressed Coconut Hair Oil",
+            "product_url": "https://blinkit.com/prn/raw-alchemy-face-massage-cold-pressed-coconut-hair-oil/prid/697418",
+            "product_brand": "Raw Alchemy",
+            "product_quantity": 1,
+            "product_price": 215,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/22696050-1479-4596-bef7-c729fddc4021.png",
+            "product_unit": "50 ml"
+        },
+        {
+            "product_id": 707001,
+            "product_name": "Parachute Advansed Rosemary Essential Oil",
+            "product_url": "https://blinkit.com/prn/parachute-advansed-rosemary-essential-oil/prid/707001",
+            "product_brand": "Parachute Advansed",
+            "product_quantity": 1,
+            "product_price": 300,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1775024352184-195.png",
+            "product_unit": "14 ml"
+        },
+        {
+            "product_id": 662987,
+            "product_name": "Rey Naturals Virgin & Cold Pressed Castor Oil",
+            "product_url": "https://blinkit.com/prn/rey-naturals-virgin-&-cold-pressed-castor-oil/prid/662987",
+            "product_brand": "Rey Naturals",
+            "product_quantity": 1,
+            "product_price": 220,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/756790ec-529c-4b57-a328-be044137ba7b.png",
+            "product_unit": "200 ml"
+        },
+        {
+            "product_id": 493435,
+            "product_name": "Parachute Advansed Gold Jasmine Hair Oil",
+            "product_url": "https://blinkit.com/prn/parachute-advansed-gold-jasmine-hair-oil/prid/493435",
+            "product_brand": "Parachute Advansed",
+            "product_quantity": 1,
+            "product_price": 162,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1780660394770-60.png",
+            "product_unit": "300 ml"
+        },
+        {
+            "product_id": 591236,
+            "product_name": "Parachute Advansed Coconut Enriched Shea & Castor Hair Oil",
+            "product_url": "https://blinkit.com/prn/parachute-advansed-coconut-enriched-shea-&-castor-hair-oil/prid/591236",
+            "product_brand": "Parachute Advansed",
+            "product_quantity": 1,
+            "product_price": 246,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771782930535-2383.png",
+            "product_unit": "300 ml"
+        },
+        {
+            "product_id": 425774,
+            "product_name": "Gulab Cold Pressed Coconut Oil (Nariyeli Tel)",
+            "product_url": "https://blinkit.com/prn/gulab-cold-pressed-coconut-oil-(nariyeli-tel)/prid/425774",
+            "product_brand": "Gulab",
+            "product_quantity": 1,
+            "product_price": 162,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1780405462748-45.png",
+            "product_unit": "200 ml"
+        },
+        {
+            "product_id": 492959,
+            "product_name": "Aroma Magic Castor Oil",
+            "product_url": "https://blinkit.com/prn/aroma-magic-castor-oil/prid/492959",
+            "product_brand": "Aroma Magic",
+            "product_quantity": 1,
+            "product_price": 123,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/c57cfd18-4b93-47b2-8594-90af9cc9b572.png",
+            "product_unit": "100 ml"
+        }
+    ],
+    "Shampoo+Conditioner": [
+        {
+            "product_id": 63194,
+            "product_name": "Tresemme Smooth & Shine Conditioner 190 ml",
+            "product_url": "https://blinkit.com/prn/tresemme-smooth-&-shine-conditioner-190-ml/prid/63194",
+            "product_brand": "Tresemme",
+            "product_quantity": 1,
+            "product_price": 245,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1781509789125-416.png",
+            "product_unit": "190 ml"
+        },
+        {
+            "product_id": 403441,
+            "product_name": "Pantene Advanced Hair Fall Solution Silky Smooth Care Conditioner",
+            "product_url": "https://blinkit.com/prn/pantene-advanced-hair-fall-solution-silky-smooth-care-conditioner/prid/403441",
+            "product_brand": "Pantene",
+            "product_quantity": 1,
+            "product_price": 216,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-3446.png",
+            "product_unit": "180 ml"
+        },
+        {
+            "product_id": 610068,
+            "product_name": "L'Oreal Paris Hyaluron Pure Conditioner",
+            "product_url": "https://blinkit.com/prn/l'oreal-paris-hyaluron-pure-conditioner/prid/610068",
+            "product_brand": "L'Oreal Paris",
+            "product_quantity": 1,
+            "product_price": 259,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-4524.png",
+            "product_unit": "175 ml"
+        },
+        {
+            "product_id": 523145,
+            "product_name": "Fix My Curls Wash Day Hair Care Kit",
+            "product_url": "https://blinkit.com/prn/fix-my-curls-wash-day-hair-care-kit/prid/523145",
+            "product_brand": "Fix My Curls",
+            "product_quantity": 1,
+            "product_price": 547,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/cdce28cf-0d60-461d-8c14-8a9808b959a8.png",
+            "product_unit": "1 pack"
+        },
+        {
+            "product_id": 916,
+            "product_name": "L'Oreal Paris Extraordinary Oil Nourishing Conditioner For Dry & Dull Hair 180 ml",
+            "product_url": "https://blinkit.com/prn/l'oreal-paris-extraordinary-oil-nourishing-conditioner-for-dry-&-dull-hair-180-ml/prid/916",
+            "product_brand": "L'Oreal Paris",
+            "product_quantity": 1,
+            "product_price": 280,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-3263.png",
+            "product_unit": "175 ml"
+        },
+        {
+            "product_id": 691347,
+            "product_name": "L'Oreal Paris Glycolic Gloss Shine Sealing Conditioner",
+            "product_url": "https://blinkit.com/prn/l'oreal-paris-glycolic-gloss-shine-sealing-conditioner/prid/691347",
+            "product_brand": "L'Oreal Paris",
+            "product_quantity": 1,
+            "product_price": 252,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-5078.png",
+            "product_unit": "175 ml"
+        },
+        {
+            "product_id": 534333,
+            "product_name": "Pilgrim Patua & Keratin Hair Smoothing Conditioner",
+            "product_url": "https://blinkit.com/prn/pilgrim-patua-&-keratin-hair-smoothing-conditioner/prid/534333",
+            "product_brand": "Pilgrim",
+            "product_quantity": 1,
+            "product_price": 348,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-4028.png",
+            "product_unit": "200 ml"
+        },
+        {
+            "product_id": 513066,
+            "product_name": "L'Oreal Paris Hyaluron Moisture 72H Moisture Filling Shampoo",
+            "product_url": "https://blinkit.com/prn/l'oreal-paris-hyaluron-moisture-72h-moisture-filling-shampoo/prid/513066",
+            "product_brand": "L'Oreal Paris",
+            "product_quantity": 1,
+            "product_price": 366,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771923717021-4476.png",
+            "product_unit": "340 ml"
+        },
+        {
+            "product_id": 437255,
+            "product_name": "Scalpe Pro Daily Anti Dandruff Shampoo",
+            "product_url": "https://blinkit.com/prn/scalpe-pro-daily-anti-dandruff-shampoo/prid/437255",
+            "product_brand": "Scalpe Pro",
+            "product_quantity": 1,
+            "product_price": 190,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771923717021-2444.png",
+            "product_unit": "100 ml"
+        },
+        {
+            "product_id": 91026,
+            "product_name": "Head & Shoulders Anti Dandruff Anti Hairfall Shampoo",
+            "product_url": "https://blinkit.com/prn/head-&-shoulders-anti-dandruff-anti-hairfall-shampoo/prid/91026",
+            "product_brand": "Head & Shoulders",
+            "product_quantity": 1,
+            "product_price": 174,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771923717021-1559.png",
+            "product_unit": "180 ml"
+        },
+        {
+            "product_id": 106793,
+            "product_name": "Tresemme Hair Fall Defense Conditioner",
+            "product_url": "https://blinkit.com/prn/tresemme-hair-fall-defense-conditioner/prid/106793",
+            "product_brand": "Tresemme",
+            "product_quantity": 1,
+            "product_price": 245,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1781509789125-458.png",
+            "product_unit": "190 ml"
+        },
+        {
+            "product_id": 632512,
+            "product_name": "Clinic Plus Strong & Long Shampoo with Milk Proteins",
+            "product_url": "https://blinkit.com/prn/clinic-plus-strong-&-long-shampoo-with-milk-proteins/prid/632512",
+            "product_brand": "Clinic Plus",
+            "product_quantity": 1,
+            "product_price": 140,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1776375127483-175.png",
+            "product_unit": "175 ml"
+        },
+        {
+            "product_id": 430637,
+            "product_name": "Sunsilk Lusciously Thick & Long Conditioner 340 ml",
+            "product_url": "https://blinkit.com/prn/sunsilk-lusciously-thick-&-long-conditioner-340-ml/prid/430637",
+            "product_brand": "Sunsilk",
+            "product_quantity": 1,
+            "product_price": 360,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-3456.png",
+            "product_unit": "340 ml"
+        },
+        {
+            "product_id": 499589,
+            "product_name": "Dot & Key Frizz Control Smoothing Hair Conditioner (Moringa & Argan)",
+            "product_url": "https://blinkit.com/prn/dot-&-key-frizz-control-smoothing-hair-conditioner-(moringa-&-argan)/prid/499589",
+            "product_brand": "Dot & Key",
+            "product_quantity": 1,
+            "product_price": 280,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-3639.png",
+            "product_unit": "120 ml"
+        },
+        {
+            "product_id": 349842,
+            "product_name": "Tresemme Smooth & Shine Shampoo",
+            "product_url": "https://blinkit.com/prn/tresemme-smooth-&-shine-shampoo/prid/349842",
+            "product_brand": "Tresemme",
+            "product_quantity": 1,
+            "product_price": 172,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1780984436863-162.png",
+            "product_unit": "180 ml"
+        },
+        {
+            "product_id": 597149,
+            "product_name": "Pilgrim Rosemary Anti Hairfall Conditioner",
+            "product_url": "https://blinkit.com/prn/pilgrim-rosemary-anti-hairfall-conditioner/prid/597149",
+            "product_brand": "Pilgrim",
+            "product_quantity": 1,
+            "product_price": 301,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-4395.png",
+            "product_unit": "200 ml"
+        },
+        {
+            "product_id": 604642,
+            "product_name": "Mamaearth Onion Conditioner",
+            "product_url": "https://blinkit.com/prn/mamaearth-onion-conditioner/prid/604642",
+            "product_brand": "Mamaearth",
+            "product_quantity": 1,
+            "product_price": 149,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-4474.png",
+            "product_unit": "100 ml"
+        },
+        {
+            "product_id": 553001,
+            "product_name": "L'Oreal Paris Hyaluron Moisture Conditioner",
+            "product_url": "https://blinkit.com/prn/l'oreal-paris-hyaluron-moisture-conditioner/prid/553001",
+            "product_brand": "L'Oreal Paris",
+            "product_quantity": 1,
+            "product_price": 492,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-4132.png",
+            "product_unit": "340 ml"
+        },
+        {
+            "product_id": 876,
+            "product_name": "L'Oreal Paris Total Repair 5 Shampoo",
+            "product_url": "https://blinkit.com/prn/l'oreal-paris-total-repair-5-shampoo/prid/876",
+            "product_brand": "L'Oreal Paris",
+            "product_quantity": 1,
+            "product_price": 326,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771923717021-1076.png",
+            "product_unit": "340 ml"
+        },
+        {
+            "product_id": 628070,
+            "product_name": "Moxie Beauty Ultra Hydrating Conditioner - 50 ml",
+            "product_url": "https://blinkit.com/prn/moxie-beauty-ultra-hydrating-conditioner---50-ml/prid/628070",
+            "product_brand": "Moxie Beauty",
+            "product_quantity": 1,
+            "product_price": 279,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-4772.png",
+            "product_unit": "50 ml"
+        },
+        {
+            "product_id": 475699,
+            "product_name": "Matrix Mega Smooth Anti-Frizz Conditioner",
+            "product_url": "https://blinkit.com/prn/matrix-mega-smooth-anti-frizz-conditioner/prid/475699",
+            "product_brand": "Matrix",
+            "product_quantity": 1,
+            "product_price": 340,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1779767007480-62.png",
+            "product_unit": "100 ml"
+        },
+        {
+            "product_id": 60774,
+            "product_name": "Patanjali Kesh Kanti Natural Hair Cleanser / Shampoo",
+            "product_url": "https://blinkit.com/prn/patanjali-kesh-kanti-natural-hair-cleanser-/-shampoo/prid/60774",
+            "product_brand": "Patanjali",
+            "product_quantity": 1,
+            "product_price": 100,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771923717021-1490.png",
+            "product_unit": "180 ml"
+        },
+        {
+            "product_id": 733946,
+            "product_name": "Pantene Miracle Rescue Collagen Repair Conditioner +  Hair Science Hairfall Control Shampoo with Vitamin B 340 ml Combo",
+            "product_url": "https://blinkit.com/prn/pantene-miracle-rescue-collagen-repair-conditioner-+--hair-science-hairfall-control-shampoo-with-vitamin-b-340-ml-combo/prid/733946",
+            "product_brand": "Pantene",
+            "product_quantity": 1,
+            "product_price": 433,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/2935179b-27ec-4d76-8bdf-beaadbb9e04c.png",
+            "product_unit": "200 ml + 340 ml"
+        },
+        {
+            "product_id": 637799,
+            "product_name": "Naturali Rosemary Anti-Hairfall Shampoo +  Onion & Bhringraj Hairfall Arrest Conditioner Combo",
+            "product_url": "https://blinkit.com/prn/naturali-rosemary-anti-hairfall-shampoo-+--onion-&-bhringraj-hairfall-arrest-conditioner-combo/prid/637799",
+            "product_brand": "Naturali",
+            "product_quantity": 1,
+            "product_price": 535,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1779075684469-160.png",
+            "product_unit": "200 ml + 180 ml"
+        },
+        {
+            "product_id": 401961,
+            "product_name": "Herbal Essences Argan Oil for Repair Shampoo 400 ml| No Parabens, No Colourants +  Argan Oil for Repair Conditioner 400ml | No Parabens, No Colourants Combo",
+            "product_url": "https://blinkit.com/prn/herbal-essences-argan-oil-for-repair-shampoo-400-ml|-no-parabens,-no-colourants-+--argan-oil-for-repair-conditioner-400ml-|-no-parabens,-no-colourants-combo/prid/401961",
+            "product_brand": "Herbal Essences",
+            "product_quantity": 1,
+            "product_price": 899,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/4cc0e68e-2ba0-459e-afe3-48cd029b3cce.jpg",
+            "product_unit": "400 ml + 400 ml"
+        }
+    ],
+    "Conditioner+Moisturizer": [
+        {
+            "product_id": 538010,
+            "product_name": "Plum Rice Water & 2% Niacinamide Face Moisturizing Gel",
+            "product_url": "https://blinkit.com/prn/plum-rice-water-&-2%-niacinamide-face-moisturizing-gel/prid/538010",
+            "product_brand": "Plum",
+            "product_quantity": 1,
+            "product_price": 472,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1775023416545-374.png",
+            "product_unit": "50 g"
+        },
+        {
+            "product_id": 691347,
+            "product_name": "L'Oreal Paris Glycolic Gloss Shine Sealing Conditioner",
+            "product_url": "https://blinkit.com/prn/l'oreal-paris-glycolic-gloss-shine-sealing-conditioner/prid/691347",
+            "product_brand": "L'Oreal Paris",
+            "product_quantity": 1,
+            "product_price": 252,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-5078.png",
+            "product_unit": "175 ml"
+        },
+        {
+            "product_id": 500361,
+            "product_name": "Minimalist Vitamin B5 10% Gel Moisturizer",
+            "product_url": "https://blinkit.com/prn/minimalist-vitamin-b5-10%-gel-moisturizer/prid/500361",
+            "product_brand": "Minimalist",
+            "product_quantity": 1,
+            "product_price": 349,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772099110297-970.png",
+            "product_unit": "50 g"
+        },
+        {
+            "product_id": 61737,
+            "product_name": "Sunsilk Nourishing Soft & Smooth Conditioner",
+            "product_url": "https://blinkit.com/prn/sunsilk-nourishing-soft-&-smooth-conditioner/prid/61737",
+            "product_brand": "Sunsilk",
+            "product_quantity": 1,
+            "product_price": 205,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-3327.png",
+            "product_unit": "180 ml"
+        },
+        {
+            "product_id": 430638,
+            "product_name": "Dove Daily Shine Conditioner with Nutritive Serum for Smooth & Shiny Hair",
+            "product_url": "https://blinkit.com/prn/dove-daily-shine-conditioner-with-nutritive-serum-for-smooth-&-shiny-hair/prid/430638",
+            "product_brand": "Dove",
+            "product_quantity": 1,
+            "product_price": 412,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/dc72ee84-0224-4a4e-8cff-e847d047c2ab.png",
+            "product_unit": "335 ml"
+        },
+        {
+            "product_id": 403433,
+            "product_name": "Pantene Advanced Hair Fall Solution and Control Conditioner",
+            "product_url": "https://blinkit.com/prn/pantene-advanced-hair-fall-solution-and-control-conditioner/prid/403433",
+            "product_brand": "Pantene",
+            "product_quantity": 1,
+            "product_price": 216,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-3436.png",
+            "product_unit": "180 ml"
+        },
+        {
+            "product_id": 108101,
+            "product_name": "Nivea Soft Light Moisturizing Cream",
+            "product_url": "https://blinkit.com/prn/nivea-soft-light-moisturizing-cream/prid/108101",
+            "product_brand": "Nivea",
+            "product_quantity": 1,
+            "product_price": 419,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1778594065812-39.png",
+            "product_unit": "300 ml"
+        },
+        {
+            "product_id": 403441,
+            "product_name": "Pantene Advanced Hair Fall Solution Silky Smooth Care Conditioner",
+            "product_url": "https://blinkit.com/prn/pantene-advanced-hair-fall-solution-silky-smooth-care-conditioner/prid/403441",
+            "product_brand": "Pantene",
+            "product_quantity": 1,
+            "product_price": 216,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-3446.png",
+            "product_unit": "180 ml"
+        },
+        {
+            "product_id": 499585,
+            "product_name": "Dot & Key Ceramides Barrier Repair Moisturizer",
+            "product_url": "https://blinkit.com/prn/dot-&-key-ceramides-barrier-repair-moisturizer/prid/499585",
+            "product_brand": "Dot & Key",
+            "product_quantity": 1,
+            "product_price": 356,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/29df9c85-18b9-43fc-b4fe-b77ef4562590.png",
+            "product_unit": "100 g"
+        },
+        {
+            "product_id": 563847,
+            "product_name": "Foxtale Ceramide Supercream Hydrating Moisturizing Cream",
+            "product_url": "https://blinkit.com/prn/foxtale-ceramide-supercream-hydrating-moisturizing-cream/prid/563847",
+            "product_brand": "Foxtale",
+            "product_quantity": 1,
+            "product_price": 194,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772099110297-1516.png",
+            "product_unit": "15 ml"
+        },
+        {
+            "product_id": 724412,
+            "product_name": "Tresemme Hydra Matrix Conditioner",
+            "product_url": "https://blinkit.com/prn/tresemme-hydra-matrix-conditioner/prid/724412",
+            "product_brand": "Tresemme",
+            "product_quantity": 1,
+            "product_price": 232,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1779080176262-98.png",
+            "product_unit": "190 ml"
+        },
+        {
+            "product_id": 496474,
+            "product_name": "Joy Honey & Almonds Nourishing Moisturizing Cream",
+            "product_url": "https://blinkit.com/prn/joy-honey-&-almonds-nourishing-moisturizing-cream/prid/496474",
+            "product_brand": "Joy",
+            "product_quantity": 1,
+            "product_price": 211,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772535388856-473.png",
+            "product_unit": "200 ml"
+        },
+        {
+            "product_id": 533018,
+            "product_name": "Pond's Light Moisturizing Cream (For Soft Skin)",
+            "product_url": "https://blinkit.com/prn/pond's-light-moisturizing-cream-(for-soft-skin)/prid/533018",
+            "product_brand": "Pond's",
+            "product_quantity": 1,
+            "product_price": 257,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1776138991809-398.png",
+            "product_unit": "100 ml"
+        },
+        {
+            "product_id": 475359,
+            "product_name": "Dot & Key 72 HR Hydrating + Probiotics Moisturizing Gel",
+            "product_url": "https://blinkit.com/prn/dot-&-key-72-hr-hydrating-+-probiotics-moisturizing-gel/prid/475359",
+            "product_brand": "Dot & Key",
+            "product_quantity": 1,
+            "product_price": 451,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772450025964-2511.png",
+            "product_unit": "60 ml"
+        },
+        {
+            "product_id": 475699,
+            "product_name": "Matrix Mega Smooth Anti-Frizz Conditioner",
+            "product_url": "https://blinkit.com/prn/matrix-mega-smooth-anti-frizz-conditioner/prid/475699",
+            "product_brand": "Matrix",
+            "product_quantity": 1,
+            "product_price": 340,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1779767007480-62.png",
+            "product_unit": "100 ml"
+        },
+        {
+            "product_id": 597149,
+            "product_name": "Pilgrim Rosemary Anti Hairfall Conditioner",
+            "product_url": "https://blinkit.com/prn/pilgrim-rosemary-anti-hairfall-conditioner/prid/597149",
+            "product_brand": "Pilgrim",
+            "product_quantity": 1,
+            "product_price": 301,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-4395.png",
+            "product_unit": "200 ml"
+        },
+        {
+            "product_id": 628374,
+            "product_name": "Moxie Beauty Hyaluronic Acid Repairing Conditioner",
+            "product_url": "https://blinkit.com/prn/moxie-beauty-hyaluronic-acid-repairing-conditioner/prid/628374",
+            "product_brand": "Moxie Beauty",
+            "product_quantity": 1,
+            "product_price": 399,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-4783.png",
+            "product_unit": "120 ml"
+        },
+        {
+            "product_id": 604642,
+            "product_name": "Mamaearth Onion Conditioner",
+            "product_url": "https://blinkit.com/prn/mamaearth-onion-conditioner/prid/604642",
+            "product_brand": "Mamaearth",
+            "product_quantity": 1,
+            "product_price": 149,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-4474.png",
+            "product_unit": "100 ml"
+        },
+        {
+            "product_id": 437998,
+            "product_name": "Lakme Peach Milk Soft Moisturizing Cream",
+            "product_url": "https://blinkit.com/prn/lakme-peach-milk-soft-moisturizing-cream/prid/437998",
+            "product_brand": "Lakme",
+            "product_quantity": 1,
+            "product_price": 296,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772099110297-598.png",
+            "product_unit": "100 g"
+        },
+        {
+            "product_id": 11463,
+            "product_name": "Parachute Advansed Deep Nourish Body Lotion",
+            "product_url": "https://blinkit.com/prn/parachute-advansed-deep-nourish-body-lotion/prid/11463",
+            "product_brand": "Parachute Advansed",
+            "product_quantity": 1,
+            "product_price": 118,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/d7e4ca9a-8a1e-47b7-a3ef-ba43773dcdf8.png",
+            "product_unit": "225 ml"
+        },
+        {
+            "product_id": 523125,
+            "product_name": "Fix My Curls Hydrating Deep Conditioner",
+            "product_url": "https://blinkit.com/prn/fix-my-curls-hydrating-deep-conditioner/prid/523125",
+            "product_brand": "Fix My Curls",
+            "product_quantity": 1,
+            "product_price": 451,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-3938.png",
+            "product_unit": "100 ml"
+        },
+        {
+            "product_id": 665948,
+            "product_name": "Dove Peptide Bond Strength Conditioner",
+            "product_url": "https://blinkit.com/prn/dove-peptide-bond-strength-conditioner/prid/665948",
+            "product_brand": "Dove",
+            "product_quantity": 1,
+            "product_price": 253,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1776453616669-479.png",
+            "product_unit": "175 ml"
+        },
+        {
+            "product_id": 500360,
+            "product_name": "Minimalist 5% Marula Oil Moisturizer",
+            "product_url": "https://blinkit.com/prn/minimalist-5%-marula-oil-moisturizer/prid/500360",
+            "product_brand": "Minimalist",
+            "product_quantity": 1,
+            "product_price": 299,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1772099110297-958.png",
+            "product_unit": "50 g"
+        },
+        {
+            "product_id": 453384,
+            "product_name": "L'Oreal Paris Dream Lengths Conditioner 175 ml",
+            "product_url": "https://blinkit.com/prn/l'oreal-paris-dream-lengths-conditioner-175-ml/prid/453384",
+            "product_brand": "L'Oreal Paris",
+            "product_quantity": 1,
+            "product_price": 264,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1771992965724-3503.png",
+            "product_unit": "175 ml"
+        },
+        {
+            "product_id": 693558,
+            "product_name": "Pilgrim Korean Rice Water Hydra Glow Face Moisturizer",
+            "product_url": "https://blinkit.com/prn/pilgrim-korean-rice-water-hydra-glow-face-moisturizer/prid/693558",
+            "product_brand": "Pilgrim",
+            "product_quantity": 1,
+            "product_price": 248,
+            "product_image": "https://cdn.grofers.com/da/cms-assets/cms/product/b41296ee-0519-4bb6-ad5c-70ee37846e10.png",
+            "product_unit": "50 g"
+        }
+    ]
+}
