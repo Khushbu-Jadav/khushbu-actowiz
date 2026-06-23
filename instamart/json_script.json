@@ -1,0 +1,4473 @@
+{
+	"userLocation": {
+		"lat": 12.909483,
+		"lng": 77.697731,
+		"address": "Doddakannelli, Bengaluru, Karnataka, India",
+		"originalLocationSource": "seo"
+	},
+	"misc": {
+		"abExperiments": {},
+		"options": {
+			"dfInstamartAutoScrollDelayInSeconds": 1,
+			"dfFirebasePerfEnabled": true,
+			"swEnabled": true,
+			"dfInstamartEnabledIOSVersion": "343",
+			"dfInstamartEnabledAndroidVersion": "880",
+			"dfAndroidVideoVoiceOverSupportedVersion": "922",
+			"dfInstamartTrackV2Enabled": true,
+			"dfInstamartTrackV2MwebEnabled": true,
+			"dfInstamartTrackV2AndroidEnabledVersion": "998",
+			"dfInstamartTrackV2IOSEnabledVersion": "399",
+			"dfInstamartTrackV2PLCardsEnabled": true,
+			"dfMinIMNativeCartSynchEnabledAndroidVersion": "1017",
+			"dfMinIMNativeCartSynchEnabledIOSVersion": "407",
+			"dfAnalyticsEventsMaxRetries": 3,
+			"dfMinPermissionBridgeEnabledAndroidVersion": "1045",
+			"dfAndroidNewPostOrderEventEnabledVersion": "1045",
+			"dfIOSNewPostOrderEventEnabledVersion": "422",
+			"dfAcceptBuildCartCallFromApp": true,
+			"dfAdEventsBatchSize": 1,
+			"dfAdEventsDispatchIntervalInMinutes": 0.0835,
+			"dfIMNoRushNudgeCount": 1,
+			"dfIMStaleRefreshEnabled": true,
+			"dfIMStaleRefreshPathConfig": "{\"*\":1}",
+			"dfEnablePWALocationCheck": true,
+			"dfEnableCancelHomePageReload": true,
+			"dfComplimentryItemsTimeout": 700,
+			"dfEnableIMHTMLCaching": true,
+			"dfMaxPreviousSearchStorage": 20,
+			"dfAllowUIDrivenPastSearch": true,
+			"dfUIDrivenPastSearchesBreakpoint": 4,
+			"dfInstamartCartRateLimitEnabled": true,
+			"DF_GTM_EVENTS_DEPRECATED": true,
+			"DF_IM_BE_DRIVEN_BILL_DETAILS": true,
+			"enableCartCacheClear": true,
+			"imAllowHomeBypass": true,
+			"imSearchAnimationData": "{ \"status\": true, \"interval\": 2000, \"itemsTiming\": { \"00-06\": [\"Ice cream\", \"Chips\", \"Cold drinks\"], \"06-12\": [\"Milk\", \"Eggs\", \"Vegetables\"], \"13-19\": [\"Fruits\", \"Atta\", \"Rice\"], \"20-24\": [\"Ghee\", \"Dal\", \"Sweets\"] } }",
+			"imStaleRefreshIntervalInMinutes": 5,
+			"imWebviewRefreshPersistStateEnabled": true,
+			"seoDefaultLocation": "12.929097899042114,77.70326501230915",
+			"acceptBuildCartCallFromApp": true
+		},
+		"sessionHistory": [],
+		"settings": {
+			"abSettings": {
+				"instamartSettings": {
+					"prenudgeV2Enabled": false,
+					"maxSaverEnabled": false
+				}
+			},
+			"paymentHostUrl": "https://chkout.swiggy.com",
+			"newrelicKey": "CPDMQSXvjxGCdL_E02P9eZ-NJcEg-uGk",
+			"newrelicEndpoint": "https://insights-collector.newrelic.com/v1/accounts/737486/events",
+			"analyticsHost": "https://analytics.swiggy.com",
+			"enablePublicApiIM": true
+		},
+		"alertDialog": null,
+		"firstPageLoad": true,
+		"versionCode": "1200",
+		"isNativeBottomBarEnabled": false,
+		"genieWebTrackEnabled": false,
+		"platform": "web",
+		"subplatform": "dweb",
+		"isQuicks": false,
+		"webBottomBarRoutesConfig": [],
+		"isDefaultLocationSelected": true,
+		"isIMWebStandalone": true
+	},
+	"user": {},
+	"instamart": {
+		"ssrErrorState": {
+			"isError": false
+		},
+		"activeComplimentryItem": {},
+		"turboCheckoutConfig": {
+			"paymentLink": "",
+			"loader": true,
+			"isCartUpdatedOnCartPage": false
+		},
+		"subscribedItems": {},
+		"footerData": {
+			"socialLinks": [
+				{
+					"id": "facebook",
+					"logo": "Dweb/facebook.png",
+					"link": "https://www.facebook.com/SwiggyInstamart"
+				},
+				{
+					"id": "pinterest",
+					"logo": "Dweb/Pinterest.png",
+					"link": "https://in.pinterest.com/instamart_swiggy"
+				},
+				{
+					"id": "instagram",
+					"logo": "Dweb/Instagram.png",
+					"link": "https://www.instagram.com/instamart"
+				},
+				{
+					"id": "twitter",
+					"logo": "Dweb/Twitter.png",
+					"link": "https://x.com/instamart_it"
+				}
+			],
+			"cityList": [
+				{
+					"text": "Bangalore"
+				},
+				{
+					"text": "Delhi"
+				},
+				{
+					"text": "Jaipur"
+				},
+				{
+					"text": "Kochi"
+				},
+				{
+					"text": "Mumbai"
+				},
+				{
+					"text": "Noida"
+				},
+				{
+					"text": "Pune"
+				},
+				{
+					"text": "Vadodara"
+				},
+				{
+					"text": "Lucknow"
+				},
+				{
+					"text": "Hyderabad"
+				},
+				{
+					"text": "Vizag"
+				},
+				{
+					"text": "Vijayawada"
+				},
+				{
+					"text": "Surat"
+				},
+				{
+					"text": "Indore"
+				},
+				{
+					"text": "Mysore"
+				},
+				{
+					"text": "Gurgaon"
+				},
+				{
+					"text": "Kolkata"
+				},
+				{
+					"text": "Chennai"
+				},
+				{
+					"text": "Ahmedabad"
+				},
+				{
+					"text": "Chandigarh"
+				},
+				{
+					"text": "Coimbatore"
+				},
+				{
+					"text": "Dehradun"
+				},
+				{
+					"text": "Thiruvananthapuram"
+				},
+				{
+					"text": "Faridabad"
+				},
+				{
+					"text": "Bhubaneswar"
+				},
+				{
+					"text": "Pondicherry"
+				},
+				{
+					"text": "Central Goa"
+				}
+			],
+			"categories": [
+				{
+					"text": "Fresh Vegetables",
+					"link": "https://instamart.in/c/fresh-vegetables/st"
+				},
+				{
+					"text": "Fresh Fruits",
+					"link": "https://instamart.in/c/fresh-fruits/st"
+				},
+				{
+					"text": "Dairy Bread and Eggs",
+					"link": "https://instamart.in/c/dairy-bread-and-eggs/st"
+				},
+				{
+					"text": "Meat and Seafood",
+					"link": "https://instamart.in/c/meat-and-seafood/st"
+				},
+				{
+					"text": "Atta Rice and Dal",
+					"link": "https://instamart.in/c/atta-rice-and-dal/t5"
+				},
+				{
+					"text": "Masalas",
+					"link": "https://instamart.in/c/masalas/t5"
+				},
+				{
+					"text": "Oils and Ghee",
+					"link": "https://instamart.in/c/oils-and-ghee/t5"
+				},
+				{
+					"text": "Cereals and Breakfast",
+					"link": "https://instamart.in/c/cereals-and-breakfast/t5"
+				},
+				{
+					"text": "Cold Drinks and Juices",
+					"link": "https://instamart.in/c/cold-drinks-and-juices/t10"
+				},
+				{
+					"text": "Ice Creams and Frozen Desserts",
+					"link": "https://instamart.in/c/ice-creams-and-frozen-desserts/t10"
+				},
+				{
+					"text": "Chips and Namkeens",
+					"link": "https://instamart.in/c/chips-and-namkeens/t10"
+				},
+				{
+					"text": "Chocolates",
+					"link": "https://instamart.in/c/chocolates/t10"
+				},
+				{
+					"text": "Biscuits and Cakes",
+					"link": "https://instamart.in/c/biscuits-and-cakes/t10"
+				},
+				{
+					"text": "Tea Coffee and Milk Drinks",
+					"link": "https://instamart.in/c/tea-coffee-and-milk-drinks/t10"
+				},
+				{
+					"text": "Sauces and Spreads",
+					"link": "https://instamart.in/c/sauces-and-spreads/t10"
+				},
+				{
+					"text": "Sweet Corner",
+					"link": "https://instamart.in/c/sweet-corner/t10"
+				},
+				{
+					"text": "Noodles Pasta Vermicelli",
+					"link": "https://instamart.in/c/noodles-pasta-vermicelli/t10"
+				},
+				{
+					"text": "Frozen Food",
+					"link": "https://instamart.in/c/frozen-food/t10"
+				},
+				{
+					"text": "Dry Fruits and Seeds Mix",
+					"link": "https://instamart.in/c/dry-fruits-and-seeds-mix/t10"
+				},
+				{
+					"text": "Bath and Body",
+					"link": "https://instamart.in/c/bath-and-body/t14"
+				},
+				{
+					"text": "Hair Care",
+					"link": "https://instamart.in/c/hair-care/t14"
+				},
+				{
+					"text": "Skincare",
+					"link": "https://instamart.in/c/skincare/t14"
+				},
+				{
+					"text": "Makeup",
+					"link": "https://instamart.in/c/makeup/t14"
+				},
+				{
+					"text": "Feminine Hygiene",
+					"link": "https://instamart.in/c/feminine-hygiene/t14"
+				},
+				{
+					"text": "Sexual Wellness",
+					"link": "https://instamart.in/c/sexual-wellness/t14"
+				},
+				{
+					"text": "Health and Pharma",
+					"link": "https://instamart.in/c/health-and-pharma/t14"
+				},
+				{
+					"text": "Baby Care",
+					"link": "https://instamart.in/c/baby-care/t14"
+				},
+				{
+					"text": "Home and Kitchen",
+					"link": "https://instamart.in/c/home-and-kitchen/imt"
+				},
+				{
+					"text": "Puja Store",
+					"link": "https://instamart.in/c/puja-store/imt"
+				},
+				{
+					"text": "Cleaners and Repellents",
+					"link": "https://instamart.in/c/cleaners-and-repellents/imt"
+				},
+				{
+					"text": "Toys and Stationery",
+					"link": "https://instamart.in/c/toys-and-stationery/imt"
+				},
+				{
+					"text": "Electronics and Appliances",
+					"link": "https://instamart.in/c/electronics-and-appliances/imt"
+				},
+				{
+					"text": "Fashion",
+					"link": "https://instamart.in/c/fashion/imt"
+				},
+				{
+					"text": "Pet Supplies",
+					"link": "https://instamart.in/c/pet-supplies/imt"
+				},
+				{
+					"text": "Sports and Fitness",
+					"link": "https://instamart.in/c/sports-and-fitness/imt"
+				}
+			],
+			"appInstallBanner": {
+				"title": "For better experience, download the Instamart app now",
+				"androidAppImage": "portal/m/play_store.png",
+				"androidAppLink": "https://play.google.com/store/apps/details?id=in.swiggy.android.instamart",
+				"iosAppImage": "portal/m/app_store.png",
+				"iosAppLink": "https://apps.apple.com/us/app/instamart-groceries-more/id6738619733"
+			}
+		},
+		"subcategorySeoContentData": {},
+		"diaglogMountStatus": {
+			"mounted": false
+		},
+		"launchData": null
+	},
+	"appHeaders": null,
+	"appLocals": {
+		"isActiveOverlay": false
+	},
+	"homeV2": {
+		"inProgress": false,
+		"pageInProgress": false,
+		"imStoreUnavailable": false,
+		"error": false,
+		"pageInError": false,
+		"statusCode": 0,
+		"layoutId": null,
+		"data": null
+	},
+	"storeDetailsV2": {
+		"storeId": "1392421",
+		"primaryStore": {
+			"priority": "PRIORITY_PRIMARY",
+			"id": "1392421",
+			"storeConstraints": {
+				"maxAllowedItemsInCart": 200,
+				"maxAllowedCartWeightInGrams": 75000,
+				"maxAllowedCartVolumeInCc": 100000,
+				"bulkCartConstraints": {
+					"minItemCount": 200,
+					"minWeightInGrams": 15000
+				}
+			},
+			"orderabilityDetails": {
+				"serviceabilityStatus": "SERVICEABILITY_STATUS_SERVICEABLE",
+				"serviceabilityType": "SERVICEABILITY_TYPE_FAST_SERVICEABLE",
+				"sla": {
+					"value": "4",
+					"unit": "MINS",
+					"backgroundColour": "#B6B6B6",
+					"text_color": "text_color_low_emphasis",
+					"icon": ""
+				}
+			}
+		},
+		"discountInfo": {},
+		"serviceabilityStatus": "",
+		"serviceabilityType": "",
+		"metaInfo": "",
+		"cartConstraints": {
+			"maxAllowedItemsInCart": 200,
+			"maxAllowedCartWeightInGrams": 75000,
+			"maxAllowedCartVolumeInCc": 100000,
+			"bulkCartConstraints": {
+				"minItemCount": 200,
+				"minWeightInGrams": 15000
+			}
+		}
+	},
+	"footerInfo": null,
+	"categoryV2": {
+		"inProgress": false,
+		"pageInProgress": false,
+		"pageInError": false,
+		"error": false,
+		"layoutId": null,
+		"data": null
+	},
+	"productV2": {
+		"inError": false,
+		"itemData": {
+			"displayName": "Lemon (Nimbe Hannu)",
+			"brand": "Fruits & Vegetables Category",
+			"inStock": true,
+			"isAvail": true,
+			"variations": [
+				{
+					"skuId": "ZRQXVGTZB2",
+					"spinId": "SMR11XS8VK",
+					"quantityDescription": "100 g",
+					"displayName": "Lemon (Nimbe Hannu)",
+					"brandName": "Fruits & Vegetables Category",
+					"imageIds": [
+						"NI_CATALOG/IMAGES/CIW/2026/5/11/f805676b-6417-408a-8340-b9e1c94551d9_Lemon.png"
+					],
+					"listingVariant": true,
+					"superSaver": false,
+					"price": {
+						"mrp": {
+							"currencyCode": "INR",
+							"units": "23",
+							"nanos": 0
+						},
+						"offerPrice": {
+							"currencyCode": "INR",
+							"units": "18",
+							"nanos": 0
+						},
+						"unitLevelPrice": "",
+						"discountValue": {
+							"currencyCode": "INR",
+							"units": "5",
+							"nanos": 0
+						},
+						"offerApplied": {
+							"listingDescription": "21% OFF",
+							"superOffer": false,
+							"movThreshold": 0,
+							"offerHighlights": [
+								{
+									"text": "21% OFF",
+									"textColor": "colorPositive"
+								}
+							]
+						},
+						"maxSaverPrice": null,
+						"flashSalePriceDetails": null,
+						"salePrice": null
+					},
+					"category": "Leafy and Seasonings",
+					"dimensions": {
+						"lengthInCm": 7,
+						"widthInCm": 7,
+						"heightInCm": 7,
+						"volumeInCc": 343
+					},
+					"slotInfo": {
+						"isAvail": true,
+						"message": ""
+					},
+					"cartAllowedQuantity": {
+						"allowedQuantity": 5,
+						"quantityLimitBreachedMessage": "Only 5 unit(s) of this item can be added per order."
+					},
+					"inventory": {
+						"inStock": true,
+						"lowStockText": ""
+					},
+					"weightInGrams": 100,
+					"volumetricWeight": 0,
+					"subCategoryType": "Lemon",
+					"secondaryQuantityDescription": "",
+					"podId": "1392421",
+					"couponLessOffers": [],
+					"shortDescription": "Farm-fresh, juicy lemons rich in natural Vitamin C",
+					"externalPharmacyItem": false,
+					"rxRequired": false,
+					"variationTags": [],
+					"medias": [
+						{
+							"id": "NI_CATALOG/IMAGES/CIW/2026/5/11/f805676b-6417-408a-8340-b9e1c94551d9_Lemon.png",
+							"thumbnailId": "",
+							"type": "MEDIA_TYPE_IMAGE",
+							"aspectRatio": null
+						}
+					],
+					"attributeTags": [],
+					"rating": null,
+					"sla": null,
+					"vegClassifier": "VEG_CLASSIFIER_INVALID",
+					"emiInfo": null,
+					"aiAttributeTags": [],
+					"isWishlisted": false,
+					"offerCallouts": [],
+					"stealDealInfo": null,
+					"offerPanels": [],
+					"superCategory": "Fruits and Vegetables",
+					"loudCallout": null,
+					"prebookInfo": null
+				}
+			],
+			"badges": [],
+			"source": "",
+			"analytics": {
+				"screenName": "",
+				"context": "{\"itemId\":\"ZRQXVGTZB2\",\"slotAvailability\":true}",
+				"objectValue": "",
+				"impressionObjectName": "item-impression",
+				"clickObjectName": "click-item",
+				"attributionContext": "",
+				"extraFields": {
+					"skuAvailable": "true",
+					"storeIDflag": "PRIMARY"
+				},
+				"position": 0
+			},
+			"productId": "S4NEIKIWXC",
+			"showQuantity": false,
+			"adTrackingContext": "",
+			"parentProductId": "",
+			"listingVariantInfo": null,
+			"imageBackground": null
+		},
+		"cards": [
+			{
+				"card": {
+					"card": {
+						"@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+						"header": null,
+						"layout": {
+							"rows": 1,
+							"columns": 1,
+							"horizontalScrollEnabled": false,
+							"shouldSnap": false,
+							"itemSpacing": 0,
+							"lineSpacing": 0,
+							"widgetPadding": null,
+							"containerStyle": {
+								"containerPadding": {
+									"left": 12,
+									"top": 0,
+									"right": 12,
+									"bottom": 18
+								},
+								"containerCornerRadius": null,
+								"containerColor": "",
+								"containerSeparatorConfig": null,
+								"containerBackgroundGradient": null,
+								"elevation": "ELEVATION_LEVEL_INVALID"
+							},
+							"viewPort": 0,
+							"scrollBar": null,
+							"autoScrollConfig": null,
+							"separatorConfig": null,
+							"backgroundColor": "",
+							"widgetBorderStyle": null,
+							"widgetTheme": null,
+							"ordering": "ORDERING_INVALID",
+							"dotScrollBar": null,
+							"displayStyle": "",
+							"backgroundAssetId": "",
+							"pageScrollBar": null,
+							"scrollAnimationType": "SCROLL_ANIMATION_TYPE_INVALID",
+							"foregroundAsset": null,
+							"isInfiniteScroll": false,
+							"backgroundInfo": null,
+							"gyroConfig": null,
+							"customStyle": null
+						},
+						"id": "",
+						"gridElements": {
+							"infoWithStyle": {
+								"@type": "type.googleapis.com/swiggy.im.v1.ItemCollectionCard",
+								"viewType": "VIEW_TYPE_FULL_WIDTH",
+								"items": [
+									{
+										"displayName": "Lemon (Nimbe Hannu)",
+										"brand": "Fruits & Vegetables Category",
+										"inStock": true,
+										"isAvail": true,
+										"variations": [
+											{
+												"skuId": "ZRQXVGTZB2",
+												"spinId": "SMR11XS8VK",
+												"quantityDescription": "100 g",
+												"displayName": "Lemon (Nimbe Hannu)",
+												"brandName": "Fruits & Vegetables Category",
+												"imageIds": [
+													"NI_CATALOG/IMAGES/CIW/2026/5/11/f805676b-6417-408a-8340-b9e1c94551d9_Lemon.png"
+												],
+												"listingVariant": true,
+												"superSaver": false,
+												"price": {
+													"mrp": {
+														"currencyCode": "INR",
+														"units": "23",
+														"nanos": 0
+													},
+													"offerPrice": {
+														"currencyCode": "INR",
+														"units": "18",
+														"nanos": 0
+													},
+													"unitLevelPrice": "",
+													"discountValue": {
+														"currencyCode": "INR",
+														"units": "5",
+														"nanos": 0
+													},
+													"offerApplied": {
+														"listingDescription": "21% OFF",
+														"superOffer": false,
+														"movThreshold": 0,
+														"offerHighlights": [
+															{
+																"text": "21% OFF",
+																"textColor": "colorPositive"
+															}
+														]
+													},
+													"maxSaverPrice": null,
+													"flashSalePriceDetails": null,
+													"salePrice": null
+												},
+												"category": "Leafy and Seasonings",
+												"dimensions": {
+													"lengthInCm": 7,
+													"widthInCm": 7,
+													"heightInCm": 7,
+													"volumeInCc": 343
+												},
+												"slotInfo": {
+													"isAvail": true,
+													"message": ""
+												},
+												"cartAllowedQuantity": {
+													"allowedQuantity": 5,
+													"quantityLimitBreachedMessage": "Only 5 unit(s) of this item can be added per order."
+												},
+												"inventory": {
+													"inStock": true,
+													"lowStockText": ""
+												},
+												"weightInGrams": 100,
+												"volumetricWeight": 0,
+												"subCategoryType": "Lemon",
+												"secondaryQuantityDescription": "",
+												"podId": "1392421",
+												"couponLessOffers": [],
+												"shortDescription": "Farm-fresh, juicy lemons rich in natural Vitamin C",
+												"externalPharmacyItem": false,
+												"rxRequired": false,
+												"variationTags": [],
+												"medias": [
+													{
+														"id": "NI_CATALOG/IMAGES/CIW/2026/5/11/f805676b-6417-408a-8340-b9e1c94551d9_Lemon.png",
+														"thumbnailId": "",
+														"type": "MEDIA_TYPE_IMAGE",
+														"aspectRatio": null
+													}
+												],
+												"attributeTags": [],
+												"rating": null,
+												"sla": null,
+												"vegClassifier": "VEG_CLASSIFIER_INVALID",
+												"emiInfo": null,
+												"aiAttributeTags": [],
+												"isWishlisted": false,
+												"offerCallouts": [],
+												"stealDealInfo": null,
+												"offerPanels": [],
+												"superCategory": "Fruits and Vegetables",
+												"loudCallout": null,
+												"prebookInfo": null
+											}
+										],
+										"badges": [],
+										"source": "",
+										"analytics": {
+											"screenName": "",
+											"context": "{\"itemId\":\"ZRQXVGTZB2\",\"slotAvailability\":true}",
+											"objectValue": "",
+											"impressionObjectName": "item-impression",
+											"clickObjectName": "click-item",
+											"attributionContext": "",
+											"extraFields": {
+												"skuAvailable": "true",
+												"storeIDflag": "PRIMARY"
+											},
+											"position": 0
+										},
+										"productId": "S4NEIKIWXC",
+										"showQuantity": false,
+										"adTrackingContext": "",
+										"parentProductId": "",
+										"listingVariantInfo": null,
+										"imageBackground": null
+									}
+								],
+								"itemStyle": {
+									"width": {
+										"type": "TYPE_RELATIVE",
+										"value": 0.5,
+										"reference": "RELATIVE_DIMENSION_REFERENCE_DEVICE_WIDTH"
+									},
+									"height": {
+										"type": "TYPE_ABSOLUTE",
+										"value": 255,
+										"reference": "RELATIVE_DIMENSION_REFERENCE_INVALID"
+									}
+								},
+								"themedItemStyle": null,
+								"themeType": "THEME_TYPE_INVALID",
+								"variantAttributes": null,
+								"macro": [],
+								"anchorTag": null,
+								"itemPlaceholder": null,
+								"cta": null
+							}
+						},
+						"footer": null,
+						"meta": null,
+						"analytics": {
+							"screenName": "",
+							"context": "",
+							"objectValue": "",
+							"impressionObjectName": "",
+							"clickObjectName": "",
+							"attributionContext": "",
+							"extraFields": {},
+							"position": 0
+						},
+						"animation": null,
+						"scrollAnchor": null,
+						"frequencyCapping": null,
+						"entityId": "",
+						"entityType": "",
+						"showArrow": false,
+						"showScrollIndicator": false,
+						"disableEntranceAnimation": false,
+						"scrollIndicatorConfig": null,
+						"requestId": "e8b5a788-efb3-4ac3-9b93-72da0864305a"
+					},
+					"relevance": null
+				}
+			},
+			{
+				"card": {
+					"card": {
+						"@type": "type.googleapis.com/swiggy.im.v1.ActionCard",
+						"imageId": "InstamartAssets/Bleed%20Blue/PDP%20Brand.png",
+						"cta": {
+							"link": "swiggy://stores/instamart/collection-listing?collectionId=106463&custom_back=true&brand=Fruits%20%26%20Vegetables%20Category",
+							"text": "Explore all products from Fruits & Vegetables Category",
+							"type": "",
+							"metaInfo": null,
+							"subtext": "",
+							"disabledText": "",
+							"additionalInfo": null,
+							"strikethroughText": "",
+							"tooltip": null,
+							"dlsType": "",
+							"analytics": null,
+							"creativeId": "",
+							"variant": "",
+							"showText": false
+						},
+						"analytics": {
+							"screenName": "",
+							"context": "{}",
+							"objectValue": "",
+							"impressionObjectName": "impression-menu-widget",
+							"clickObjectName": "click-cta",
+							"attributionContext": "",
+							"extraFields": {
+								"collectionId": "106463",
+								"widgetId": "116693"
+							},
+							"position": 0
+						},
+						"items": [],
+						"requestId": "e8b5a788-efb3-4ac3-9b93-72da0864305a"
+					},
+					"relevance": null
+				}
+			},
+			{
+				"card": {
+					"card": {
+						"@type": "type.googleapis.com/swiggy.im.v1.InfoCard",
+						"title": "Description",
+						"description": "<ul><li>Fresh and tangy lemons sourced from quality farms, perfect for adding a burst of flavor to your everyday meals. Rich in Vitamin C, they are ideal for juices, cooking, garnishing, and home remedies. A must-have citrus fruit for every kitchen.</li></ul>",
+						"expand": false,
+						"viewType": "VIEW_TYPE_INNER",
+						"analytics": null,
+						"additionalInfo": [],
+						"styling": null,
+						"requestId": "e8b5a788-efb3-4ac3-9b93-72da0864305a"
+					},
+					"relevance": null
+				}
+			},
+			{
+				"card": {
+					"card": {
+						"@type": "type.googleapis.com/swiggy.im.v1.CrossSellWidget",
+						"title": "Frequently bought together",
+						"analytics": null,
+						"categories": [
+							{
+								"category": "Leafy and Seasonings",
+								"imageId": "NI_CATALOG/IMAGES/CIW/2026/6/22/eb297988-cff6-43b0-8e85-8ccdf5cc6ee0_5588_1.png"
+							},
+							{
+								"category": "Vegetables",
+								"imageId": "6c684affda38df4b0a9a7b6ba43a8bf2"
+							},
+							{
+								"category": "Organic",
+								"imageId": "NI_CATALOG/IMAGES/CIW/2026/1/21/81c0cb95-3121-4032-853c-e65c10db5c99_GreenChilli_1.png"
+							}
+						],
+						"items": [
+							{
+								"displayName": "Mint Leaves (Pudina)",
+								"brand": "Fruits & Vegetables Category",
+								"inStock": true,
+								"isAvail": true,
+								"variations": [
+									{
+										"skuId": "L2T5BYJFWH",
+										"spinId": "30JR5FPFVD",
+										"quantityDescription": "1 Bunch x 2",
+										"displayName": "Mint Leaves (Pudina)",
+										"brandName": "Fruits & Vegetables Category",
+										"imageIds": [
+											"5d969b69e639cee524ebce0d7adc30ac",
+											"0943cc867101c1df47795477579654ab"
+										],
+										"listingVariant": false,
+										"superSaver": true,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "26",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "18",
+												"nanos": 0
+											},
+											"unitLevelPrice": "9/bunch",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "8",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "30% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "30% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Leafy and Seasonings",
+										"dimensions": {
+											"lengthInCm": 60,
+											"widthInCm": 28,
+											"heightInCm": 2,
+											"volumeInCc": 3360
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": ""
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 3,
+											"quantityLimitBreachedMessage": "Only 3 unit(s) of this item can be added per order."
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 200,
+										"volumetricWeight": 0,
+										"subCategoryType": "Mint Leaves",
+										"secondaryQuantityDescription": "",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Fresh & cooling, digestion aid, ideal for drinks",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "5d969b69e639cee524ebce0d7adc30ac",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "0943cc867101c1df47795477579654ab",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									},
+									{
+										"skuId": "08ND9MR6S4",
+										"spinId": "HONJQOBAFD",
+										"quantityDescription": "1 Bunch",
+										"displayName": "Mint Leaves (Pudina)",
+										"brandName": "Fruits & Vegetables Category",
+										"imageIds": [
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/7f95ad7d-6732-4abe-b6cb-960c1f5d88ac_1092_1.jpg",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/f6eb0a5d-8451-41c5-b3b1-a3200f39b8b6_1092_2.jpg",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/2706df29-23c7-4cc1-8178-88ae8d69b1b4_1092_3.jpg",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/a95f7da5-48e3-4027-b774-6f84d8cb2232_1092_4.jpg"
+										],
+										"listingVariant": true,
+										"superSaver": false,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "13",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "10",
+												"nanos": 0
+											},
+											"unitLevelPrice": "",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "3",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "23% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "23% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Leafy and Seasonings",
+										"dimensions": {
+											"lengthInCm": 30,
+											"widthInCm": 28,
+											"heightInCm": 2,
+											"volumeInCc": 1680
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": ""
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 5,
+											"quantityLimitBreachedMessage": "Only 5 unit(s) of this item can be added per order."
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 100,
+										"volumetricWeight": 0,
+										"subCategoryType": "Mint Leaves",
+										"secondaryQuantityDescription": "80 - 100 g",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Fresh & cooling, digestion aid, ideal for drinks",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/7f95ad7d-6732-4abe-b6cb-960c1f5d88ac_1092_1.jpg",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/f6eb0a5d-8451-41c5-b3b1-a3200f39b8b6_1092_2.jpg",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/2706df29-23c7-4cc1-8178-88ae8d69b1b4_1092_3.jpg",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/a95f7da5-48e3-4027-b774-6f84d8cb2232_1092_4.jpg",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									}
+								],
+								"badges": [],
+								"source": "",
+								"analytics": {
+									"screenName": "",
+									"context": "{\"itemId\":\"08ND9MR6S4\",\"slotAvailability\":true}",
+									"objectValue": "",
+									"impressionObjectName": "item-impression",
+									"clickObjectName": "click-item",
+									"attributionContext": "",
+									"extraFields": {
+										"skuAvailable": "true",
+										"storeIDflag": "PRIMARY"
+									},
+									"position": 0
+								},
+								"productId": "QIQMHY66E3",
+								"showQuantity": false,
+								"adTrackingContext": "",
+								"parentProductId": "D5ZKDO7D4Y",
+								"listingVariantInfo": null,
+								"imageBackground": null
+							},
+							{
+								"displayName": "Curry Leaves (Karibevu)",
+								"brand": "Fruits & Vegetables Category",
+								"inStock": true,
+								"isAvail": true,
+								"variations": [
+									{
+										"skuId": "1U6I7RBH01",
+										"spinId": "A1WYOL8OKT",
+										"quantityDescription": "1 Bunch x 2",
+										"displayName": "Curry Leaves (Karibevu)",
+										"brandName": "Fruits & Vegetables Category",
+										"imageIds": [
+											"325c69e1e956c65d34670bb97291d408",
+											"3e41ca5ad6b3ffa84fa372b8c9b8d045"
+										],
+										"listingVariant": false,
+										"superSaver": true,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "26",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "18",
+												"nanos": 0
+											},
+											"unitLevelPrice": "9/bunch",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "8",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "30% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "30% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Leafy and Seasonings",
+										"dimensions": {
+											"lengthInCm": 30,
+											"widthInCm": 28,
+											"heightInCm": 2,
+											"volumeInCc": 1680
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": ""
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 3,
+											"quantityLimitBreachedMessage": "Only 3 unit(s) of this item can be added per order."
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 200,
+										"volumetricWeight": 0,
+										"subCategoryType": "Curry Leaves",
+										"secondaryQuantityDescription": "100 - 120 g",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Fresh & aromatic, seasoning for tempering dishes",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "325c69e1e956c65d34670bb97291d408",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "3e41ca5ad6b3ffa84fa372b8c9b8d045",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									},
+									{
+										"skuId": "0I7WN0X3J7",
+										"spinId": "3DNDL3X6CD",
+										"quantityDescription": "1 Bunch",
+										"displayName": "Curry Leaves (Karibevu)",
+										"brandName": "Fruits & Vegetables Category",
+										"imageIds": [
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/2dc20cd1-f28e-442f-8a18-a242dd3635f3_5132_1.JPG",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/71759d86-cfa3-491b-a732-ff8f53ef9be6_5132_2.JPG",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/71e864e7-318c-4d75-ba37-7652a7ede595_5132_3.JPG",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/5b51bff6-ac0b-4e77-9c0c-8d499880b3df_5132_4.JPG"
+										],
+										"listingVariant": true,
+										"superSaver": false,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "13",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "10",
+												"nanos": 0
+											},
+											"unitLevelPrice": "",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "3",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "23% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "23% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Leafy and Seasonings",
+										"dimensions": {
+											"lengthInCm": 7,
+											"widthInCm": 7,
+											"heightInCm": 7,
+											"volumeInCc": 343
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": ""
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 5,
+											"quantityLimitBreachedMessage": "Only 5 unit(s) of this item can be added per order."
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 100,
+										"volumetricWeight": 0,
+										"subCategoryType": "Curry Leaves",
+										"secondaryQuantityDescription": "50 - 60 g",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Fresh & aromatic, seasoning for tempering dishes",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/2dc20cd1-f28e-442f-8a18-a242dd3635f3_5132_1.JPG",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/71759d86-cfa3-491b-a732-ff8f53ef9be6_5132_2.JPG",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/71e864e7-318c-4d75-ba37-7652a7ede595_5132_3.JPG",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/5b51bff6-ac0b-4e77-9c0c-8d499880b3df_5132_4.JPG",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									}
+								],
+								"badges": [],
+								"source": "",
+								"analytics": {
+									"screenName": "",
+									"context": "{\"itemId\":\"0I7WN0X3J7\",\"slotAvailability\":true}",
+									"objectValue": "",
+									"impressionObjectName": "item-impression",
+									"clickObjectName": "click-item",
+									"attributionContext": "",
+									"extraFields": {
+										"skuAvailable": "true",
+										"storeIDflag": "PRIMARY"
+									},
+									"position": 0
+								},
+								"productId": "9BAIIO3PVQ",
+								"showQuantity": false,
+								"adTrackingContext": "",
+								"parentProductId": "E9CT9SNUGI",
+								"listingVariantInfo": null,
+								"imageBackground": null
+							},
+							{
+								"displayName": "Garlic (Bellulli)",
+								"brand": "Fruits & Vegetables Category",
+								"inStock": true,
+								"isAvail": true,
+								"variations": [
+									{
+										"skuId": "PW5NCFI1X7",
+										"spinId": "F0RMX23SIZ",
+										"quantityDescription": "200 g",
+										"displayName": "Garlic (Bellulli)",
+										"brandName": "Fruits & Vegetables Category",
+										"imageIds": [
+											"c956f32da8c49433c640707526a346e5",
+											"eslowszr2ycjjhyoulqy",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/da067f32-feb9-4ece-8ae5-276935025fc6_1074_3.jpg",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/3a0f32e4-91e3-40c2-a334-916f25018e3e_1074_4.jpg"
+										],
+										"listingVariant": true,
+										"superSaver": false,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "63",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "50",
+												"nanos": 0
+											},
+											"unitLevelPrice": "",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "13",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "20% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "20% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Vegetables",
+										"dimensions": {
+											"lengthInCm": 9,
+											"widthInCm": 8,
+											"heightInCm": 3,
+											"volumeInCc": 216
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": ""
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 5,
+											"quantityLimitBreachedMessage": "Only 5 unit(s) of this item can be added per order."
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 200,
+										"volumetricWeight": 0,
+										"subCategoryType": "Garlic",
+										"secondaryQuantityDescription": "",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Fresh & ready, immunity booster, for curries & soups",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "c956f32da8c49433c640707526a346e5",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "eslowszr2ycjjhyoulqy",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/da067f32-feb9-4ece-8ae5-276935025fc6_1074_3.jpg",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/3a0f32e4-91e3-40c2-a334-916f25018e3e_1074_4.jpg",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									}
+								],
+								"badges": [],
+								"source": "",
+								"analytics": {
+									"screenName": "",
+									"context": "{\"itemId\":\"PW5NCFI1X7\",\"slotAvailability\":true}",
+									"objectValue": "",
+									"impressionObjectName": "item-impression",
+									"clickObjectName": "click-item",
+									"attributionContext": "",
+									"extraFields": {
+										"skuAvailable": "true",
+										"storeIDflag": "PRIMARY"
+									},
+									"position": 0
+								},
+								"productId": "CJ7W227AZE",
+								"showQuantity": false,
+								"adTrackingContext": "",
+								"parentProductId": "AHFV9JKU84",
+								"listingVariantInfo": null,
+								"imageBackground": null
+							},
+							{
+								"displayName": "Beetroot",
+								"brand": "Fruits & Vegetables Category",
+								"inStock": true,
+								"isAvail": true,
+								"variations": [
+									{
+										"skuId": "HQM1G2D443",
+										"spinId": "JK9DBBC4GW",
+										"quantityDescription": "500 g",
+										"displayName": "Beetroot",
+										"brandName": "Fruits & Vegetables Category",
+										"imageIds": [
+											"NI_CATALOG/IMAGES/CIW/2025/12/29/da103519-97a6-4a3c-8b83-0b3700fcedd7_1013_1.png"
+										],
+										"listingVariant": true,
+										"superSaver": false,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "25",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "21",
+												"nanos": 0
+											},
+											"unitLevelPrice": "",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "4",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "16% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "16% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Vegetables",
+										"dimensions": {
+											"lengthInCm": 7,
+											"widthInCm": 7,
+											"heightInCm": 7,
+											"volumeInCc": 343
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": ""
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 5,
+											"quantityLimitBreachedMessage": "Only 5 unit(s) of this item can be added per order."
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 500,
+										"volumetricWeight": 0,
+										"subCategoryType": "Beetroot",
+										"secondaryQuantityDescription": "",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Rich in iron, earthy sweetness, ideal for salads/sides",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2025/12/29/da103519-97a6-4a3c-8b83-0b3700fcedd7_1013_1.png",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									}
+								],
+								"badges": [],
+								"source": "",
+								"analytics": {
+									"screenName": "",
+									"context": "{\"itemId\":\"HQM1G2D443\",\"slotAvailability\":true}",
+									"objectValue": "",
+									"impressionObjectName": "item-impression",
+									"clickObjectName": "click-item",
+									"attributionContext": "",
+									"extraFields": {
+										"skuAvailable": "true",
+										"storeIDflag": "PRIMARY"
+									},
+									"position": 0
+								},
+								"productId": "QY3LA3QLL3",
+								"showQuantity": false,
+								"adTrackingContext": "",
+								"parentProductId": "7UPKK73V0A",
+								"listingVariantInfo": null,
+								"imageBackground": null
+							},
+							{
+								"displayName": "English Cucumber (Sowthekaayi)",
+								"brand": "Fruits & Vegetables Category",
+								"inStock": true,
+								"isAvail": true,
+								"variations": [
+									{
+										"skuId": "LR9S8RLU4V",
+										"spinId": "M81OWJ2782",
+										"quantityDescription": "1 Pack x 2",
+										"displayName": "English Cucumber (Sowthekaayi)",
+										"brandName": "Fruits & Vegetables Category",
+										"imageIds": [
+											"NI_CATALOG/IMAGES/CIW/2026/6/22/af82b881-5394-4d98-a2da-156054108c47_26460_1.png",
+											"34a0653963eb122951a3cf144ee32017"
+										],
+										"listingVariant": false,
+										"superSaver": true,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "56",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "46",
+												"nanos": 0
+											},
+											"unitLevelPrice": "23/pack",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "10",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "17% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "17% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Vegetables",
+										"dimensions": {
+											"lengthInCm": 7,
+											"widthInCm": 7,
+											"heightInCm": 7,
+											"volumeInCc": 343
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": ""
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 3,
+											"quantityLimitBreachedMessage": "Only 3 unit(s) of this item can be added per order."
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 1000,
+										"volumetricWeight": 0,
+										"subCategoryType": "Cucumber",
+										"secondaryQuantityDescription": "",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Crisp, no seeds & perfect in salads or detox drinks",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/6/22/af82b881-5394-4d98-a2da-156054108c47_26460_1.png",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "34a0653963eb122951a3cf144ee32017",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									},
+									{
+										"skuId": "PC4QCBLO0P",
+										"spinId": "V7INJOLGVI",
+										"quantityDescription": "1 Pack",
+										"displayName": "English Cucumber (Sowthekaayi)",
+										"brandName": "Fruits & Vegetables Category",
+										"imageIds": [
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/66613c9a-78a5-4ad8-b91f-38240a72e383_7821_1.jpg",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/6fe1e927-4dd0-43fd-bc71-9a1ab8bdff5d_7821_2.jpg",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/36cedeb1-8042-4b39-9d2a-7dfb7c4d9c2b_7821_3.jpg",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/8a9d1ba1-e209-484c-8b94-d04161294e77_7821_4.jpg"
+										],
+										"listingVariant": true,
+										"superSaver": false,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "28",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "24",
+												"nanos": 0
+											},
+											"unitLevelPrice": "",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "4",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "14% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "14% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Vegetables",
+										"dimensions": {
+											"lengthInCm": 17,
+											"widthInCm": 16,
+											"heightInCm": 3,
+											"volumeInCc": 816
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": ""
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 5,
+											"quantityLimitBreachedMessage": "Only 5 unit(s) of this item can be added per order."
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 500,
+										"volumetricWeight": 0,
+										"subCategoryType": "Cucumber",
+										"secondaryQuantityDescription": "550 - 600 g",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Crisp, no seeds & perfect in salads or detox drinks",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/66613c9a-78a5-4ad8-b91f-38240a72e383_7821_1.jpg",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/6fe1e927-4dd0-43fd-bc71-9a1ab8bdff5d_7821_2.jpg",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/36cedeb1-8042-4b39-9d2a-7dfb7c4d9c2b_7821_3.jpg",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/8a9d1ba1-e209-484c-8b94-d04161294e77_7821_4.jpg",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									}
+								],
+								"badges": [],
+								"source": "",
+								"analytics": {
+									"screenName": "",
+									"context": "{\"itemId\":\"PC4QCBLO0P\",\"slotAvailability\":true}",
+									"objectValue": "",
+									"impressionObjectName": "item-impression",
+									"clickObjectName": "click-item",
+									"attributionContext": "",
+									"extraFields": {
+										"skuAvailable": "true",
+										"storeIDflag": "PRIMARY"
+									},
+									"position": 0
+								},
+								"productId": "T8NZBV082Q",
+								"showQuantity": false,
+								"adTrackingContext": "",
+								"parentProductId": "FQ3V46QCZJ",
+								"listingVariantInfo": null,
+								"imageBackground": null
+							},
+							{
+								"displayName": "Carrot",
+								"brand": "Fruits & Vegetables Category",
+								"inStock": true,
+								"isAvail": true,
+								"variations": [
+									{
+										"skuId": "A79A7C1YHD",
+										"spinId": "1I3NBBSNYU",
+										"quantityDescription": "500 g",
+										"displayName": "Carrot",
+										"brandName": "Fruits & Vegetables Category",
+										"imageIds": [
+											"NI_CATALOG/IMAGES/CIW/2025/12/9/035bcbdc-64fa-4a91-a272-2189156c9e10_1036_1.png"
+										],
+										"listingVariant": true,
+										"superSaver": false,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "58",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "46",
+												"nanos": 0
+											},
+											"unitLevelPrice": "",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "12",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "20% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "20% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Vegetables",
+										"dimensions": {
+											"lengthInCm": 19,
+											"widthInCm": 14,
+											"heightInCm": 2,
+											"volumeInCc": 532
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": ""
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 5,
+											"quantityLimitBreachedMessage": "Only 5 unit(s) of this item can be added per order."
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 500,
+										"volumetricWeight": 0,
+										"subCategoryType": "Carrot",
+										"secondaryQuantityDescription": "",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Crunchy, vitamin-packed & perfect raw or cooked",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2025/12/9/035bcbdc-64fa-4a91-a272-2189156c9e10_1036_1.png",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									}
+								],
+								"badges": [],
+								"source": "",
+								"analytics": {
+									"screenName": "",
+									"context": "{\"itemId\":\"A79A7C1YHD\",\"slotAvailability\":true}",
+									"objectValue": "",
+									"impressionObjectName": "item-impression",
+									"clickObjectName": "click-item",
+									"attributionContext": "",
+									"extraFields": {
+										"skuAvailable": "true",
+										"storeIDflag": "PRIMARY"
+									},
+									"position": 0
+								},
+								"productId": "EMX5WPEN6C",
+								"showQuantity": false,
+								"adTrackingContext": "",
+								"parentProductId": "J1BSQVN67N",
+								"listingVariantInfo": null,
+								"imageBackground": null
+							},
+							{
+								"displayName": "Garlic Peeled by Urban Harvest",
+								"brand": "Fruits & Vegetables Category",
+								"inStock": true,
+								"isAvail": true,
+								"variations": [
+									{
+										"skuId": "OU91VWMGB8",
+										"spinId": "SAN1ODJ2XY",
+										"quantityDescription": "100 g",
+										"displayName": "Garlic Peeled by Urban Harvest",
+										"brandName": "Fruits & Vegetables Category",
+										"imageIds": [
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/55e32eb1-8001-4111-8472-7dddbb3b5229_1069_1.JPG",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/beb02300-bf9a-4d86-b319-67e160ea00b8_1069_2.JPG",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/00ac92b0-ddf7-4184-aa4b-c585968a1401_1069_3.JPG",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/38d60608-b818-444b-8878-b9b047b0ffbd_1069_4.JPG"
+										],
+										"listingVariant": true,
+										"superSaver": false,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "75",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "60",
+												"nanos": 0
+											},
+											"unitLevelPrice": "",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "15",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "20% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "20% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Vegetables",
+										"dimensions": {
+											"lengthInCm": 3,
+											"widthInCm": 9,
+											"heightInCm": 8,
+											"volumeInCc": 216
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": ""
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 5,
+											"quantityLimitBreachedMessage": "Only 5 unit(s) of this item can be added per order."
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 100,
+										"volumetricWeight": 0,
+										"subCategoryType": "Garlic",
+										"secondaryQuantityDescription": "",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Fresh & ready, immunity booster, for curries & soups",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/55e32eb1-8001-4111-8472-7dddbb3b5229_1069_1.JPG",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/beb02300-bf9a-4d86-b319-67e160ea00b8_1069_2.JPG",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/00ac92b0-ddf7-4184-aa4b-c585968a1401_1069_3.JPG",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/38d60608-b818-444b-8878-b9b047b0ffbd_1069_4.JPG",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									}
+								],
+								"badges": [],
+								"source": "",
+								"analytics": {
+									"screenName": "",
+									"context": "{\"itemId\":\"OU91VWMGB8\",\"slotAvailability\":true}",
+									"objectValue": "",
+									"impressionObjectName": "item-impression",
+									"clickObjectName": "click-item",
+									"attributionContext": "",
+									"extraFields": {
+										"skuAvailable": "true",
+										"storeIDflag": "PRIMARY"
+									},
+									"position": 0
+								},
+								"productId": "6PDYOGP9T8",
+								"showQuantity": false,
+								"adTrackingContext": "",
+								"parentProductId": "NAVEG1CTAI",
+								"listingVariantInfo": null,
+								"imageBackground": null
+							},
+							{
+								"displayName": "Cabbage (Yelekosu)",
+								"brand": "Fruits & Vegetables Category",
+								"inStock": true,
+								"isAvail": true,
+								"variations": [
+									{
+										"skuId": "GLR1WZYNNO",
+										"spinId": "9VMC2NN0US",
+										"quantityDescription": "1 Small",
+										"displayName": "Cabbage (Yelekosu)",
+										"brandName": "Fruits & Vegetables Category",
+										"imageIds": [
+											"NI_CATALOG/IMAGES/CIW/2026/6/22/36a38d53-a2c2-4b38-87c9-e8aab9ce6465_99610_1.jpg",
+											"NI_CATALOG/IMAGES/CIW/2024/3/7/cd2bed86-f754-45c8-898d-4cf741b88832_freshvegetables_9VMC2NN0US_AL1.png",
+											"NI_CATALOG/IMAGES/CIW/2024/3/7/4d4a3a74-e797-4773-8fa3-9ad63b7399e9_freshvegetables_9VMC2NN0US_AL2.png"
+										],
+										"listingVariant": true,
+										"superSaver": false,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "53",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "44",
+												"nanos": 0
+											},
+											"unitLevelPrice": "",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "9",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "16% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "16% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Vegetables",
+										"dimensions": {
+											"lengthInCm": 22,
+											"widthInCm": 10,
+											"heightInCm": 21,
+											"volumeInCc": 4620
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": ""
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 5,
+											"quantityLimitBreachedMessage": "That’s all we have in stock at the moment!"
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 1,
+										"volumetricWeight": 0,
+										"subCategoryType": "Cabbage",
+										"secondaryQuantityDescription": "300 - 500 g",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Sweet, soft leaves perfect for light meals",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/6/22/36a38d53-a2c2-4b38-87c9-e8aab9ce6465_99610_1.jpg",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2024/3/7/cd2bed86-f754-45c8-898d-4cf741b88832_freshvegetables_9VMC2NN0US_AL1.png",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2024/3/7/4d4a3a74-e797-4773-8fa3-9ad63b7399e9_freshvegetables_9VMC2NN0US_AL2.png",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									}
+								],
+								"badges": [],
+								"source": "",
+								"analytics": {
+									"screenName": "",
+									"context": "{\"itemId\":\"GLR1WZYNNO\",\"slotAvailability\":true}",
+									"objectValue": "",
+									"impressionObjectName": "item-impression",
+									"clickObjectName": "click-item",
+									"attributionContext": "",
+									"extraFields": {
+										"skuAvailable": "true",
+										"storeIDflag": "PRIMARY"
+									},
+									"position": 0
+								},
+								"productId": "OJ3BOLQ7JF",
+								"showQuantity": false,
+								"adTrackingContext": "",
+								"parentProductId": "ALTGX7AZBT",
+								"listingVariantInfo": null,
+								"imageBackground": null
+							},
+							{
+								"displayName": "French Beans (Bili Hurulikaayi)",
+								"brand": "Fruits & Vegetables Category",
+								"inStock": true,
+								"isAvail": true,
+								"variations": [
+									{
+										"skuId": "83HFYHTP5T",
+										"spinId": "JJYFAYX8AH",
+										"quantityDescription": "250 g x 2",
+										"displayName": "French Beans (Bili Hurulikaayi)",
+										"brandName": "Fruits & Vegetables Category",
+										"imageIds": [
+											"cf1faf72f6945dada7ffccf44a98ca01",
+											"7b2256bc7f66a8ab65173866c7c8d7e1"
+										],
+										"listingVariant": false,
+										"superSaver": false,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "80",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "62",
+												"nanos": 0
+											},
+											"unitLevelPrice": "12.4/100 g",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "18",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "22% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "22% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Vegetables",
+										"dimensions": {
+											"lengthInCm": 7,
+											"widthInCm": 7,
+											"heightInCm": 7,
+											"volumeInCc": 343
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": "Available till 9 PM"
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 3,
+											"quantityLimitBreachedMessage": "That’s all we have in stock at the moment!"
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 500,
+										"volumetricWeight": 0,
+										"subCategoryType": "Beans",
+										"secondaryQuantityDescription": "",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Crisp, fiber-rich & great for dry sabzis",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "cf1faf72f6945dada7ffccf44a98ca01",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "7b2256bc7f66a8ab65173866c7c8d7e1",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									},
+									{
+										"skuId": "I2K0KDQP2U",
+										"spinId": "BR1WMWX8M6",
+										"quantityDescription": "250 g",
+										"displayName": "French Beans (Bili Hurulikaayi)",
+										"brandName": "Fruits & Vegetables Category",
+										"imageIds": [
+											"NI_CATALOG/IMAGES/CIW/2026/4/2/5cd854ba-f4ac-41b8-9aa9-0ef810610a5b_2610.png",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/75359af9-195e-4672-9893-6203d3d61d7f_2610_2.jpg",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/49f2acbd-d8a3-458e-ab11-14e7505554e5_2610_3.JPG",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/4268f63e-5ea1-49aa-820b-25fa67e570aa_2610_4.JPG"
+										],
+										"listingVariant": true,
+										"superSaver": false,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "40",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "32",
+												"nanos": 0
+											},
+											"unitLevelPrice": "12.8/100 g",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "8",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "20% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "20% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Vegetables",
+										"dimensions": {
+											"lengthInCm": 7,
+											"widthInCm": 7,
+											"heightInCm": 7,
+											"volumeInCc": 343
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": "Available till 9 PM"
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 5,
+											"quantityLimitBreachedMessage": "Only 5 unit(s) of this item can be added per order."
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 250,
+										"volumetricWeight": 0,
+										"subCategoryType": "Beans",
+										"secondaryQuantityDescription": "",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Crisp, fiber-rich & great for dry sabzis",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/4/2/5cd854ba-f4ac-41b8-9aa9-0ef810610a5b_2610.png",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/75359af9-195e-4672-9893-6203d3d61d7f_2610_2.jpg",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/49f2acbd-d8a3-458e-ab11-14e7505554e5_2610_3.JPG",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/4268f63e-5ea1-49aa-820b-25fa67e570aa_2610_4.JPG",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									}
+								],
+								"badges": [],
+								"source": "",
+								"analytics": {
+									"screenName": "",
+									"context": "{\"itemId\":\"I2K0KDQP2U\",\"slotAvailability\":true}",
+									"objectValue": "",
+									"impressionObjectName": "item-impression",
+									"clickObjectName": "click-item",
+									"attributionContext": "",
+									"extraFields": {
+										"skuAvailable": "true",
+										"storeIDflag": "PRIMARY"
+									},
+									"position": 0
+								},
+								"productId": "GYZQB43AGT",
+								"showQuantity": false,
+								"adTrackingContext": "",
+								"parentProductId": "IC55FVHO2P",
+								"listingVariantInfo": null,
+								"imageBackground": null
+							},
+							{
+								"displayName": "Ginger (Shunti)",
+								"brand": "Fruits & Vegetables Category",
+								"inStock": true,
+								"isAvail": true,
+								"variations": [
+									{
+										"skuId": "XHSJKV2MZJ",
+										"spinId": "410ACHP4RV",
+										"quantityDescription": "200 g",
+										"displayName": "Ginger (Shunti)",
+										"brandName": "Fruits & Vegetables Category",
+										"imageIds": [
+											"NI_CATALOG/IMAGES/CIW/2024/11/29/d5d7ccb9-05a8-42b9-a1bc-1a552bbabd2c_666976.jpg",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/0408d8f7-7efe-4c0c-a897-54f10583f7d0_3795_2.jpg",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/f85a57d7-a336-4daa-9809-38e7f0911d7f_3795_3.jpg",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/d466a445-d441-4608-bf8f-828c4899c4fa_3795_4.jpg"
+										],
+										"listingVariant": true,
+										"superSaver": false,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "41",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "39",
+												"nanos": 0
+											},
+											"unitLevelPrice": "",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "2",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "4% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "4% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Leafy and Seasonings",
+										"dimensions": {
+											"lengthInCm": 7,
+											"widthInCm": 7,
+											"heightInCm": 7,
+											"volumeInCc": 343
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": ""
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 5,
+											"quantityLimitBreachedMessage": "Only 5 unit(s) of this item can be added per order."
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 200,
+										"volumetricWeight": 0,
+										"subCategoryType": "Ginger",
+										"secondaryQuantityDescription": "",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Anti-inflammatory, boosts immunity, for teas/curries",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2024/11/29/d5d7ccb9-05a8-42b9-a1bc-1a552bbabd2c_666976.jpg",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/0408d8f7-7efe-4c0c-a897-54f10583f7d0_3795_2.jpg",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/f85a57d7-a336-4daa-9809-38e7f0911d7f_3795_3.jpg",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/d466a445-d441-4608-bf8f-828c4899c4fa_3795_4.jpg",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									}
+								],
+								"badges": [],
+								"source": "",
+								"analytics": {
+									"screenName": "",
+									"context": "{\"itemId\":\"XHSJKV2MZJ\",\"slotAvailability\":true}",
+									"objectValue": "",
+									"impressionObjectName": "item-impression",
+									"clickObjectName": "click-item",
+									"attributionContext": "",
+									"extraFields": {
+										"skuAvailable": "true",
+										"storeIDflag": "PRIMARY"
+									},
+									"position": 0
+								},
+								"productId": "0FYKU31E4B",
+								"showQuantity": false,
+								"adTrackingContext": "",
+								"parentProductId": "TA28GGRU1L",
+								"listingVariantInfo": null,
+								"imageBackground": null
+							},
+							{
+								"displayName": "Bottle Gourd (Sorekaayi)",
+								"brand": "Fruits & Vegetables Category",
+								"inStock": true,
+								"isAvail": true,
+								"variations": [
+									{
+										"skuId": "A34QZ9V75V",
+										"spinId": "IORXJKJQ9F",
+										"quantityDescription": "1 Medium",
+										"displayName": "Bottle Gourd (Sorekaayi)",
+										"brandName": "Fruits & Vegetables Category",
+										"imageIds": [
+											"NI_CATALOG/IMAGES/ciw/2025/12/19/8d0055a3-9316-4c71-bbc9-55a90e5a5221_IORXJKJQ9F_MN_18122025.png",
+											"d4886939727436651f47e03991f4c56f"
+										],
+										"listingVariant": true,
+										"superSaver": false,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "29",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "24",
+												"nanos": 0
+											},
+											"unitLevelPrice": "",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "5",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "17% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "17% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Vegetables",
+										"dimensions": {
+											"lengthInCm": 30,
+											"widthInCm": 6,
+											"heightInCm": 5,
+											"volumeInCc": 900
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": ""
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 5,
+											"quantityLimitBreachedMessage": "Only 5 unit(s) of this item can be added per order."
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 800,
+										"volumetricWeight": 0,
+										"subCategoryType": "Gourd",
+										"secondaryQuantityDescription": "500 - 800 g",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Cooling, soft & best for curries or halwa",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "NI_CATALOG/IMAGES/ciw/2025/12/19/8d0055a3-9316-4c71-bbc9-55a90e5a5221_IORXJKJQ9F_MN_18122025.png",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "d4886939727436651f47e03991f4c56f",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									},
+									{
+										"skuId": "2MX1T6SUVA",
+										"spinId": "0R18CKMQ2W",
+										"quantityDescription": "1 Small",
+										"displayName": "Bottle Gourd (Sorekaayi)",
+										"brandName": "Fruits & Vegetables Category",
+										"imageIds": [
+											"NI_CATALOG/IMAGES/ciw/2025/11/20/906a6cbb-82d5-40f4-aa07-5be39d01b29f_0R18CKMQ2W_MN_20112025.jpg",
+											"0f7ff1453ec62b8e85cc3396ad477aec"
+										],
+										"listingVariant": false,
+										"superSaver": false,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "26",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "22",
+												"nanos": 0
+											},
+											"unitLevelPrice": "",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "4",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "15% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "15% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Vegetables",
+										"dimensions": {
+											"lengthInCm": 22,
+											"widthInCm": 10,
+											"heightInCm": 21,
+											"volumeInCc": 4620
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": ""
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 5,
+											"quantityLimitBreachedMessage": "Only 5 unit(s) of this item can be added per order."
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 1,
+										"volumetricWeight": 0,
+										"subCategoryType": "Gourd",
+										"secondaryQuantityDescription": "300 - 500 g",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Light, hydrating & perfect for soups or halwa",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "NI_CATALOG/IMAGES/ciw/2025/11/20/906a6cbb-82d5-40f4-aa07-5be39d01b29f_0R18CKMQ2W_MN_20112025.jpg",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "0f7ff1453ec62b8e85cc3396ad477aec",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									}
+								],
+								"badges": [],
+								"source": "",
+								"analytics": {
+									"screenName": "",
+									"context": "{\"itemId\":\"A34QZ9V75V\",\"slotAvailability\":true}",
+									"objectValue": "",
+									"impressionObjectName": "item-impression",
+									"clickObjectName": "click-item",
+									"attributionContext": "",
+									"extraFields": {
+										"skuAvailable": "true",
+										"storeIDflag": "PRIMARY"
+									},
+									"position": 0
+								},
+								"productId": "W3LA7AN0IS",
+								"showQuantity": false,
+								"adTrackingContext": "",
+								"parentProductId": "I8C67NF2TL",
+								"listingVariantInfo": null,
+								"imageBackground": null
+							},
+							{
+								"displayName": "Drumstick (Nuggekaayi)",
+								"brand": "Fruits & Vegetables Category",
+								"inStock": true,
+								"isAvail": true,
+								"variations": [
+									{
+										"skuId": "W7UTCJOF0D",
+										"spinId": "UAB0VDU03S",
+										"quantityDescription": "2 Pieces x 2",
+										"displayName": "Drumstick (Nuggekaayi)",
+										"brandName": "Fruits & Vegetables Category",
+										"imageIds": [
+											"NI_CATALOG/IMAGES/ciw/2025/11/20/f2a48231-6797-4ca2-a058-ebb3887950d1_BSOD4CRA3H_MN_20112025.jpg",
+											"b6be90a331c902fa63eef3c09112d05c"
+										],
+										"listingVariant": false,
+										"superSaver": false,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "62",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "48",
+												"nanos": 0
+											},
+											"unitLevelPrice": "12/piece",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "14",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "22% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "22% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Vegetables",
+										"dimensions": {
+											"lengthInCm": 52,
+											"widthInCm": 19,
+											"heightInCm": 1,
+											"volumeInCc": 988
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": ""
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 3,
+											"quantityLimitBreachedMessage": "Only 3 unit(s) of this item can be added per order."
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 400,
+										"volumetricWeight": 0,
+										"subCategoryType": "Drumstick",
+										"secondaryQuantityDescription": "160 - 280 g",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Nutrient-rich moringa pods, perfect for sambar & Soups!",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "NI_CATALOG/IMAGES/ciw/2025/11/20/f2a48231-6797-4ca2-a058-ebb3887950d1_BSOD4CRA3H_MN_20112025.jpg",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "b6be90a331c902fa63eef3c09112d05c",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									},
+									{
+										"skuId": "K4YRFO1MLC",
+										"spinId": "7HJR4TB1XT",
+										"quantityDescription": "2 Pieces",
+										"displayName": "Drumstick (Nuggekaayi)",
+										"brandName": "Fruits & Vegetables Category",
+										"imageIds": [
+											"NI_CATALOG/IMAGES/ciw/2025/11/20/f2a48231-6797-4ca2-a058-ebb3887950d1_BSOD4CRA3H_MN_20112025.jpg",
+											"b6be90a331c902fa63eef3c09112d05c"
+										],
+										"listingVariant": true,
+										"superSaver": false,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "31",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "25",
+												"nanos": 0
+											},
+											"unitLevelPrice": "12.5/piece",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "6",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "19% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "19% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Vegetables",
+										"dimensions": {
+											"lengthInCm": 52,
+											"widthInCm": 19,
+											"heightInCm": 1,
+											"volumeInCc": 988
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": ""
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 5,
+											"quantityLimitBreachedMessage": "Only 5 unit(s) of this item can be added per order."
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 200,
+										"volumetricWeight": 0,
+										"subCategoryType": "Drumstick",
+										"secondaryQuantityDescription": "80 - 140 g",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Nutrient-rich moringa pods, perfect for sambar & Soups!",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "NI_CATALOG/IMAGES/ciw/2025/11/20/f2a48231-6797-4ca2-a058-ebb3887950d1_BSOD4CRA3H_MN_20112025.jpg",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "b6be90a331c902fa63eef3c09112d05c",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									}
+								],
+								"badges": [],
+								"source": "",
+								"analytics": {
+									"screenName": "",
+									"context": "{\"itemId\":\"K4YRFO1MLC\",\"slotAvailability\":true}",
+									"objectValue": "",
+									"impressionObjectName": "item-impression",
+									"clickObjectName": "click-item",
+									"attributionContext": "",
+									"extraFields": {
+										"skuAvailable": "true",
+										"storeIDflag": "PRIMARY"
+									},
+									"position": 0
+								},
+								"productId": "7DHHBWWGJL",
+								"showQuantity": false,
+								"adTrackingContext": "",
+								"parentProductId": "XE7J4XVIKQ",
+								"listingVariantInfo": null,
+								"imageBackground": null
+							},
+							{
+								"displayName": "Spinach (Palak Soppu)",
+								"brand": "Fruits & Vegetables Category",
+								"inStock": true,
+								"isAvail": true,
+								"variations": [
+									{
+										"skuId": "A3DYNZVQSQ",
+										"spinId": "89OQOW4CVY",
+										"quantityDescription": "1 Bunch x 2",
+										"displayName": "Spinach (Palak Soppu)",
+										"brandName": "Fruits & Vegetables Category",
+										"imageIds": [
+											"NI_CATALOG/IMAGES/CIW/2026/6/22/eb297988-cff6-43b0-8e85-8ccdf5cc6ee0_5588_1.png",
+											"NI_CATALOG/IMAGES/CIW/2024/8/27/54090e88-f5aa-4476-9357-019c40cf607f_1120_2.png"
+										],
+										"listingVariant": false,
+										"superSaver": true,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "76",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "58",
+												"nanos": 0
+											},
+											"unitLevelPrice": "29/bunch",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "18",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "23% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "23% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Leafy and Seasonings",
+										"dimensions": {
+											"lengthInCm": 7,
+											"widthInCm": 7,
+											"heightInCm": 7,
+											"volumeInCc": 343
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": ""
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 3,
+											"quantityLimitBreachedMessage": "Only 3 unit(s) of this item can be added per order."
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 200,
+										"volumetricWeight": 0,
+										"subCategoryType": "Spinach",
+										"secondaryQuantityDescription": "500 - 600 g",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Iron-rich, tender, perfect for curries & soups",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/6/22/eb297988-cff6-43b0-8e85-8ccdf5cc6ee0_5588_1.png",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2024/8/27/54090e88-f5aa-4476-9357-019c40cf607f_1120_2.png",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									},
+									{
+										"skuId": "VF62PJ4MXV",
+										"spinId": "P8K29LROTT",
+										"quantityDescription": "1 Bunch",
+										"displayName": "Spinach (Palak Soppu)",
+										"brandName": "Fruits & Vegetables Category",
+										"imageIds": [
+											"7faac0b9ed58f4e7306646613d92a42a.png",
+											"952b389ba173f94736477c5b8674f7bb"
+										],
+										"listingVariant": true,
+										"superSaver": false,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "38",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "30",
+												"nanos": 0
+											},
+											"unitLevelPrice": "",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "8",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "21% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "21% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Leafy and Seasonings",
+										"dimensions": {
+											"lengthInCm": 30,
+											"widthInCm": 28,
+											"heightInCm": 2,
+											"volumeInCc": 1680
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": ""
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 5,
+											"quantityLimitBreachedMessage": "Only 5 unit(s) of this item can be added per order."
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 100,
+										"volumetricWeight": 0,
+										"subCategoryType": "Spinach",
+										"secondaryQuantityDescription": "250 - 300 g",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Iron-rich, tender, perfect for curries & soups",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "7faac0b9ed58f4e7306646613d92a42a.png",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "952b389ba173f94736477c5b8674f7bb",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									}
+								],
+								"badges": [],
+								"source": "",
+								"analytics": {
+									"screenName": "",
+									"context": "{\"itemId\":\"VF62PJ4MXV\",\"slotAvailability\":true}",
+									"objectValue": "",
+									"impressionObjectName": "item-impression",
+									"clickObjectName": "click-item",
+									"attributionContext": "",
+									"extraFields": {
+										"skuAvailable": "true",
+										"storeIDflag": "PRIMARY"
+									},
+									"position": 0
+								},
+								"productId": "CVCRRBZ9T2",
+								"showQuantity": false,
+								"adTrackingContext": "",
+								"parentProductId": "JKPRC55K39",
+								"listingVariantInfo": null,
+								"imageBackground": null
+							},
+							{
+								"displayName": "Cauliflower (Hoo Kosu)",
+								"brand": "Fruits & Vegetables Category",
+								"inStock": true,
+								"isAvail": true,
+								"variations": [
+									{
+										"skuId": "ZF9UTU83O4",
+										"spinId": "A7ZROR2XFK",
+										"quantityDescription": "1 Medium x 2",
+										"displayName": "Cauliflower (Hoo Kosu)",
+										"brandName": "Fruits & Vegetables Category",
+										"imageIds": [
+											"d09c188edec2c8652bc56594b7ae57af",
+											"2ef0c61dab6809a963ccf52510ce8da2"
+										],
+										"listingVariant": false,
+										"superSaver": false,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "76",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "60",
+												"nanos": 0
+											},
+											"unitLevelPrice": "",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "16",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "21% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "21% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Vegetables",
+										"dimensions": {
+											"lengthInCm": 22,
+											"widthInCm": 15,
+											"heightInCm": 10,
+											"volumeInCc": 3300
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": ""
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 1,
+											"quantityLimitBreachedMessage": "That’s all we have in stock at the moment!"
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 1500,
+										"volumetricWeight": 0,
+										"subCategoryType": "Cauliflower",
+										"secondaryQuantityDescription": "800 - 1200 g",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Snow-white florets, perfect for curries & roasts!",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "d09c188edec2c8652bc56594b7ae57af",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "2ef0c61dab6809a963ccf52510ce8da2",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									},
+									{
+										"skuId": "JPOIK6AB1H",
+										"spinId": "83LGOV07TC",
+										"quantityDescription": "1 Medium",
+										"displayName": "Cauliflower (Hoo Kosu)",
+										"brandName": "Fruits & Vegetables Category",
+										"imageIds": [
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/ebcc6bec-d4a6-4d6e-8b11-6a53296a592d_1037_1.JPG",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/a9810743-8d02-4594-b16c-8e455a434932_1037_2.JPG",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/a75499ff-d88c-447c-95d1-025f6e249b84_1037_3.JPG",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/2040f87a-c511-41b3-81ad-52ff47542a37_1037_4.JPG"
+										],
+										"listingVariant": true,
+										"superSaver": false,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "38",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "31",
+												"nanos": 0
+											},
+											"unitLevelPrice": "",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "7",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "18% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "18% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Vegetables",
+										"dimensions": {
+											"lengthInCm": 22,
+											"widthInCm": 15,
+											"heightInCm": 10,
+											"volumeInCc": 3300
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": ""
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 3,
+											"quantityLimitBreachedMessage": "That’s all we have in stock at the moment!"
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 750,
+										"volumetricWeight": 0,
+										"subCategoryType": "Cauliflower",
+										"secondaryQuantityDescription": "400 - 600g",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Snow-white florets, perfect for curries & roasts!",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/ebcc6bec-d4a6-4d6e-8b11-6a53296a592d_1037_1.JPG",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/a9810743-8d02-4594-b16c-8e455a434932_1037_2.JPG",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/a75499ff-d88c-447c-95d1-025f6e249b84_1037_3.JPG",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/2040f87a-c511-41b3-81ad-52ff47542a37_1037_4.JPG",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									}
+								],
+								"badges": [],
+								"source": "",
+								"analytics": {
+									"screenName": "",
+									"context": "{\"itemId\":\"JPOIK6AB1H\",\"slotAvailability\":true}",
+									"objectValue": "",
+									"impressionObjectName": "item-impression",
+									"clickObjectName": "click-item",
+									"attributionContext": "",
+									"extraFields": {
+										"skuAvailable": "true",
+										"storeIDflag": "PRIMARY"
+									},
+									"position": 0
+								},
+								"productId": "MHAMOSB40R",
+								"showQuantity": false,
+								"adTrackingContext": "",
+								"parentProductId": "2DW3ERMD64",
+								"listingVariantInfo": null,
+								"imageBackground": null
+							},
+							{
+								"displayName": "Raw Mango (Mavinakayi)",
+								"brand": "Fruits and Vegetables",
+								"inStock": true,
+								"isAvail": true,
+								"variations": [
+									{
+										"skuId": "AXT9HSIQJW",
+										"spinId": "F0U3TDGXWZ",
+										"quantityDescription": "2 Pieces",
+										"displayName": "Raw Mango (Mavinakayi)",
+										"brandName": "Fruits and Vegetables",
+										"imageIds": [
+											"NI_CATALOG/IMAGES/CIW/2026/6/22/9690734b-0362-41ad-a801-5aecdf7fbea2_6746_1.jpg"
+										],
+										"listingVariant": true,
+										"superSaver": false,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "63",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "50",
+												"nanos": 0
+											},
+											"unitLevelPrice": "",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "13",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "20% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "20% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Vegetables",
+										"dimensions": {
+											"lengthInCm": 7,
+											"widthInCm": 7,
+											"heightInCm": 7,
+											"volumeInCc": 343
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": ""
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 5,
+											"quantityLimitBreachedMessage": "That’s all we have in stock at the moment!"
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 400,
+										"volumetricWeight": 0,
+										"subCategoryType": "Raw Mango",
+										"secondaryQuantityDescription": "200 - 300 g",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Carbide Free",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/6/22/9690734b-0362-41ad-a801-5aecdf7fbea2_6746_1.jpg",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									}
+								],
+								"badges": [],
+								"source": "",
+								"analytics": {
+									"screenName": "",
+									"context": "{\"itemId\":\"AXT9HSIQJW\",\"slotAvailability\":true}",
+									"objectValue": "",
+									"impressionObjectName": "item-impression",
+									"clickObjectName": "click-item",
+									"attributionContext": "",
+									"extraFields": {
+										"skuAvailable": "true",
+										"storeIDflag": "PRIMARY"
+									},
+									"position": 0
+								},
+								"productId": "KY84E18T60",
+								"showQuantity": false,
+								"adTrackingContext": "",
+								"parentProductId": "6DMR9HBUS3",
+								"listingVariantInfo": null,
+								"imageBackground": null
+							},
+							{
+								"displayName": "Bharta Purple Brinjal (Badanekaayi)",
+								"brand": "Fruits & Vegetables Category",
+								"inStock": true,
+								"isAvail": true,
+								"variations": [
+									{
+										"skuId": "HFVV2NNDV8",
+										"spinId": "056AMI2WP9",
+										"quantityDescription": "1 Piece x 2",
+										"displayName": "Bharta Purple Brinjal (Badanekaayi)",
+										"brandName": "Fruits & Vegetables Category",
+										"imageIds": [
+											"NI_CATALOG/IMAGES/CIW/2026/1/13/f245f8b4-552d-4e83-a478-09ac941961ac_5589.png"
+										],
+										"listingVariant": false,
+										"superSaver": true,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "38",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "28",
+												"nanos": 0
+											},
+											"unitLevelPrice": "14/piece",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "10",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "26% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "26% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Vegetables",
+										"dimensions": {
+											"lengthInCm": 7,
+											"widthInCm": 7,
+											"heightInCm": 7,
+											"volumeInCc": 343
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": ""
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 3,
+											"quantityLimitBreachedMessage": "Only 3 unit(s) of this item can be added per order."
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 800,
+										"volumetricWeight": 0,
+										"subCategoryType": "Brinjal",
+										"secondaryQuantityDescription": "",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Rich, smoky flavor perfect for baingan bharta!",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/1/13/f245f8b4-552d-4e83-a478-09ac941961ac_5589.png",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									},
+									{
+										"skuId": "I6UZTYJ6SK",
+										"spinId": "SW2J07V5KK",
+										"quantityDescription": "1 Piece",
+										"displayName": "Bharta Purple Brinjal (Badanekaayi)",
+										"brandName": "Fruits & Vegetables Category",
+										"imageIds": [
+											"NI_CATALOG/IMAGES/CIW/2026/1/13/4c3730f5-abc6-40fa-aa99-f07af9b8a2f2_3967.png",
+											"bda9f02b09eff3f24a39850e933702b2"
+										],
+										"listingVariant": true,
+										"superSaver": false,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "19",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "15",
+												"nanos": 0
+											},
+											"unitLevelPrice": "",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "4",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "21% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "21% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Vegetables",
+										"dimensions": {
+											"lengthInCm": 7,
+											"widthInCm": 7,
+											"heightInCm": 7,
+											"volumeInCc": 343
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": ""
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 5,
+											"quantityLimitBreachedMessage": "Only 5 unit(s) of this item can be added per order."
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 400,
+										"volumetricWeight": 0,
+										"subCategoryType": "Brinjal",
+										"secondaryQuantityDescription": "",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Rich, smoky flavor perfect for baingan bharta!",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/1/13/4c3730f5-abc6-40fa-aa99-f07af9b8a2f2_3967.png",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "bda9f02b09eff3f24a39850e933702b2",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									}
+								],
+								"badges": [],
+								"source": "",
+								"analytics": {
+									"screenName": "",
+									"context": "{\"itemId\":\"I6UZTYJ6SK\",\"slotAvailability\":true}",
+									"objectValue": "",
+									"impressionObjectName": "item-impression",
+									"clickObjectName": "click-item",
+									"attributionContext": "",
+									"extraFields": {
+										"skuAvailable": "true",
+										"storeIDflag": "PRIMARY"
+									},
+									"position": 0
+								},
+								"productId": "WUG5SXPJGP",
+								"showQuantity": false,
+								"adTrackingContext": "",
+								"parentProductId": "MBVNYW54BL",
+								"listingVariantInfo": null,
+								"imageBackground": null
+							},
+							{
+								"displayName": "Organic Certified Green Chilli (Hasiru Menasinakaayi)",
+								"brand": "Fruits & Vegetables Category",
+								"inStock": true,
+								"isAvail": true,
+								"variations": [
+									{
+										"skuId": "B0G38MD70P",
+										"spinId": "TOUITKS4IO",
+										"quantityDescription": "100 g x 2",
+										"displayName": "Organic Certified Green Chilli (Hasiru Menasinakaayi)",
+										"brandName": "Fruits & Vegetables Category",
+										"imageIds": [
+											"NI_CATALOG/IMAGES/CIW/2026/1/21/81c0cb95-3121-4032-853c-e65c10db5c99_GreenChilli_1.png",
+											"NI_CATALOG/IMAGES/CIW/2026/1/21/8477681b-0a36-452a-a072-23192cc4cd37_GreenChilli_2.png",
+											"NI_CATALOG/IMAGES/CIW/2026/1/21/b9912f6b-bc6a-450e-a613-af3e663ac26e_GreenChilli_3.png",
+											"NI_CATALOG/IMAGES/CIW/2026/1/21/55a5d8dc-91a6-4d53-a4e4-c7b4b36ef4a8_GreenChilli_4.png",
+											"NI_CATALOG/IMAGES/CIW/2026/1/22/063a7de6-24b6-48f8-a79a-261b1b1a176c_GreenChilli.png"
+										],
+										"listingVariant": false,
+										"superSaver": true,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "58",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "44",
+												"nanos": 0
+											},
+											"unitLevelPrice": "22/100 g",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "14",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "24% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "24% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Organic",
+										"dimensions": {
+											"lengthInCm": 20,
+											"widthInCm": 15,
+											"heightInCm": 1,
+											"volumeInCc": 300
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": ""
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 3,
+											"quantityLimitBreachedMessage": "Only 3 unit(s) of this item can be added per order."
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 200,
+										"volumetricWeight": 0,
+										"subCategoryType": "Chilli",
+										"secondaryQuantityDescription": "",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Spicy and rich in vitamin C",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/1/21/81c0cb95-3121-4032-853c-e65c10db5c99_GreenChilli_1.png",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/1/21/8477681b-0a36-452a-a072-23192cc4cd37_GreenChilli_2.png",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/1/21/b9912f6b-bc6a-450e-a613-af3e663ac26e_GreenChilli_3.png",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/1/21/55a5d8dc-91a6-4d53-a4e4-c7b4b36ef4a8_GreenChilli_4.png",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/1/22/063a7de6-24b6-48f8-a79a-261b1b1a176c_GreenChilli.png",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									},
+									{
+										"skuId": "8QC1CK7MC6",
+										"spinId": "RN41Y1UNPY",
+										"quantityDescription": "100 g",
+										"displayName": "Organic Certified Green Chilli (Hasiru Menasinakaayi)",
+										"brandName": "Fruits & Vegetables Category",
+										"imageIds": [
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/de5ae31c-bacc-4c34-98e0-73a424894f2d_16997_1.jpg",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/0ca71262-4aa5-42ba-9e68-88398c0804e8_16997_2.jpg",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/132dd57b-13ab-48b5-91a9-71ca1f4241b7_16997_3.jpg",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/bb0a4ea2-6b6c-40ba-a083-059d08358417_16997_4.jpg"
+										],
+										"listingVariant": true,
+										"superSaver": false,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "29",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "23",
+												"nanos": 0
+											},
+											"unitLevelPrice": "",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "6",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "20% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "20% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Organic",
+										"dimensions": {
+											"lengthInCm": 20,
+											"widthInCm": 15,
+											"heightInCm": 1,
+											"volumeInCc": 300
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": ""
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 5,
+											"quantityLimitBreachedMessage": "Only 5 unit(s) of this item can be added per order."
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 100,
+										"volumetricWeight": 0,
+										"subCategoryType": "Chilli",
+										"secondaryQuantityDescription": "",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Spicy and rich in vitamin C",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/de5ae31c-bacc-4c34-98e0-73a424894f2d_16997_1.jpg",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/0ca71262-4aa5-42ba-9e68-88398c0804e8_16997_2.jpg",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/132dd57b-13ab-48b5-91a9-71ca1f4241b7_16997_3.jpg",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/bb0a4ea2-6b6c-40ba-a083-059d08358417_16997_4.jpg",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									}
+								],
+								"badges": [],
+								"source": "",
+								"analytics": {
+									"screenName": "",
+									"context": "{\"itemId\":\"8QC1CK7MC6\",\"slotAvailability\":true}",
+									"objectValue": "",
+									"impressionObjectName": "item-impression",
+									"clickObjectName": "click-item",
+									"attributionContext": "",
+									"extraFields": {
+										"skuAvailable": "true",
+										"storeIDflag": "PRIMARY"
+									},
+									"position": 0
+								},
+								"productId": "8OGW9E1JME",
+								"showQuantity": false,
+								"adTrackingContext": "",
+								"parentProductId": "8JRMRTYWZL",
+								"listingVariantInfo": null,
+								"imageBackground": null
+							},
+							{
+								"displayName": "Onion -Value Pack (Eerulli)",
+								"brand": "Fruits & Vegetables Category",
+								"inStock": true,
+								"isAvail": true,
+								"variations": [
+									{
+										"skuId": "NF6X7M4VAZ",
+										"spinId": "55KAW8FS0O",
+										"quantityDescription": "3 kg",
+										"displayName": "Onion -Value Pack (Eerulli)",
+										"brandName": "Fruits & Vegetables Category",
+										"imageIds": [
+											"6c684affda38df4b0a9a7b6ba43a8bf2",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/80b5f102-bfc7-4db6-a22a-e6f029960cd9_6187_2.jpg",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/ca0b0d6f-6881-4b01-9775-aff4ad8ce5fc_6187_3.jpg",
+											"NI_CATALOG/IMAGES/CIW/2026/3/24/8f4548a2-568c-4417-9a53-2ee78e5b689a_6187_4.jpg"
+										],
+										"listingVariant": true,
+										"superSaver": false,
+										"price": {
+											"mrp": {
+												"currencyCode": "INR",
+												"units": "105",
+												"nanos": 0
+											},
+											"offerPrice": {
+												"currencyCode": "INR",
+												"units": "90",
+												"nanos": 0
+											},
+											"unitLevelPrice": "",
+											"discountValue": {
+												"currencyCode": "INR",
+												"units": "15",
+												"nanos": 0
+											},
+											"offerApplied": {
+												"listingDescription": "14% OFF",
+												"superOffer": false,
+												"movThreshold": 0,
+												"offerHighlights": [
+													{
+														"text": "14% OFF",
+														"textColor": "colorPositive"
+													}
+												]
+											},
+											"maxSaverPrice": null,
+											"flashSalePriceDetails": null,
+											"salePrice": null
+										},
+										"category": "Vegetables",
+										"dimensions": {
+											"lengthInCm": 7,
+											"widthInCm": 7,
+											"heightInCm": 7,
+											"volumeInCc": 343
+										},
+										"slotInfo": {
+											"isAvail": true,
+											"message": ""
+										},
+										"cartAllowedQuantity": {
+											"allowedQuantity": 5,
+											"quantityLimitBreachedMessage": "Only 5 unit(s) of this item can be added per order."
+										},
+										"inventory": {
+											"inStock": true,
+											"lowStockText": ""
+										},
+										"weightInGrams": 3000,
+										"volumetricWeight": 0,
+										"subCategoryType": "Onion",
+										"secondaryQuantityDescription": "",
+										"podId": "1392421",
+										"couponLessOffers": [],
+										"shortDescription": "Zero Sprouting, Zero Smut",
+										"externalPharmacyItem": false,
+										"rxRequired": false,
+										"variationTags": [],
+										"medias": [
+											{
+												"id": "6c684affda38df4b0a9a7b6ba43a8bf2",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/80b5f102-bfc7-4db6-a22a-e6f029960cd9_6187_2.jpg",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/ca0b0d6f-6881-4b01-9775-aff4ad8ce5fc_6187_3.jpg",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											},
+											{
+												"id": "NI_CATALOG/IMAGES/CIW/2026/3/24/8f4548a2-568c-4417-9a53-2ee78e5b689a_6187_4.jpg",
+												"thumbnailId": "",
+												"type": "MEDIA_TYPE_IMAGE",
+												"aspectRatio": null
+											}
+										],
+										"attributeTags": [],
+										"rating": null,
+										"sla": null,
+										"vegClassifier": "VEG_CLASSIFIER_INVALID",
+										"emiInfo": null,
+										"aiAttributeTags": [],
+										"isWishlisted": false,
+										"offerCallouts": [],
+										"stealDealInfo": null,
+										"offerPanels": [],
+										"superCategory": "Fruits and Vegetables",
+										"loudCallout": null,
+										"prebookInfo": null
+									}
+								],
+								"badges": [],
+								"source": "",
+								"analytics": {
+									"screenName": "",
+									"context": "{\"itemId\":\"NF6X7M4VAZ\",\"slotAvailability\":true}",
+									"objectValue": "",
+									"impressionObjectName": "item-impression",
+									"clickObjectName": "click-item",
+									"attributionContext": "",
+									"extraFields": {
+										"skuAvailable": "true",
+										"storeIDflag": "PRIMARY"
+									},
+									"position": 0
+								},
+								"productId": "XIZRGC5VQV",
+								"showQuantity": false,
+								"adTrackingContext": "",
+								"parentProductId": "TXX0TEK4FU",
+								"listingVariantInfo": null,
+								"imageBackground": null
+							}
+						],
+						"widgetId": "116695",
+						"viewType": "VIEW_TYPE_OPEN_ITEM_COLLECTION",
+						"layout": {
+							"rows": 1,
+							"columns": 18,
+							"horizontalScrollEnabled": false,
+							"shouldSnap": false,
+							"itemSpacing": 0,
+							"lineSpacing": 0,
+							"widgetPadding": null,
+							"containerStyle": null,
+							"viewPort": 0,
+							"scrollBar": null,
+							"autoScrollConfig": null,
+							"separatorConfig": null,
+							"backgroundColor": "",
+							"widgetBorderStyle": null,
+							"widgetTheme": null,
+							"ordering": "ORDERING_ROW_WISE",
+							"dotScrollBar": null,
+							"displayStyle": "",
+							"backgroundAssetId": "",
+							"pageScrollBar": null,
+							"scrollAnimationType": "SCROLL_ANIMATION_TYPE_INVALID",
+							"foregroundAsset": null,
+							"isInfiniteScroll": false,
+							"backgroundInfo": null,
+							"gyroConfig": null,
+							"customStyle": null
+						},
+						"collectionId": "90372",
+						"requestId": "e8b5a788-efb3-4ac3-9b93-72da0864305a"
+					},
+					"relevance": null
+				}
+			},
+			{
+				"card": {
+					"card": {
+						"@type": "type.googleapis.com/swiggy.im.v1.InfoCard",
+						"title": "Seller Details",
+						"description": "<p>Seller Name: Greenmania Modern Retail Pvt Ltd - Carmelaram<br><br>Customer Care: instamart.support@swiggy.in</p>",
+						"expand": true,
+						"viewType": "VIEW_TYPE_OUTER",
+						"analytics": null,
+						"additionalInfo": [],
+						"styling": null,
+						"requestId": "e8b5a788-efb3-4ac3-9b93-72da0864305a"
+					},
+					"relevance": null
+				}
+			},
+			{
+				"card": {
+					"card": {
+						"@type": "type.googleapis.com/swiggy.im.v1.InfoCard",
+						"title": "Other Information",
+						"description": "<p>Country Of Origin is India. EAN code: 1086. Store the product in refrigerated conditions. The image(s) shown are representative of the actual product. While every effort has been made to maintain accurate and up to date product related content, it is recommended to read product labels, batch and manufacturing/packing details along with warnings and directions before using or consuming a packed product. For other products or any additional information, please contact the seller and in case you wish to contact the manufacturer/packer, the address mentioned on the product label should be used.</p>",
+						"expand": true,
+						"viewType": "VIEW_TYPE_OUTER",
+						"analytics": null,
+						"additionalInfo": [],
+						"styling": null,
+						"requestId": "e8b5a788-efb3-4ac3-9b93-72da0864305a"
+					},
+					"relevance": null
+				}
+			}
+		],
+		"itemKey": "SMR11XS8VK"
+	},
+	"searchPLV2": {
+		"pageInProgress": false,
+		"pageInError": false,
+		"selectedFilters": null,
+		"data": null,
+		"query": ""
+	},
+	"campaignMxnV2": {
+		"inProgress": false,
+		"pageInProgress": false,
+		"pageInError": false,
+		"error": false,
+		"layoutId": null,
+		"data": null
+	},
+	"categoryListingV2": {
+		"selectedFilters": {},
+		"selectedSubCategoryId": null,
+		"data": null,
+		"navigationTabs": {},
+		"fetch": true,
+		"inProgress": false,
+		"error": false
+	},
+	"collectionListingV2": {
+		"inProgress": false,
+		"pageInProgress": false,
+		"pageInError": false,
+		"error": false,
+		"collectionKeys": {
+			"collectionId": "",
+			"offerId": "",
+			"brand": ""
+		},
+		"data": null,
+		"header": null
+	},
+	"campaignListingV2": {
+		"inProgress": false,
+		"itemsInProgress": false,
+		"pageInProgress": false,
+		"error": false,
+		"layoutId": null,
+		"selectedCollectionInfo": null,
+		"data": null,
+		"navigationCard": null,
+		"header": null
+	},
+	"recipeDirectoryV2": {
+		"inProgress": false,
+		"error": false,
+		"data": null,
+		"header": null
+	},
+	"recipeDetailV2": {
+		"data": null,
+		"header": null,
+		"error": false,
+		"recipeId": null
+	},
+	"reorderV2": {
+		"inProgress": false,
+		"itemsInProgress": false,
+		"pageInProgress": false,
+		"error": false,
+		"layoutId": null,
+		"selectedCollectionId": "",
+		"data": null,
+		"navigationCard": null,
+		"header": null
+	}
+}
